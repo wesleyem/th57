@@ -1,8 +1,33 @@
 # TH-57B/C Systems
 
 Table of Contents
-[General](#general) 
-[Airframe](#airframe) 
+
+[Introduction to the TH-57](#introduction-to-the-th-57)
+
+ - [General](#general) 
+ - [Airframe](#airframe) 
+ - [Cargo Hook](#cargo-hook)
+ - [Lighting Systems](#lighting-systems)
+ - [Pitot System](#pitot-system)
+ - [Seat Restraints, Doors, and Caution Panel](#seat-restraints-doors-and-caution-panel)
+
+[Rolls-Royce 250-C20J Turboshaft Engine](#rolls-royce-250-c20j-turboshaft-engine)
+
+[Fuel System](#fuel-system)
+
+[Power Train](#power-train)
+
+[Main Rotor, Tail Rotor, and Flight Control System](#main-rotor-tail-rotor-and-flight-control-system)
+
+[Hydraulic System](#hydraulic-system)
+
+[Environmental Control System](#environmental-control-system)
+
+[TH-57B Electrical System](#th-57b-electrical-system)
+
+[TH-57C Electrical System](#th-57c-electrical-system)
+
+[The Ministab System](#the-ministab-system)
 
 ---
 ### Introduction to the TH-57
@@ -11,32 +36,32 @@ Table of Contents
  - Land-based, skid-configured utility type helicopter
  - Designed for reasonably level terrain
  - Roll Royce 250-C20J Turboshaft engine
- - Main rotor diameter 33'4''
- - Max T/O gross 3200 lbs.
- - Max forward A/S (std cond) 130 kts
- - Max sideward A/S (std cond) 25 kts
- - Max rearward A/S (std cond) 15 kts
+ - Main rotor diameter `33'4''`
+ - Max T/O gross `3200 lbs`
+ - Max forward A/S (std cond) `130 kts`
+ - Max sideward A/S (std cond) `25 kts`
+ - Max rearward A/S (std cond) `15 kts`
 #### Airframe
  - Forward/cabin
- -- Aluminum honeycomb covered with fiberglass or aluminum skin
+   - Aluminum honeycomb covered with fiberglass or aluminum skin
  - Landing Gear
- -- Tail skid is stressed for loads of 200 lbs downward or 400 lbs upward
+   - Tail skid is stressed for loads of `200 lbs downward` or `400 lbs upward`
  - Cowling
- -- 4 sections : foward, induction, engine and aft fairings
+   - 4 sections : foward, induction, engine and aft fairings
  - Tail boom
- -- Full monocoque aluminum structure
- -- Main purpose is to "provide an extended support to mount the tail rotor"
- -- Other functions : supporting horizontal stab, vert fin section, tail rotor drive shaft, and tail rotor gearbox
- -- Horizontal stab is mounted at the mid point with negative camber
+   - Full monocoque aluminum structure
+   - Main purpose is to `"provide an extended support to mount the tail rotor"`
+   - Other functions : supporting horizontal stab, vert fin section, tail rotor drive shaft, and tail rotor gearbox
+   - Horizontal stab is mounted at the mid point with negative camber
  - Vertical fin
- -- semimonocoque aluminum honeycomb/skin
- -- 5.5 degree offset from longitudinal axis assists in countering torque
+   - semimonocoque aluminum honeycomb/skin
+   - `5.5 degree` offset from longitudinal axis assists in countering torque
 #### Cargo Hook
- - Structural weight capacity of 1500 lbs (lift capability may be much less)
+ - Structural weight capacity of `1500 lbs` (lift capability may be much less)
  - 3 release mechanisms
- -- (electrical) switch on either cyclic activates solenoid on the hook assembly
- -- (mechanical) "T" handle connected to a cable assembly attached to the hook
- -- (mechanical) located on the hook itself used by the ground handler
+   - `electrical` switch on either cyclic activates solenoid on the hook assembly
+   - `mechanical` "T" handle connected to a cable assembly attached to the hook
+   - `mechanical` located on the hook itself used by the ground handler
 #### Lighting Systems
 All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by circuit breakers and circuit breaker type switches.
 ![Image](https://github.com/wesleyem/th57/blob/master/figure1-8.PNG?raw=true)
@@ -52,13 +77,13 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
  #### Seat Restraints, Doors, and Caution Panel
 ##### Seat
  - Pilot & Copilot
- -- lap belts and interia reel shoulder harness with manual lock-unlock handle (handle located on left side of both seats)
- -- In unlocked position, systems allows pilot to lean foward until a longitudinal impact and deceleration force of 2-3Gs
+   - lap belts and interia reel shoulder harness with manual lock-unlock handle (handle located on left side of both seats)
+   - In unlocked position, systems allows pilot to lean foward until a longitudinal impact and deceleration force of `2-3Gs`
 ##### Doors
  - Both cockpit doors are jettisonable in an emergency or removable during external lifts
 ##### Caution Panel
  - Located on instrument panel
- - Protected by the CAUTION LT c/b
+ - Protected by the `CAUTION LT` c/b
 
 ---
 ### Rolls-Royce 250-C20J Turboshaft Engine
