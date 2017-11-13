@@ -79,7 +79,7 @@
 
 #### Lighting Systems
 All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by circuit breakers and circuit breaker type switches.
-![Image](https://github.com/wesleyem/th57/blob/master/figure1-8.PNG?raw=true)
+![Image](https://github.com/wesleyem/th57/blob/master/images/figure1-8.PNG?raw=true)
 
 #### Pitot System
  - Pitot tube : suplies impact air to the a/s indicator
@@ -108,8 +108,33 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
 ### Rolls-Royce 250-C20J Turboshaft Engine
 
 #### Engine, Engine Oil System, and Engine Controls
+ - [Axial-centrifugal Compressor](#compressor-section)
+ - [Single 'can'-type Combustor](#combustion-section)
+ - [Turbine assembly](#turbine-section)
+ 	- two-stage power turbine
+ 	- exhaust collector
+ - [Accessory gearbox](#accessory-gearbox)
+ 	- gas producer gear train
+ 	- power turbine gear train
+ - `420 SHP` but only `317 SHP` is usable
+![Image](https://github.com/wesleyem/th57/blob/master/images/figure2-1.PNG?raw=true)
 
 #### Compressor Section
+ 
+![Image](https://github.com/wesleyem/th57/blob/master/images/figure2-2.PNG?raw=true)
+ 4 subassemblies
+ - Front support
+
+    Aerodynamically designed air inlet with seven hollow struts and front bearings for the rotor. Hollow struts are part of the anti-ice system. Struts serve as inlet guide vanes, which ensure air strikes the first stage compressor at the proper angle
+
+ - Compressor rotor blades and wheels
+
+    Six-stage axial compressor and one-stage centrifugal compressor. A bleed air control valve is mounted on the 5th stage of the compressor. By the time the air is collected in the diffuser scroll, is has been compressed to `6.5` times ambient pressure and has risen to a temperature of `500 degrees` Fahrenheit. The compressor bleed air system is an entirely automatic system
+
+ - Case assemblies
+ - Diffuser scroll
+
+    Contains ports for air to be bled for anti-icing, cabin heat, and a compressor discharge air pressure [(monitored by the fuel control system)](#engine-controls)
 
 #### Combustion Section
 
