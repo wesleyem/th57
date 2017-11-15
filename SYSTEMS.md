@@ -144,7 +144,7 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
  - Case assemblies
  - Diffuser scroll
 
-    Contains ports for air to be bled for anti-icing, cabin heat, and a compressor discharge air pressure [(monitored by the fuel control system)](#engine-controls)
+    Contains ports for air to be bled for [anti-icing](#anti-ice-system), cabin heat, and a compressor discharge air pressure [(monitored by the fuel control system)](#engine-controls)
 
 #### Combustion Section
 
@@ -273,22 +273,63 @@ After the oil is delivered to the engine components it will drain into the sump 
 
 #### Anti-Ice System
 
-Used to prevent ice formation on the [`compressor front support`](#compressor-section)
-
-
+Used to prevent ice formation on the [`compressor front support`](#compressor-section). System operation selectable by pilot. Air used for this system comes from the bleed air from the diffuser scroll in the [`compressor section`](#compressor-section)
 
 #### Engine Fire Detector System
 
+`ENG FIRE` warning light activates on the caution panel if excessive heat is sensed from the sensing tube located in the engine compartment. This trips a pressure switch which activates the light.
+
+`FIRE DET TEST` switch is used to test the proper functioning of the `ENG FIRE` bulb, electrical circuitry, and sensing element integrity.
+
 #### Engine Failure Warning System
+
+`ENG OUT` warning light and audible tone is activated when `N<sub>g</sub>` drops below `55+/-3 percent` RPM.
+ - The sensor is connected to the `N<sub>g</sub>` [tachometer-generator](#accessory-gearbox)
+
+`ROTOR LOW RPM` caution light and audible tone is activated when `N<sub>r</sub>` drops below `90+/-3 percent` RPM.
+ - The sensor is connected to the `N<sub>r</sub>` [tachometer-generator](#accessory-gearbox)
+ - A sensing switch on the collective disables the audio unit when the collective is approx 1 inch of full down position
+
+ - Audio mute switch
+    - Location: caution panel (left)
+    - silences headset warning for `ENG OUT` and `ROTOR LOW RPM`
+    - CABIN WARNING HORS REMAIN FUNCTIONAL
 
 #### Engine Controls
 
+See section 213
+
 #### Meters and Gauges
-###### Torquemeter
+
+---
+
 ###### Turbine Outlet Temperature Indicator
+
+`TOT` gauge receives information from four sets of thermocouples on the [engine turbine section](#turbine-section).
+
+Receives power from the:
+ - TH-57B Common BUS
+ - TH-57C Essential #2 BUS
+
 ###### Gas Producter Tachometer
+
+Shows RPM of the [gas power turbine](#turbine-section).
+
+Receives power by the gas producer tachometer-generator.
+
 ###### Dual Tachometer
+
+Needle marked `T` indicates power turbine RPM (N<sub>f</sub>).
+Needle marked `R` indicates main rotor RPM (N<sub>r</sub>)
+
+Receives input from two tachometer-generators
+
 ###### Engine Oil and Pressure Gauge
+
+Temperature Gauge is connected to an electrical resistance-type bulb located in the engine oil tank.
+
+Pressure gauge is a wet-line system requiring no electrical power
+
 ---
 ### Fuel System
 ---
