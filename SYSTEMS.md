@@ -36,6 +36,8 @@
 	1. [Meters and Gauges](#meters-and-gauges)
 
 1. [Fuel System](#fuel-system)
+    1. [TH-57B/C Fuel System](#th-57bc-fuel-system)
+    1. [Airframe Filter](#airframe-filter)
 
 1. [Power Train](#power-train)
 
@@ -332,6 +334,11 @@ Pressure gauge is a wet-line system requiring no electrical power
 
 ---
 ### Fuel System
+
+#### TH-57B/C Fuel System
+
+#### Airframe Filter
+
 ---
 ### Power Train
 ---
