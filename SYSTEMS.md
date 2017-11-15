@@ -285,11 +285,11 @@ Used to prevent ice formation on the [`compressor front support`](#compressor-se
 
 #### Engine Failure Warning System
 
-`ENG OUT` warning light and audible tone is activated when `N<sub>g</sub>` drops below `55+/-3 percent` RPM.
- - The sensor is connected to the `N<sub>g</sub>` [tachometer-generator](#accessory-gearbox)
+`ENG OUT` warning light and audible tone is activated when N<sub>g</sub> drops below `55+/-3 percent` RPM.
+ - The sensor is connected to the N<sub>g</sub> [tachometer-generator](#accessory-gearbox)
 
-`ROTOR LOW RPM` caution light and audible tone is activated when `N<sub>r</sub>` drops below `90+/-3 percent` RPM.
- - The sensor is connected to the `N<sub>r</sub>` [tachometer-generator](#accessory-gearbox)
+`ROTOR LOW RPM` caution light and audible tone is activated when N<sub>r</sub> drops below `90+/-3 percent` RPM.
+ - The sensor is connected to the N<sub>r</sub> [tachometer-generator](#accessory-gearbox)
  - A sensing switch on the collective disables the audio unit when the collective is approx 1 inch of full down position
 
  - Audio mute switch
