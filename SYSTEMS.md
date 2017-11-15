@@ -337,6 +337,19 @@ Pressure gauge is a wet-line system requiring no electrical power
 
 #### TH-57B/C Fuel System
 
+ - Fuel Cell
+    - Located below and aft of the passenger seat
+    - crash-resistant
+    - not self-sealing
+    - `91 gal` capacity (TH-57C)
+    - `76 gal` capacity (TH-57B)
+    - refillable via gravity and pressure systems
+       - `40 psi` max
+
+ - Fuel Boost Pumps
+    - 2 connected by hose
+    - 
+
 #### Airframe Filter
 
 ---
