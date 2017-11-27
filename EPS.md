@@ -14,7 +14,7 @@
 3. Cabin Heat Valve ... **ON**
 4. Check power available
 
-##### if power is insufficient to maintain level flight:
+##### If power is insufficient to maintain level flight:
 
 5. Autorotate
 6. Twist grip ... **Flight Idle**
@@ -22,4 +22,12 @@
 ##### If power is sufficient to maintain level flight:
 
 7. Land as soon as possible
+
+### Engine Overspeed (Nf) Rotor RPM (Nr)
+
+1. Twist grip ... **Reduce (to maintain N<sub>f</sub>/N<sub>r</sub>) in operating range)**
+2. Collective/twist grip ... **Coordinate**
+	> Note: The N<sub>f</sub> overspeed must be controlled by coordinating collective and twist grip
+3. Land as soon as possible
+
 
