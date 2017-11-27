@@ -8,10 +8,7 @@
 ### Compressor Stall
 
 1. Collective			Lower
-
-###### Note
-Power (collective) reduction will often eliminate compressor stalls.
-
 1. ENG Anti-ice switch	ON
 1. Cabin Heat Valve		ON
 
+###### Note: Power (collective) reduction will often eliminate compressor stalls.
