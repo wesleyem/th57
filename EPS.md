@@ -662,4 +662,3 @@ If either gauge fluctuates erratically, engine oil pressure does not indicate wi
 2. Cyclic ... **Neutral**
 
 ---
-
