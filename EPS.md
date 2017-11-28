@@ -1,6 +1,82 @@
 # Emergency Procedures
 
+Considerations:
+ - (C) means it applies to the TH-57C only
+ - The only steps listed here are Memory Items
+ - Notes, Warnings, and Cautions have been embedded in the EPs as they appear in the PCL
+
+## Table of Contents
+
+1. [Engine](#engine)
+
+   1. [Abort Start](#abort-start)
+   1. [Compressor Stall](#compressor-stall)
+   1. [Engine Overspeed (N<sub>f</sub>) Rotor RPM (N<sub>r</sub>)](#engine-overspeed-nf-rotor-rpm-nr)
+   1. [Underspeeding (N<sub>f</sub>/N<sub>r</sub>)](#underspeeding-nfnr)
+   1. [Fuel Control Failure](#fuel-control-failure)
+   1. [Engine Restart in Flight](#engine-restart-in-flight)
+   1. [Emergency Shutdown](#emergency-shutdown)
+
+1. [Transmission](#transmission)
+
+   1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
+   1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
+   1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
+   1. [Imminent Transmission Failure](#imminent-transmission-failure)
+
+1. [Fuel/Hydraulic](#fuelhydraulic)
+
+   1. [Fuel Boost Pump Failure](#fuel-boost-pump-failure)
+   1. [Suspected Fuel Leakage](#suspected-fuel-leakage)
+   1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
+
+1. [Fire](#fire)
+
+   1. [Electrical Fire - Known Origin](#electrical-fire---known-origin)
+   1. [Electrical Fire - Unknown Origin](#electrical-fire---unknown-origin)
+   1. [Engine Fire in Flight](#engine-fire-in-flight)
+   1. [Fuselage Fire](#fuselage-fire)
+   1. [Smoke and Fume Elimination](#smoke-and-fume-elimination)
+   1. [Post Shutdown Fire (Internal)](#post-shutdown-fire-internal)
+
+1. [Mast Bumping/Tail Rotor](#mast-bumpingtail-rotor)
+
+   1. [Mast Bumping](#mast-bumping)
+   1. [Uncommanded Right Roll During Flight Below 1G](#uncommanded-right-roll-during-flight-below-1g)
+   1. [Fixed Pitch (Low Power)](#fixed-pitch-low-power)
+   1. [Fixed Pitch (High Power)](#fixed-pitch-high-power)
+   1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
+   1. [High-Frequency Vibration](#high-frequency-vibration)
+   1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
+
+1. [Autorotation](#autorotation)
+
+   1. [Autorotation](#autorotation-1)
+   1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
+   1. [Emergency Descent](#emergency-descent)
+   1. [Emergency Egress](#emergency-egress)
+
+1. [Flight/Instruments/Icing](#flightinstrumentsicing)
+
+   1. [Pitot-Static Instruments](#pitot-static-instruments)
+   1. [Torquemeter](#torquemeter)
+   1. [Engine or Transmission Oil Pressures](#engine-or-transmission-oil-pressures)
+   1. [Engine or Transmission Oil Temperatures](#engine-or-transmission-oil-temperatures)
+   1. [Icing](#icing)
+   1. [Power Required Exceeds Power Available](#power-required-exceeds-power-available)
+   1. [Vortex Ring State](#vortex-ring-state)
+   1. [Rotor Blade Stall](#rotor-blade-stall)
+   1. [Dynamic Rollover](#dynamic-rollover)
+
 ## Engine
+
+1. [Abort Start](#abort-start)
+1. [Compressor Stall](#compressor-stall)
+1. [Engine Overspeed (N<sub>f</sub>) Rotor RPM (N<sub>r</sub>)](#engine-overspeed-nf-rotor-rpm-nr)
+1. [Underspeeding (N<sub>f</sub>/N<sub>r</sub>)](#underspeeding-nfnr)
+1. [Fuel Control Failure](#fuel-control-failure)
+1. [Engine Restart in Flight](#engine-restart-in-flight)
+1. [Emergency Shutdown](#emergency-shutdown)
 
 ---
 ### Abort Start
@@ -97,6 +173,11 @@
 
 ## Transmission
 
+1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
+1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
+1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
+1. [Imminent Transmission Failure](#imminent-transmission-failure)
+
 ---
 ### Main Drive Shaft Failure
 
@@ -152,6 +233,10 @@
 
 ## Fuel/Hydraulic
 
+1. [Fuel Boost Pump Failure](#fuel-boost-pump-failure)
+1. [Suspected Fuel Leakage](#suspected-fuel-leakage)
+1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
+
 ---
 ### Fuel Boost Pump Failure
 
@@ -193,6 +278,13 @@
 ---
 
 ## Fire
+
+1. [Electrical Fire - Known Origin](#electrical-fire---known-origin)
+1. [Electrical Fire - Unknown Origin](#electrical-fire---unknown-origin)
+1. [Engine Fire in Flight](#engine-fire-in-flight)
+1. [Fuselage Fire](#fuselage-fire)
+1. [Smoke and Fume Elimination](#smoke-and-fume-elimination)
+1. [Post Shutdown Fire (Internal)](#post-shutdown-fire-internal)
 
 ---
 ### Electrical Fire - Known Origin
@@ -267,6 +359,14 @@ Final condition and steps 7-15 are non-memory items.
 
 ---
 ## Mast Bumping/Tail Rotor
+
+1. [Mast Bumping](#mast-bumping)
+1. [Uncommanded Right Roll During Flight Below 1G](#uncommanded-right-roll-during-flight-below-1g)
+1. [Fixed Pitch (Low Power)](#fixed-pitch-low-power)
+1. [Fixed Pitch (High Power)](#fixed-pitch-high-power)
+1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
+1. [High-Frequency Vibration](#high-frequency-vibration)
+1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
 
 ---
 ### Mast Bumping
@@ -380,6 +480,11 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 ---
 ## Autorotation
 
+1. [Autorotation](#autorotation-1)
+1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
+1. [Emergency Descent](#emergency-descent)
+1. [Emergency Egress](#emergency-egress)
+
 ---
 ### Autorotation
 
@@ -439,6 +544,16 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 
 ---
 ## Flight/Instruments/Icing
+
+1. [Pitot-Static Instruments](#pitot-static-instruments)
+1. [Torquemeter](#torquemeter)
+1. [Engine or Transmission Oil Pressures](#engine-or-transmission-oil-pressures)
+1. [Engine or Transmission Oil Temperatures](#engine-or-transmission-oil-temperatures)
+1. [Icing](#icing)
+1. [Power Required Exceeds Power Available](#power-required-exceeds-power-available)
+1. [Vortex Ring State](#vortex-ring-state)
+1. [Rotor Blade Stall](#rotor-blade-stall)
+1. [Dynamic Rollover](#dynamic-rollover)
 
 ---
 ### Pitot-Static Instruments
