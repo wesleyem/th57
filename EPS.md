@@ -87,9 +87,9 @@ Considerations:
 ---
 ### Compressor Stall
 
-> **Warning**: Be prepared for an engine failure
+> Warning: Be prepared for an engine failure
 1. Collective ... **Lower**
-    > Note: Power (collective) reduction will often eliminate compressor stalls.
+> Note: Power (collective) reduction will often eliminate compressor stalls.
 2. ENG Anti-ice switch ... **ON**
 3. Cabin Heat Valve ... **ON**
 4. Check power available
@@ -121,12 +121,12 @@ Considerations:
 ##### If underspeed persists:
 
 4. Check power available with N<sub>r</sub> in limits
-    > Note: Power available is considered to be sufficient if level flight can be maintained with N<sub>r</sub> at 90% or higher. Do not decelerate below 50 KIAS (min power airspeed) while executing a power check
+> Note: Power available is considered to be sufficient if level flight can be maintained with N<sub>r</sub> at 90% or higher. Do not decelerate below 50 KIAS (min power airspeed) while executing a power check
 
 ##### If power is not sufficient:
 
 5. Autorotate
-    > Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent en route to a more suitable site for autorotation.
+> Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent en route to a more suitable site for autorotation.
 
 ##### If sufficient power is available:
 
@@ -183,7 +183,7 @@ Considerations:
 
 1. Autorotate
 2. Twist grip ... **Adjust, if necessary, to maintain N<sub>f</sub> in operating range**
-    > Warning: The engine must continue to operate to provide tail rotor drive. Tail rotor authority may be lost if N<sub>f</sub> is allowed to go below 80%
+> Warning: The engine must continue to operate to provide tail rotor drive. Tail rotor authority may be lost if N<sub>f</sub> is allowed to go below 80%
 
 ##### When on deck:
 
@@ -202,7 +202,7 @@ Considerations:
 ##### If Nf/Nr are married:
 
 4. Collective ... **Increase**
-    > Note: Multiple attempts to reengage the sprag clutch are permitted dependent on time and altitude.
+> Note: Multiple attempts to reengage the sprag clutch are permitted dependent on time and altitude.
 
 ##### If sprag clutch continues to slip:
 
@@ -243,7 +243,7 @@ Considerations:
 1. Descent ... **Initiate if above 6,000 feet PA and flight permits**
 2. Fuel pressure and quantity ... **Note**
 
-    > Warning: With one or both boost pumps inoperative, minimum fuel is 20 gallons; 10 gallons is unusable
+> Warning: With one or both boost pumps inoperative, minimum fuel is 20 gallons; 10 gallons is unusable
 
 ##### If both fuel boost pumps have failed (fuel pressure at zero):
 
@@ -261,19 +261,19 @@ Considerations:
 2. Transmit position and intentions
 3. Unnecessary electrical equipment ... **Secure**
 
-   > Warning: If an air leak exists in the fuel lines between the boost pumps and engine, turning off all electrical power could cause and engine flameout due to a total loss of boost pump pressure.
+> Warning: If an air leak exists in the fuel lines between the boost pumps and engine, turning off all electrical power could cause and engine flameout due to a total loss of boost pump pressure.
 
 ---
 
 ### Hydraulic Power Cylinder Malfunction
 
 1. HYDRAULIC BOOST switch ... **OFF**
-   > Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out
+> Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out
 
 2. Helicopter ... **Regain control**
 3. Airspeed ... **Adjust (to obtain most comfortable control movement level)**
 4. Land as soon as possible
-   > Warning: In the event of a complete loss of electrical power in the TH-57B or a failure of the ESS No. 2 bus in the TH-57C, the hydraulic system will reenergize in the malfunction mode. The pilot will be unable to override the hydraulic boost solenoid.
+> Warning: In the event of a complete loss of electrical power in the TH-57B or a failure of the ESS No. 2 bus in the TH-57C, the hydraulic system will reenergize in the malfunction mode. The pilot will be unable to override the hydraulic boost solenoid.
 
 ---
 
@@ -445,8 +445,8 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 
 2. Land as soon as possible
 
-   > Warning: Be prepared to execute Complete Loss of Tail Rotor Thrust procedures
-   > Warning: Increased power settings required to accomplish a normal approach may ultimately precipitate the complete failure of a malfunctioning tail rotor. Be prepared for uncommanded right yaw in the event of complete loss of tail toro thrust during the approach. Consideration should be given to maintaining an autorotative profile or low-powered approach.
+> Warning: Be prepared to execute Complete Loss of Tail Rotor Thrust procedures
+> Warning: Increased power settings required to accomplish a normal approach may ultimately precipitate the complete failure of a malfunctioning tail rotor. Be prepared for uncommanded right yaw in the event of complete loss of tail toro thrust during the approach. Consideration should be given to maintaining an autorotative profile or low-powered approach.
 
 ---
 ### Complete Loss of Tail Rotor Thrust
@@ -512,7 +512,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 ### Engine Failure at High Airspeed and Low Altitude
 
 1. Cyclic ... **Immediately apply aft**
-   > Warning: Rapid cyclic movement may cause mast bumping
+> Warning: Rapid cyclic movement may cause mast bumping
 2. Autorotate
 
 ---
@@ -520,7 +520,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 
 1. Collective ... **Lower (to minimum pitch)**
 2. Airspeed ... **130 KIAS (122 KIAS Maximum with FCS on)**
-   > Note: During recovery N<sub>r</sub> may tend to overspeed
+> Note: During recovery N<sub>r</sub> may tend to overspeed
 
 ---
 ### Emergency Egress
@@ -533,7 +533,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 6. SEBD ... **Don, as required**
 7. Communication cords ... **Disconnect**
 8. Doors ... **Open/jettison, as required**
-   > Warning: Jettisoning the left side cabin in forward flight may cause catastrophic damage to the tail rotor
+> Warning: Jettisoning the left side cabin in forward flight may cause catastrophic damage to the tail rotor
 
 ##### After all violent motion has stopped:
 
@@ -586,11 +586,11 @@ The engine shall be shut down if transmission oil pressure exceeds 70 psi or eng
 ##### Airborne:
 If either gauge fluctuates erratically, engine oil pressure does not indicate within normal range, or transmission oil pressure is not within 30 to 70 psi:
 1. Land as soon as possible
-   > Warning: With suspected transmission malfuctions, the pilot should make an approach with minimum power change to minimize changes to transmission torque.
+> Warning: With suspected transmission malfuctions, the pilot should make an approach with minimum power change to minimize changes to transmission torque.
 
-   > Note: Check the transmission oil pressure with the twist grip full open. Illumination of the TRANS OIL PRESS caution light is common, while the twist grip is as flight idle; however, the gauge should indicate positive transmission oil pressure.
+> Note: Check the transmission oil pressure with the twist grip full open. Illumination of the TRANS OIL PRESS caution light is common, while the twist grip is as flight idle; however, the gauge should indicate positive transmission oil pressure.
 
-   > Note: There is no detrimental effect to the transmission system with oil pressure between 50 to 70 psi with transmission temperature within limits. Pressure indications between 50 to 70 psi shall be documented on a MAF upon completion of flight.
+> Note: There is no detrimental effect to the transmission system with oil pressure between 50 to 70 psi with transmission temperature within limits. Pressure indications between 50 to 70 psi shall be documented on a MAF upon completion of flight.
 
 ---
 ### Engine or Transmission Oil Temperatures
@@ -621,7 +621,7 @@ If either gauge fluctuates erratically, engine oil pressure does not indicate wi
 
 5. Land as soon as possible
 
-   > Warning: Monitor engine instruments and be prepared for partial or complete power loss
+> Warning: Monitor engine instruments and be prepared for partial or complete power loss
 
 ---
 ### Power Required Exceeds Power Available
