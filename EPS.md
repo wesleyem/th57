@@ -379,3 +379,172 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 
 ---
 ## Autorotation
+
+---
+### Autorotation
+
+1. Autorotation ... **Establish**
+   1. Maintain N<sub>r</sub> between 90 to 107%, ball centered and airspeed below 100 KIAS
+   2. At approximately 100 feet AGL, ensure a 60 knot attitude
+2. Autorotative landing ... **Execute**
+   1. Apply cyclic flare and collective pitch as required to reduce rate of descent and groundspeed
+   2. Ensure skids are level and nose aligned with direction of travel prior to touchdown
+   3. Continue to increase collective to cushion landing
+
+---
+### Engine Failure in Flight
+
+1. Autorotate
+2. Shoulder harness ... **Lock**
+
+##### If time and altitude permit:
+
+3. Mayday ... **Transmit**
+4. Transponder ... **Emergency**
+5. Engine Restart in Flight ... **Perform, as required**
+
+---
+### Engine Failure at High Airspeed and Low Altitude
+
+1. Cyclic ... **Immediately apply aft**
+   > Warning: Rapid cyclic movement may cause mast bumping
+2. Autorotate
+
+---
+### Emergency Descent
+
+1. Collective ... **Lower (to minimum pitch)**
+2. Airspeed ... **130 KIAS (122 KIAS Maximum with FCS on)**
+   > Note: During recovery N<sub>r</sub> may tend to overspeed
+
+---
+### Emergency Egress
+
+1. PIC ... **Calls for abandon aircraft**
+2. Shoulder harness ... **Lock**
+3. Mayday ... **Transmit**
+4. Transponder ... **Emergency**
+5. Emergency Engine Shutdown .. **Perform as required**
+6. SEBD ... **Don, as required**
+7. Communication cords ... **Disconnect**
+8. Doors ... **Open/jettison, as required**
+   > Warning: Jettisoning the left side cabin in forward flight may cause catastrophic damage to the tail rotor
+
+##### After all violent motion has stopped:
+
+9. Place hand on known reference point
+10. Shoulder harness/lapbelt ... **Release**
+11. Helicopter ... **Egress**
+12. LPU ... **Inflate as required**
+
+---
+## Flight/Instruments/Icing
+
+---
+### Pitot-Static Instruments
+
+##### If the airspeed, vertical speed, or altimeter fluctuates erratically or gives apparently false indications while power and attitude instruments are normal, proceed as follows:
+1. PITOT HEAT switch(es) ... **HEAT**
+
+##### Monitor cruise power settings and nose attitude to maintain altitude and airspeed. If pitot heat does not remedy the situation, accomplish the following:
+2. (C) Alternate static source knob ... **Pull**
+
+##### If icing conditions are present:
+3. Icing procedures ... **Execute**
+
+##### If icing conditions are not present:
+4. Land as soon as practicable
+
+---
+### Torquemeter
+
+##### If the torquemeter needle is unusually low or falls to zero with a corresponding digital readout, it is probable that the torque line has ruptured. A restrictor fitting in the wet line will slow the rate of engine oil loss, but will not stem the flow
+1. Monitor engine instruments
+2. Land as soon as possible
+
+---
+### Engine or Transmission Oil Pressures
+
+##### On ground:
+The engine shall be shut down if transmission oil pressure exceeds 70 psi or engine oil pressure exceeds 150 psi
+
+##### Airborne:
+If either gauge fluctuates erratically, engine oil pressure does not indicate within normal range, or transmission oil pressure is not within 30 to 70 psi:
+1. Land as soon as possible
+   > Warning: With suspected transmission malfuctions, the pilot should make an approach with minimum power change to minimize changes to transmission torque.
+
+   > Note: Check the transmission oil pressure with the twist grip full open. Illumination of the TRANS OIL PRESS caution light is common, while the twist grip is as flight idle; however, the gauge should indicate positive transmission oil pressure.
+
+   > Note: There is no detrimental effect to the transmission system with oil pressure between 50 to 70 psi with transmission temperature within limits. Pressure indications between 50 to 70 psi shall be documented on a MAF upon completion of flight.
+
+---
+### Engine or Transmission Oil Temperatures
+
+##### If either oil temperature gauge indicator exceeds red line limitations:
+
+1. Land as soon as possible
+
+##### If either oil temperature gauge fluctuates or falls to zero:
+
+2. Land as soon as practicable
+
+---
+### Icing
+
+1. ENG ANTI-ICING ... **ON**
+2. PITOT HEAT switches ... **HEAT**
+
+##### If icing conditions are present:
+
+3. (C) Alternate static source knob ... **As required**
+
+##### If icing conditions are not present:
+
+4. Descend or climb to a warmer temperature of vacate clouds/moisture
+
+##### If unable to get clear of icing conditions:
+
+5. Land as soon as possible
+
+   > Warning: Monitor engine instruments and be prepared for partial or complete power loss
+
+---
+### Power Required Exceeds Power Available
+
+1. Collective ... **Lower as required to maintain a minimum of 90% N<sub>r</sub>**
+2. Twist grip ... **Full open**
+3. Angle of bank ... **Level wings**
+4. Airspeed ... **Adjust to 50 KIAS (minimum power required airspeed)**
+5. Jettison ... **As required**
+
+##### If impact is imminent:
+
+6. Level the aircraft to conform to terrain
+7. Cushion the landing
+
+---
+### Vortex Ring State
+
+1. Collective ... **Decrease**
+2. Cyclic ... **Forward to gain airspeed**
+
+##### If impact is imminent:
+3. Level skids to conform to terrain
+
+---
+### Rotor Blade Stall
+
+1. Severity of maneuver ... **Decrease**
+2. Collective pitch ... **Decrease**
+3. Airspeed ... **Decrease**
+4. Altitude ... **Descend, if flight permits**
+5. Rotor rpm ... **Increase**
+
+---
+### Dynamic Rollover
+
+1. Collective ... **Lower to stop the roll**
+2. Cyclic ... **Neutral**
+
+---
+
