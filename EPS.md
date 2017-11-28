@@ -88,8 +88,11 @@ Considerations:
 ### Compressor Stall
 
 > Warning: Be prepared for an engine failure
+
 1. Collective ... **Lower**
+
 > Note: Power (collective) reduction will often eliminate compressor stalls.
+
 2. ENG Anti-ice switch ... **ON**
 3. Cabin Heat Valve ... **ON**
 4. Check power available
@@ -108,7 +111,9 @@ Considerations:
 
 1. Twist grip ... **Reduce (to maintain N<sub>f</sub>/N<sub>r</sub>) in operating range)**
 2. Collective/twist grip ... **Coordinate**
-	> Note: The N<sub>f</sub> overspeed must be controlled by coordinating collective and twist grip
+
+> Note: The N<sub>f</sub> overspeed must be controlled by coordinating collective and twist grip
+
 3. Land as soon as possible
 
 ---
@@ -121,11 +126,13 @@ Considerations:
 ##### If underspeed persists:
 
 4. Check power available with N<sub>r</sub> in limits
+
 > Note: Power available is considered to be sufficient if level flight can be maintained with N<sub>r</sub> at 90% or higher. Do not decelerate below 50 KIAS (min power airspeed) while executing a power check
 
 ##### If power is not sufficient:
 
 5. Autorotate
+
 > Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent en route to a more suitable site for autorotation.
 
 ##### If sufficient power is available:
@@ -157,6 +164,7 @@ Considerations:
 ##### If light-off occurs:
 
 7. Land as soon as possible
+
 > Note: Main generator and BUS/TIE Relay (C) may need to be reset
 
 ---
@@ -168,7 +176,9 @@ Considerations:
 4. (C) STBY ATT IND switch ... **OFF**
 5. (C) Rotor brake ... **Engage immediately**
 6. Helicopter ... **Egress and use the fire bottle as required to extinguish the fire or get clear of the aircraft**
+
 > Warning: After exiting aircraft, beware of rotor blades
+
 ---
 
 ## Transmission
@@ -183,6 +193,7 @@ Considerations:
 
 1. Autorotate
 2. Twist grip ... **Adjust, if necessary, to maintain N<sub>f</sub> in operating range**
+
 > Warning: The engine must continue to operate to provide tail rotor drive. Tail rotor authority may be lost if N<sub>f</sub> is allowed to go below 80%
 
 ##### When on deck:
@@ -202,6 +213,7 @@ Considerations:
 ##### If Nf/Nr are married:
 
 4. Collective ... **Increase**
+
 > Note: Multiple attempts to reengage the sprag clutch are permitted dependent on time and altitude.
 
 ##### If sprag clutch continues to slip:
@@ -220,12 +232,14 @@ Considerations:
 
 1. Ensure twist grip is full open
 2. Land as soon as possible
+
 > Warning: If suspected during a practive autorotation, execute a waveoff
 
 ---
 ### Imminent Transmission Failure
 
 > Warning: Excessive power changes may accelerate trasmission degradation
+
 1. Land immediately
 2. Shoulder harness ... **Lock**
 
@@ -268,11 +282,13 @@ Considerations:
 ### Hydraulic Power Cylinder Malfunction
 
 1. HYDRAULIC BOOST switch ... **OFF**
+
 > Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out
 
 2. Helicopter ... **Regain control**
 3. Airspeed ... **Adjust (to obtain most comfortable control movement level)**
 4. Land as soon as possible
+
 > Warning: In the event of a complete loss of electrical power in the TH-57B or a failure of the ESS No. 2 bus in the TH-57C, the hydraulic system will reenergize in the malfunction mode. The pilot will be unable to override the hydraulic boost solenoid.
 
 ---
@@ -312,9 +328,11 @@ Considerations:
 
 6. Land as soon as possible
 
-Final condition and steps 7-15 are non-memory items.
+
 > Note: Ensure corresponding bus supply circuit breakers are in to provide power to desired electrical equipment
+
 > Note: Voltmeter will not indicate battery voltage until batter bus supply and voltmeter circuit breakers are in.
+
 > Note: Flight operation can be maintained without batter and generator. Instruments powered by the 28 Vdc power, however, will be inoperable.
 
 ---
@@ -340,6 +358,7 @@ Final condition and steps 7-15 are non-memory items.
 2. Emergency shutdown ... **Complete**
 
 > Warning: Fire extinguisher fluid vapors are dangerous; fire extinguisher use should be limited to a well-ventilated area. A moving TH-57 with the cabin vents and windows open is considered to be a well-ventilated area
+
 > Note: A sideslip may be desireable to keep the flame from spreading
 
 ---
@@ -446,6 +465,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 2. Land as soon as possible
 
 > Warning: Be prepared to execute Complete Loss of Tail Rotor Thrust procedures
+
 > Warning: Increased power settings required to accomplish a normal approach may ultimately precipitate the complete failure of a malfunctioning tail rotor. Be prepared for uncommanded right yaw in the event of complete loss of tail toro thrust during the approach. Consideration should be given to maintaining an autorotative profile or low-powered approach.
 
 ---
@@ -512,7 +532,9 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 ### Engine Failure at High Airspeed and Low Altitude
 
 1. Cyclic ... **Immediately apply aft**
+
 > Warning: Rapid cyclic movement may cause mast bumping
+
 2. Autorotate
 
 ---
@@ -520,6 +542,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 
 1. Collective ... **Lower (to minimum pitch)**
 2. Airspeed ... **130 KIAS (122 KIAS Maximum with FCS on)**
+
 > Note: During recovery N<sub>r</sub> may tend to overspeed
 
 ---
@@ -533,6 +556,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 6. SEBD ... **Don, as required**
 7. Communication cords ... **Disconnect**
 8. Doors ... **Open/jettison, as required**
+
 > Warning: Jettisoning the left side cabin in forward flight may cause catastrophic damage to the tail rotor
 
 ##### After all violent motion has stopped:
@@ -586,6 +610,7 @@ The engine shall be shut down if transmission oil pressure exceeds 70 psi or eng
 ##### Airborne:
 If either gauge fluctuates erratically, engine oil pressure does not indicate within normal range, or transmission oil pressure is not within 30 to 70 psi:
 1. Land as soon as possible
+
 > Warning: With suspected transmission malfuctions, the pilot should make an approach with minimum power change to minimize changes to transmission torque.
 
 > Note: Check the transmission oil pressure with the twist grip full open. Illumination of the TRANS OIL PRESS caution light is common, while the twist grip is as flight idle; however, the gauge should indicate positive transmission oil pressure.
