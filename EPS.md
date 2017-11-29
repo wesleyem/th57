@@ -1,7 +1,9 @@
 # Emergency Procedures
 
+[c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
+
 Considerations:
- - (C) means it applies to the TH-57C only
+ - ![Image][c] means it applies to the TH-57C only
  - The only steps listed here are Memory Items
  - Notes, Warnings, and Cautions have been embedded in the EPs as they appear in the PCL
 
@@ -165,7 +167,7 @@ Considerations:
 
 7. Land as soon as possible
 
-> Note: Main generator and BUS/TIE Relay (C) may need to be reset
+> Note: Main generator and BUS/TIE Relay ![Image][c] may need to be reset
 
 ---
 ### Emergency Shutdown
@@ -173,8 +175,8 @@ Considerations:
 1. Twist grip ... **Close**
 2. Fuel valve ... **OFF**
 3. BAT switch ... **OFF**
-4. (C) STBY ATT IND switch ... **OFF**
-5. (C) Rotor brake ... **Engage immediately**
+4. ![Image][c] STBY ATT IND switch ... **OFF**
+5. ![Image][c] Rotor brake ... **Engage immediately**
 6. Helicopter ... **Egress and use the fire bottle as required to extinguish the fire or get clear of the aircraft**
 
 > Warning: After exiting aircraft, beware of rotor blades
@@ -316,8 +318,8 @@ Considerations:
 ### Electrical Fire - Unknown Origin
 
 1. BAT switch ... **OFF**
-2. (C) STANDBY GEN switch ... **OFF**
-3. (C) If in VMC, STBY ATT IND switch ... **OFF**
+2. ![Image][c] STANDBY GEN switch ... **OFF**
+3. ![Image][c] If in VMC, STBY ATT IND switch ... **OFF**
 4. MAIN GEN switch ... **OFF**
 
 ##### If fire persists:
@@ -586,7 +588,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 1. PITOT HEAT switch(es) ... **HEAT**
 
 ##### Monitor cruise power settings and nose attitude to maintain altitude and airspeed. If pitot heat does not remedy the situation, accomplish the following:
-2. (C) Alternate static source knob ... **Pull**
+2. ![Image][c] Alternate static source knob ... **Pull**
 
 ##### If icing conditions are present:
 3. Icing procedures ... **Execute**
@@ -636,7 +638,7 @@ If either gauge fluctuates erratically, engine oil pressure does not indicate wi
 
 ##### If icing conditions are present:
 
-3. (C) Alternate static source knob ... **As required**
+3. ![Image][c] Alternate static source knob ... **As required**
 
 ##### If icing conditions are not present:
 
