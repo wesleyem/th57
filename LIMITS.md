@@ -15,16 +15,17 @@
 ### Nf
 
 Power On:
+
 |Min 	| Max |
 |---|---|
 |97% 	|	100%|
 
-     Note: N<sub>f</sub> overspeeds are determined on a sliding scale depending on TOT, N<sub>f</sub> percentage, and duration
+> Note: N<sub>f</sub> overspeeds are determined on a sliding scale depending on TOT, N<sub>f</sub> percentage, and duration
 
 Avoid Range (steady-state operation)
  - 71-88% with engine torque greater than 33%
-     Note: Steady state is defined as holding N<sub>f</sub> within a 2% range
-     Note: Holding N<sub>f</sub> in this range for 60 cumulative seconds requires turbine replacement and shall be avoided
+> Note: Steady state is defined as holding N<sub>f</sub> within a 2% range
+> Note: Holding N<sub>f</sub> in this range for 60 cumulative seconds requires turbine replacement and shall be avoided
 
 ### Ng RPM
 Idle	|	Normal	|	Max
