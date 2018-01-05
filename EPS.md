@@ -635,14 +635,8 @@ If either gauge fluctuates erratically, engine oil pressure does not indicate wi
 
 1. ENG ANTI-ICING ... **ON**
 2. PITOT HEAT switches ... **HEAT**
-
-##### If icing conditions are present:
-
 3. ![Image][c] Alternate static source knob ... **As required**
-
-##### If icing conditions are not present:
-
-4. Descend or climb to a warmer temperature of vacate clouds/moisture
+4. Descend or climb to a warmer temperature or vacate clouds/moisture
 
 ##### If unable to get clear of icing conditions:
 
