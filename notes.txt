@@ -1,0 +1,19 @@
+---Notes
+
+-Day One
+
+abort start
+post shutdown fire/internal
+emergency shutdown
+Engine or Transmission Oil Pressures
+Engine or Transmission Oil Temperatures
+Icing
+
+-Check Operation Limitations Chapter for the following
+
+Eng Oil px
+Eng Oil Temp
+Nf
+Ng RPM
+
+---
