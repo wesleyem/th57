@@ -2,6 +2,7 @@
 
 -Day One
 
+EPS
 abort start
 post shutdown fire/internal
 emergency shutdown
@@ -11,9 +12,30 @@ Icing
 
 -Check Operation Limitations Chapter for the following
 
+LIMITS
 Eng Oil px
 Eng Oil Temp
 Nf
 Ng RPM
+
+---
+-Day Two
+
+Ch 1 Systems
+Components and lights
+End of chapter questions
+
+EPS
+Suspected fuel leakage
+smoke and fume elimination
+torqumeter
+engine overspeed
+imminent trans fail
+
+LIMITS
+Natops 4-2 to 4-4
+
+Checklist
+
 
 ---
