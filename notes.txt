@@ -26,14 +26,14 @@ Components and lights
 End of chapter questions
 
 EPS
-Suspected fuel leakage
-smoke and fume elimination
-torqumeter
-engine overspeed
-imminent trans fail
+x Suspected fuel leakage
+x smoke and fume elimination
+x torqumeter
+x engine overspeed
+x imminent trans fail
 
 LIMITS
-Natops 4-2 to 4-4
+x Natops 4-2 to 4-4
 
 Checklist
 

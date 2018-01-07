@@ -17,14 +17,15 @@ Considerations:
    1. [Underspeeding (N<sub>f</sub>/N<sub>r</sub>)](#underspeeding-nfnr)
    1. [Fuel Control Failure](#fuel-control-failure)
    1. [Engine Restart in Flight](#engine-restart-in-flight)
+   1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
    1. [Emergency Shutdown](#emergency-shutdown)
 
 1. [Transmission](#transmission)
 
-   1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
    1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
    1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
-   1. [Imminent Transmission Failure](#imminent-transmission-failure)
+   1. [Transmission Malfunction](#transmission-malfunction)
+   1. [Transmission Chip](#transmission-chip)
 
 1. [Fuel/Hydraulic](#fuelhydraulic)
 
@@ -61,7 +62,7 @@ Considerations:
 1. [Flight/Instruments/Icing](#flightinstrumentsicing)
 
    1. [Pitot-Static Instruments](#pitot-static-instruments)
-   1. [Torquemeter](#torquemeter)
+   1. [Torquemeter Wet Line Rupture](#torquemeter-wet-line-rupture)
    1. [Engine or Transmission Oil Pressures](#engine-or-transmission-oil-pressures)
    1. [Engine or Transmission Oil Temperatures](#engine-or-transmission-oil-temperatures)
    1. [Icing](#icing)
@@ -78,6 +79,7 @@ Considerations:
 1. [Underspeeding (N<sub>f</sub>/N<sub>r</sub>)](#underspeeding-nfnr)
 1. [Fuel Control Failure](#fuel-control-failure)
 1. [Engine Restart in Flight](#engine-restart-in-flight)
+1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
 1. [Emergency Shutdown](#emergency-shutdown)
 
 ---
@@ -111,6 +113,15 @@ Considerations:
 ---
 ### Engine Overspeed (Nf) Rotor RPM (Nr)
 
+##### Indications
+1. N<sub>r</sub> inc
+1. N<sub>f</sub> inc
+1. N<sub>g</sub> inc
+1. TOT inc
+1. Right yaw
+1. Engine noise inc
+
+##### Corrective Action
 1. Twist grip ... **Reduce (to maintain N<sub>f</sub>/N<sub>r</sub>) in operating range)**
 2. Collective/twist grip ... **Coordinate**
 
@@ -185,10 +196,10 @@ Considerations:
 
 ## Transmission
 
-1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
 1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
 1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
-1. [Imminent Transmission Failure](#imminent-transmission-failure)
+1. [Transmission Malfunction](#transmission-malfunction)
+1. [Transmission Chip](#transmission-chip)
 
 ---
 ### Main Drive Shaft Failure
@@ -238,12 +249,48 @@ Considerations:
 > Warning: If suspected during a practive autorotation, execute a waveoff
 
 ---
-### Imminent Transmission Failure
+### Transmission Malfunction
 
-> Warning: Excessive power changes may accelerate trasmission degradation
+##### Indications
+1. Abnormal transmission temperature or pressure indications
+1. TRANS OIL PRESS caution light
+1. TRANS OIL TEMP caution light
+1. TRANS CHIP and CLEAR CHIP cautions lights
+1. Abnormal sound from the transmission area
+
+##### Corrective Action
+> Note: Possible indications of a transmission failure may include yaw attitude excursions with no control input, an increase in power required for a fixed collective setting, increased noise, or increased vibration levels. 
 
 1. Land immediately
 2. Shoulder harness ... **Lock**
+
+> Note: Transiting at a minimum power required airspeed and low altitude may permit a quick flare and immediate landing in the event of an imminent transmission failure.
+
+---
+
+### Transmission Chip
+
+##### Indications
+1. `TRANS CHIP` and `CLEAR CHIP` caution lights
+
+##### Corrective Action
+First `TRANS CHIP` caution light:
+1. Check for secondary indications
+If secondary indications exist:
+2. Transmission Malfunction Proc ... **Perform**
+If no secondary indications exist:
+3. Press `CLEAR CHIP`
+If `TRANS CHIP` caution light remains illuminated:
+4. Transmission Malfunction Proc ... **Perform**
+If `TRANS CHIP` light extinguishes:
+5. Note the time and continue flight
+Second `TRANS CHIP` caution light.
+If within 30 min of the first:
+6. Transmission Malfunction Proc ... **Perform**
+If more than 30 min have elapsed since the first `TRANS CHIP` caution light:
+7. Proceed as with the first `TRANS CHIP` caution light
+Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
+8. Transmission Malfunction Proc ... **Perform**
 
 ---
 
@@ -270,6 +317,12 @@ Considerations:
 ---
 ### Suspected Fuel Leakage
 
+##### Indications
+1. Unusual fuel usage
+1. Fuel fumes in cockpit
+1. Streaming fuel
+
+##### Corrective Action
 1. Land as soon as possible
 
 ##### If time and altitude permit:
@@ -366,6 +419,11 @@ Considerations:
 ---
 ### Smoke and Fume Elimination
 
+##### Indications
+1. Fumes in cockpit
+1. Smoke in cockpit
+
+##### Corrective Action
 1. ECS and DEFOG blower ... **OFF**
 2. Vents/windows ... **Open**
 3. Slip or skid aircraft to eliminate smoke and fumes
@@ -572,7 +630,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 ## Flight/Instruments/Icing
 
 1. [Pitot-Static Instruments](#pitot-static-instruments)
-1. [Torquemeter](#torquemeter)
+1. [Torquemeter Wet Line Rupture](#torquemeter-wet-line-rupture)
 1. [Engine or Transmission Oil Pressures](#engine-or-transmission-oil-pressures)
 1. [Engine or Transmission Oil Temperatures](#engine-or-transmission-oil-temperatures)
 1. [Icing](#icing)
@@ -597,9 +655,14 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 4. Land as soon as practicable
 
 ---
-### Torquemeter
+### Torquemeter Wet Line Rupture
 
 ##### If the torquemeter needle is unusually low or falls to zero with a corresponding digital readout, it is probable that the torque line has ruptured. A restrictor fitting in the wet line will slow the rate of engine oil loss, but will not stem the flow
+
+##### Indications
+1. Low needle indication and digital readout
+
+##### Corrective Action
 1. Monitor engine instruments
 2. Land as soon as possible
 
