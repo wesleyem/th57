@@ -1,7 +1,7 @@
-[figure4-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-2.PNG?raw=true
-[figure4-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3.PNG?raw=true
-[figure4-3-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-2.PNG?raw=true
-[figure4-3-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-3.PNG?raw=true
+[figure4-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-2.png?raw=true
+[figure4-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3.png?raw=true
+[figure4-3-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-2.png?raw=true
+[figure4-3-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-3.png?raw=true
 
 # Limits
 
