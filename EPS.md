@@ -275,21 +275,36 @@ Considerations:
 
 ##### Corrective Action
 First `TRANS CHIP` caution light:
+
 1. Check for secondary indications
+
 If secondary indications exist:
+
 2. Transmission Malfunction Proc ... **Perform**
+
 If no secondary indications exist:
+
 3. Press `CLEAR CHIP`
+
 If `TRANS CHIP` caution light remains illuminated:
+
 4. Transmission Malfunction Proc ... **Perform**
+
 If `TRANS CHIP` light extinguishes:
+
 5. Note the time and continue flight
+
 Second `TRANS CHIP` caution light.
 If within 30 min of the first:
+
 6. Transmission Malfunction Proc ... **Perform**
+
 If more than 30 min have elapsed since the first `TRANS CHIP` caution light:
+
 7. Proceed as with the first `TRANS CHIP` caution light
+
 Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
+
 8. Transmission Malfunction Proc ... **Perform**
 
 ---
