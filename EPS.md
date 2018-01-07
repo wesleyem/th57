@@ -678,7 +678,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 1. Low needle indication and digital readout
 
 ##### Corrective Action
-1. Monitor engine instruments
+1. Monitor engine oil instruments
 2. Land as soon as possible
 
 ---
