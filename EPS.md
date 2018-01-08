@@ -261,6 +261,8 @@ Considerations:
 ##### Corrective Action
 > Note: Possible indications of a transmission failure may include yaw attitude excursions with no control input, an increase in power required for a fixed collective setting, increased noise, or increased vibration levels. 
 
+##### If failure is imminent:
+
 1. Land immediately
 2. Shoulder harness ... **Lock**
 
