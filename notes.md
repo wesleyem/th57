@@ -46,9 +46,19 @@ Checklist prestart check
 
 #### Reading
 
+Up through combustion section
+
 #### EPs
 
+underspeeding
+hyd power malf
+elec fire unknown
+fuselage fire
+eng fire in flt
+
 #### Limits
+
+Instrument markings diagram 1 and 2
 
 #### Checklist
 
