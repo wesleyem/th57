@@ -3,7 +3,7 @@
 -Day One
 
 EPS
-abort start
+[abort start][abort-start]
 post shutdown fire/internal
 emergency shutdown
 Engine or Transmission Oil Pressures
@@ -39,3 +39,7 @@ Checklist
 
 
 ---
+
+
+[abort-start](https://github.com/wesleyem/th57/blob/master/EPS.md#abort-start)
+
