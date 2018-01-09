@@ -73,7 +73,28 @@ Checklist prestart check
 
 #### Checklist
 
+---
+## Day Four
 
+#### Reading
+
+Systems workbook to the end of page 2-18
+
+#### EPs
+
+- [Compressor Stall][]
+- [Elec fire known][]
+- [Engine restart in flight][]
+- [Engine fail at high a/s and low alt][]
+- [Engine failure in flight][]
+
+#### Limits
+
+- [Instrument Markings](https://github.com/wesleyem/th57/blob/master/LIMITS.md#instrument-markings)
+
+#### Checklists
+
+ - Takeoff Checklist
 
 
 
