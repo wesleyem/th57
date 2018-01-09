@@ -86,10 +86,10 @@ Instrument markings diagram 1 and 2
 <!-- Day Three -->
 
 [underspeeding]: https://github.com/wesleyem/th57/blob/master/EPS.md#underspeeding-nfnr
-[hyd power malf]: https://github.com/wesleyem/th57/blob/master/EPS.md#hydraulic-power-cylinder-malfunction
-[elec fire unknown]: https://github.com/wesleyem/th57/blob/master/EPS.md#electrical-fire-unknown-origin
-[fuselage fire]: https://github.com/wesleyem/th57/blob/master/EPS.md#fuselage-fire
-[eng fire in flt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-fire-in-flight
+[hyd-power-malf]: https://github.com/wesleyem/th57/blob/master/EPS.md#hydraulic-power-cylinder-malfunction
+[elec-fire-unknown]: https://github.com/wesleyem/th57/blob/master/EPS.md#electrical-fire-unknown-origin
+[fuselage-fire]: https://github.com/wesleyem/th57/blob/master/EPS.md#fuselage-fire
+[eng-fire-in-flt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-fire-in-flight
 
 <!-- Day Four -->
 
