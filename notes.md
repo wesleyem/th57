@@ -5,6 +5,7 @@
 1. [Day One](#day-one)
 1. [Day Two](#day-two)
 1. [Day Three](#day-three)
+1. [Day Four](#day-four)
 
 ## Day One
 
@@ -78,15 +79,18 @@ Checklist prestart check
 
 #### Reading
 
-Systems workbook to the end of page 2-18
+ - [Turbine Section](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#turbine-section)
+ - [Accessory Gearbox](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#accessory-gearbox)
+ - [Engine Oil System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#engine-oil-system)
+ - [Oil Tank Reservoir](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#oil-tank-reservoir)
 
 #### EPs
 
-- [Compressor Stall][]
-- [Elec fire known][]
-- [Engine restart in flight][]
-- [Engine fail at high a/s and low alt][]
-- [Engine failure in flight][]
+- ![Compressor Stall][Compressor-Stall]
+- ![Elec fire known][Elec-fire-known]
+- ![Engine restart in flight][Engine-restart-in-flight]
+- ![Engine fail at high a/s and low alt][Engine-fail-at-high-as-and-low-alt]
+- ![Engine failure in flight][Engine-failure-in-flight]
 
 #### Limits
 
@@ -124,4 +128,10 @@ Systems workbook to the end of page 2-18
 [eng-fire-in-flt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-fire-in-flight
 
 <!-- Day Four -->
+
+[Compressor-Stall]: https://github.com/wesleyem/th57/blob/master/EPS.md
+[Elec-fire-known]: https://github.com/wesleyem/th57/blob/master/EPS.md
+[Engine-restart-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md
+[Engine-fail-at-high-as-and-low-alt]: https://github.com/wesleyem/th57/blob/master/EPS.md
+[Engine-failure-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md
 
