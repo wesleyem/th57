@@ -132,13 +132,22 @@ Considerations:
 ---
 ### Underspeeding Nf/Nr
 
+##### Indications
+
+1. Low N<sub>r</sub>
+1. Low N<sub>f</sub>
+
+> Warning: This emergency may result in engine failure
+
+##### Corrective Action
+
 1. Collective ... **Lower as required to maintain a minimum of 90% N<sub>r</sub>**
 2. Twist grip ... **Full open**
 3. GOV RPM ... **Full increase**
 
 ##### If underspeed persists:
 
-4. Check power available with N<sub>r</sub> in limits
+4. Check power available
 
 > Note: Power available is considered to be sufficient if level flight can be maintained with N<sub>r</sub> at 90% or higher. Do not decelerate below 50 KIAS (min power airspeed) while executing a power check
 
@@ -151,6 +160,9 @@ Considerations:
 ##### If sufficient power is available:
 
 6. Land as soon as possible
+
+> Note: If power available exceeds power required to
+hover in ground effect, a normal approach to a hover can be executed. If power available is less than power required to hover, but level flight can be maintained, fly to a safe landing area and execute a no-hover landing or sliding landing. Terrain permitting, a sliding landing requires the least amount of power. 
 
 ---
 ### Fuel Control Failure
@@ -353,9 +365,16 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 ### Hydraulic Power Cylinder Malfunction
 
+##### Indications
+
+1. Cyclic/collective control displaces to abnormal position
+1. Pilot control of cyclic/collective is difficult or impossible
+
+##### Corrective Action
+
 1. HYDRAULIC BOOST switch ... **OFF**
 
-> Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out
+> Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out and the pilot will be unable to maintain control of the aircraft
 
 2. Helicopter ... **Regain control**
 3. Airspeed ... **Adjust (to obtain most comfortable control movement level)**
@@ -387,18 +406,27 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 ---
 ### Electrical Fire - Unknown Origin
 
+##### Indications
+
+1. Smoke, fumes, sparks
+1. Loadmeter shows excessive load
+1. DC voltmeter shows a decrease in voltage
+
+##### Corrective Action
+
 1. BAT switch ... **OFF**
-2. ![Image][c] STANDBY GEN switch ... **OFF**
+2. ![Image][c] STBY GEN switch ... **OFF**
 3. ![Image][c] If in VMC, STBY ATT IND switch ... **OFF**
 4. MAIN GEN switch ... **OFF**
 
 ##### If fire persists:
 
 5. Land immediately
+6. Emergency Shutdown ... **Complete**
 
 ##### If fire extinguishes:
 
-6. Land as soon as possible
+7. Land as soon as possible
 
 
 > Note: Ensure corresponding bus supply circuit breakers are in to provide power to desired electrical equipment
@@ -407,21 +435,31 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 > Note: Flight operation can be maintained without batter and generator. Instruments powered by the 28 Vdc power, however, will be inoperable.
 
+> Note: ![Image][c] The voltmeter select switch may aid in identifying the location of the fire
+
 ---
 ### Engine Fire in flight
 
-> Warning: Be prepared for complete power loss
+##### Indications
+
+1. Fire light
+1. Smoke or Flames
+
+##### Corrective Action
+
+> Warning: This emergency may result in engine failure
 
 1. Confirm existence of fire
 
 ##### If fire exists:
 
 2. Land immediately
-3. Emergency shutdown ... **Complete after landing**
+3. Emergency shutdown ... **Complete**
 
 ##### If fire not confirmed:
 
 4. Land as soon as possible
+5. Emergency Shutdown ... **Complete after landing**
 
 ---
 ### Fuselage Fire

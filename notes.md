@@ -50,11 +50,11 @@ Up through combustion section
 
 #### EPs
 
-underspeeding
-hyd power malf
-elec fire unknown
-fuselage fire
-eng fire in flt
+1. ![underspeeding][underspeeding]
+1. ![hyd power cyl malf][hyd-power-malf]
+1. ![elec fire unknown][elec-fire-unknown]
+1. ![fuselage fire][fuselage-fire]
+1. ![eng fire in flt][eng-fire-in-flt]
 
 #### Limits
 
@@ -84,4 +84,12 @@ Instrument markings diagram 1 and 2
 [trans-malf]: https://github.com/wesleyem/th57/blob/master/EPS.md#transmission-malfunction
 
 <!-- Day Three -->
+
+[underspeeding]: https://github.com/wesleyem/th57/blob/master/EPS.md#underspeeding-nfnr
+[hyd power malf]: https://github.com/wesleyem/th57/blob/master/EPS.md#hydraulic-power-cylinder-malfunction
+[elec fire unknown]: https://github.com/wesleyem/th57/blob/master/EPS.md#electrical-fire-unknown-origin
+[fuselage fire]: https://github.com/wesleyem/th57/blob/master/EPS.md#fuselage-fire
+[eng fire in flt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-fire-in-flight
+
+<!-- Day Four -->
 
