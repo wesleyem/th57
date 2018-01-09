@@ -1,5 +1,11 @@
 # Notes
 
+## Table Of Contents
+
+1. [Day One](#day-one)
+1. [Day Two](#day-two)
+1. [Day Three](#day-three)
+
 ## Day One
 
 #### EPs
