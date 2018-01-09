@@ -6,3 +6,4 @@
 
  - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
  - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
+ - [notes](https://github.com/wesleyem/th57/blob/master/notes.md)
