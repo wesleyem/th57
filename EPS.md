@@ -19,6 +19,8 @@ Considerations:
    1. [Engine Restart in Flight](#engine-restart-in-flight)
    1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
    1. [Emergency Shutdown](#emergency-shutdown)
+   1. [Engine Failure in Flight](#engine-failure-in-flight)
+   1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
 
 1. [Transmission](#transmission)
 
@@ -55,7 +57,6 @@ Considerations:
 1. [Autorotation](#autorotation)
 
    1. [Autorotation](#autorotation-1)
-   1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
    1. [Emergency Descent](#emergency-descent)
    1. [Emergency Egress](#emergency-egress)
 
@@ -81,6 +82,8 @@ Considerations:
 1. [Engine Restart in Flight](#engine-restart-in-flight)
 1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
 1. [Emergency Shutdown](#emergency-shutdown)
+1. [Engine Failure in Flight](#engine-failure-in-flight)
+1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
 
 ---
 ### Abort Start
@@ -91,12 +94,18 @@ Considerations:
 ---
 ### Compressor Stall
 
-> Warning: Be prepared for an engine failure
+##### Indications
+
+1. Popping, rumbling or loud banging
+1. Abnormal vibrations
+1. Rapid rise or fluctuations in TOT
+1. Torque fluctuations with yaw kicks
+1. N<sub>g</sub> fluctuations
+1. Loss of power
+
+##### Corrective Action
 
 1. Collective ... **Lower**
-
-> Note: Power (collective) reduction will often eliminate compressor stalls.
-
 2. ENG Anti-ice switch ... **ON**
 3. Cabin Heat Valve ... **ON**
 4. Check power available
@@ -110,23 +119,24 @@ Considerations:
 
 7. Land as soon as possible
 
+> Note: Bleed valve flutter is a mild pop or series of pops and may occur while opening the twist grip. The bleed valve flutter may cause slight momentary TOT and torque changes. Any additional indications should be reason to classify this as a compressor stall.
+> Warning: This emergency may result in engine failure
+> Note: Power (collective) reduction will often eliminate compressor stalls.
+> Note: Power available is considered sufficient if level flight can be maintained with N<sub>r</sub> at 90 percent or higher.
+> Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent enroute to suitable site for autorotation.
+> Note: Depending on time, altitude, and suitability of the landing site the pilot may attempt to increase the twist grip after the compressor stall has cleared to affect a power on landing. Increasing the twist grip may re-aggravate the compressor stall.
+
 ---
 ### Engine Overspeed (Nf) Rotor RPM (Nr)
 
 ##### Indications
-1. N<sub>r</sub> inc
-1. N<sub>f</sub> inc
-1. N<sub>g</sub> inc
-1. TOT inc
+1. N<sub>r</sub>, N<sub>f</sub>, N<sub>g</sub>, TOT, and Engine noise inc
 1. Right yaw
-1. Engine noise inc
 
 ##### Corrective Action
+
 1. Twist grip ... **Reduce (to maintain N<sub>f</sub>/N<sub>r</sub>) in operating range)**
 2. Collective/twist grip ... **Coordinate**
-
-> Note: The N<sub>f</sub> overspeed must be controlled by coordinating collective and twist grip
-
 3. Land as soon as possible
 
 ---
@@ -136,8 +146,6 @@ Considerations:
 
 1. Low N<sub>r</sub>
 1. Low N<sub>f</sub>
-
-> Warning: This emergency may result in engine failure
 
 ##### Corrective Action
 
@@ -149,20 +157,18 @@ Considerations:
 
 4. Check power available
 
-> Note: Power available is considered to be sufficient if level flight can be maintained with N<sub>r</sub> at 90% or higher. Do not decelerate below 50 KIAS (min power airspeed) while executing a power check
-
 ##### If power is not sufficient:
 
 5. Autorotate
-
-> Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent en route to a more suitable site for autorotation.
 
 ##### If sufficient power is available:
 
 6. Land as soon as possible
 
-> Note: If power available exceeds power required to
-hover in ground effect, a normal approach to a hover can be executed. If power available is less than power required to hover, but level flight can be maintained, fly to a safe landing area and execute a no-hover landing or sliding landing. Terrain permitting, a sliding landing requires the least amount of power. 
+> Warning: This emergency may result in engine failure
+> Note: Power available is considered to be sufficient if level flight can be maintained with N<sub>r</sub> at 90% or higher. Do not decelerate below 50 KIAS (min power airspeed) while executing a power check
+> Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent en route to a more suitable site for autorotation.
+> Note: If power available exceeds power required to hover in ground effect, a normal approach to a hover can be executed. If power available is less than power required to hover, but level flight can be maintained, fly to a safe landing area and execute a no-hover landing or sliding landing. Terrain permitting, a sliding landing requires the least amount of power. 
 
 ---
 ### Fuel Control Failure
@@ -176,7 +182,16 @@ hover in ground effect, a normal approach to a hover can be executed. If power a
 ---
 ### Engine Restart in flight
 
-1. N<sub>g</sub> ... **Note if N<sub>g</sub> is below 12%**
+##### Indications
+
+ - None
+
+##### Corrective Action
+
+1. N<sub>g</sub> ... **Note**
+
+#####  If Ng is below 12%
+
 2. Twist grip ... **Close**
 3. Starter ... **ON**
 4. At 12% N<sub>g</sub>, Twist grip ... **Full open**
@@ -184,25 +199,73 @@ hover in ground effect, a normal approach to a hover can be executed. If power a
 ##### If Ng is 12% or above:
 
 5. Starter ... **ON**
-6. At 58% N<sub>g</sub> starter ... **OFF**
+6. At 58% N<sub>g</sub>, starter ... **OFF**
 
 ##### If light-off occurs:
 
 7. Land as soon as possible
 
+> Note: N<sub>g</sub> will not decrease below minimum starting speed within 10 seconds because of rotational inertia plus possible ram effect. The twist grip can be left full open, since fuel flow during the start will be on the normal start acceleration schedule.
 > Note: Main generator and BUS/TIE Relay ![Image][c] may need to be reset
 
 ---
 ### Emergency Shutdown
+
+##### Indications
+
+1. Fire warning light
+1. Smoke, fuel fumes, Fire
+1. Indication from ground personnel
+1. Grinding noises or apparent drive train damage
+
+##### Corrective Action
 
 1. Twist grip ... **Close**
 2. Fuel valve ... **OFF**
 3. BAT switch ... **OFF**
 4. ![Image][c] STBY ATT IND switch ... **OFF**
 5. ![Image][c] Rotor brake ... **Engage immediately**
-6. Helicopter ... **Egress and use the fire bottle as required to extinguish the fire or get clear of the aircraft**
+6. Helicopter ... **Egress, as required. Use fire bottle or get clear of the aircraft as applicable**
 
 > Warning: After exiting aircraft, beware of rotor blades
+
+### Engine Failure in Flight
+
+##### Indications
+
+1. N<sub>r</sub> decrease
+1. Rapid settling
+1. Left yaw
+1. `ROTOR LOW RPM` caution light and audio
+1. `ENGINE OUT` caution light and audio
+1. `GEN FAIL` or ![Image][c]`MAIN GEN FAIL` caution light
+
+##### Corrective Action
+
+1. Autorotate
+1. Shoulder harness ... **Lock**
+
+##### If time and altitude permit
+
+3. Mayday ... **Transmit**
+4. Transponder ... **Emergency**
+5. Engine Restart in Flight procedure ... **as required**
+
+---
+
+### Engine Failure at High Airspeed and Low Altitude
+
+##### Indications
+
+- None
+
+##### Corrective Action
+
+1. Cyclic ... **Immediately apply aft**
+
+> Warning: Rapid cyclic movement may cause mast bumping
+
+2. Autorotate
 
 ---
 
@@ -265,19 +328,17 @@ hover in ground effect, a normal approach to a hover can be executed. If power a
 
 ##### Indications
 1. Abnormal transmission temperature or pressure indications
-1. TRANS OIL PRESS caution light
-1. TRANS OIL TEMP caution light
-1. TRANS CHIP and CLEAR CHIP cautions lights
+1. `TRANS OIL PRESS`, `TRANS OIL TEMP`, `TRANS CHIP` and `CLEAR CHIP` caution light
 1. Abnormal sound from the transmission area
 
 ##### Corrective Action
-> Note: Possible indications of a transmission failure may include yaw attitude excursions with no control input, an increase in power required for a fixed collective setting, increased noise, or increased vibration levels. 
 
 ##### If failure is imminent:
 
 1. Land immediately
 2. Shoulder harness ... **Lock**
 
+> Note: Possible indications of a transmission failure may include yaw attitude excursions with no control input, an increase in power required for a fixed collective setting, increased noise, or increased vibration levels. 
 > Note: Transiting at a minimum power required airspeed and low altitude may permit a quick flare and immediate landing in the event of an imminent transmission failure.
 
 ---
@@ -347,11 +408,13 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 ### Suspected Fuel Leakage
 
 ##### Indications
+
 1. Unusual fuel usage
 1. Fuel fumes in cockpit
 1. Streaming fuel
 
 ##### Corrective Action
+
 1. Land as soon as possible
 
 ##### If time and altitude permit:
@@ -373,13 +436,11 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 ##### Corrective Action
 
 1. HYDRAULIC BOOST switch ... **OFF**
-
-> Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out and the pilot will be unable to maintain control of the aircraft
-
 2. Helicopter ... **Regain control**
 3. Airspeed ... **Adjust (to obtain most comfortable control movement level)**
 4. Land as soon as possible
 
+> Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out and the pilot will be unable to maintain control of the aircraft
 > Warning: In the event of a complete loss of electrical power in the TH-57B or a failure of the ESS No. 2 bus in the TH-57C, the hydraulic system will reenergize in the malfunction mode. The pilot will be unable to override the hydraulic boost solenoid.
 
 ---
@@ -396,12 +457,24 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 ---
 ### Electrical Fire - Known Origin
 
+##### Indications
+
+1. Smoke, fumes, sparks
+1. Loadmeter shows excessive load
+1. DC voltmeter shows a decrease in voltage
+
+##### Corrective Action
+
 1. Affected equipment ... **Secure**
 2. Affected circuit breakers ... **Pull**
 
 ##### If fire persists:
 
 3. Electrical Fire - Unknown Origin procedure ... **Execute**
+
+##### If fire extinguishes:
+
+4. Land as soon as practicable
 
 ---
 ### Electrical Fire - Unknown Origin
@@ -461,6 +534,8 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 4. Land as soon as possible
 5. Emergency Shutdown ... **Complete after landing**
 
+> Warning: This emergency may result in engine failure
+
 ---
 ### Fuselage Fire
 
@@ -485,6 +560,13 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 ---
 ### Post Shutdown Fire (Internal)
+
+##### Indications
+
+1. TOT rises above 400&deg;C
+1. Flames or smoke coming from engine
+
+##### Corrective Action
 
 1. Starter ... **Engage**
 2. Fuel valve ... **OFF**
@@ -616,7 +698,6 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 ## Autorotation
 
 1. [Autorotation](#autorotation-1)
-1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
 1. [Emergency Descent](#emergency-descent)
 1. [Emergency Egress](#emergency-egress)
 
@@ -642,15 +723,6 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 3. Mayday ... **Transmit**
 4. Transponder ... **Emergency**
 5. Engine Restart in Flight ... **Perform, as required**
-
----
-### Engine Failure at High Airspeed and Low Altitude
-
-1. Cyclic ... **Immediately apply aft**
-
-> Warning: Rapid cyclic movement may cause mast bumping
-
-2. Autorotate
 
 ---
 ### Emergency Descent
@@ -712,33 +784,42 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 ---
 ### Torquemeter Wet Line Rupture
 
-##### If the torquemeter needle is unusually low or falls to zero with a corresponding digital readout, it is probable that the torque line has ruptured. A restrictor fitting in the wet line will slow the rate of engine oil loss, but will not stem the flow
-
 ##### Indications
+
 1. Low needle indication and digital readout
 
 ##### Corrective Action
+
 1. Monitor engine oil instruments
 2. Land as soon as possible
 
 ---
 ### Engine or Transmission Oil Pressures
 
-##### On ground:
-The engine shall be shut down if transmission oil pressure exceeds 70 psi or engine oil pressure exceeds 150 psi
+##### Indications
 
-##### Airborne:
-If either gauge fluctuates erratically, engine oil pressure does not indicate within normal range, or transmission oil pressure is not within 30 to 70 psi:
+1. Erratic gauge fluctuations
+1. Engine oil pressure does not indicate within normal range
+1. Transmission oil pressure not 30 to 70 psi
+
+##### Corrective Action
+
 1. Land as soon as possible
 
-> Warning: With suspected transmission malfuctions, the pilot should make an approach with minimum power change to minimize changes to transmission torque.
+> Warning: Excessive power changes may expedite engine or transmission failure
 
-> Note: Check the transmission oil pressure with the twist grip full open. Illumination of the TRANS OIL PRESS caution light is common, while the twist grip is as flight idle; however, the gauge should indicate positive transmission oil pressure.
-
-> Note: There is no detrimental effect to the transmission system with oil pressure between 50 to 70 psi with transmission temperature within limits. Pressure indications between 50 to 70 psi shall be documented on a MAF upon completion of flight.
+> Note: Illumination of the TRANS OIL PRESS caution light is common, while the twist grip is as flight idle; however, the gauge should indicate positive transmission oil pressure.
 
 ---
 ### Engine or Transmission Oil Temperatures
+
+##### Indications
+
+1. Temperature limit exceeded
+1. Gauge fluctuates
+1. Gauge indicates zero
+
+##### Corrective Action
 
 ##### If either oil temperature gauge indicator exceeds red line limitations:
 
@@ -750,6 +831,13 @@ If either gauge fluctuates erratically, engine oil pressure does not indicate wi
 
 ---
 ### Icing
+
+##### Indications
+
+1. OAT less than 4&deg;C, and
+1. Visible moisture
+
+##### Corrective Action
 
 1. ENG ANTI-ICING ... **ON**
 2. PITOT HEAT switches ... **HEAT**

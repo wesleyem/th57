@@ -129,9 +129,9 @@ Checklist prestart check
 
 <!-- Day Four -->
 
-[Compressor-Stall]: https://github.com/wesleyem/th57/blob/master/EPS.md
-[Elec-fire-known]: https://github.com/wesleyem/th57/blob/master/EPS.md
-[Engine-restart-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md
-[Engine-fail-at-high-as-and-low-alt]: https://github.com/wesleyem/th57/blob/master/EPS.md
-[Engine-failure-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md
+[Compressor-Stall]: https://github.com/wesleyem/th57/blob/master/EPS.md#compressor-stall
+[Elec-fire-known]: https://github.com/wesleyem/th57/blob/master/EPS.md#electrical-fire-known-origin
+[Engine-restart-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-restart-in-flight
+[Engine-fail-at-high-as-and-low-alt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-failure-at-high-airspeed-and-low-altitude
+[Engine-failure-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-failure-in-flight
 
