@@ -3,20 +3,20 @@
 ## Day One
 
 #### EPs
-1. ![abort start][abort-start]
-1. ![post shutdown fire/internal][post-shutdown]
-1. ![emergency shutdown][emer-shutdown]
-1. ![Engine or Transmission Oil Pressures][etx-px]
-1. ![Engine or Transmission Oil Temperatures][etx-t]
-1. ![Icing][icing]
+ - ![abort start][abort-start]
+ - ![post shutdown fire/internal][post-shutdown]
+ - ![emergency shutdown][emer-shutdown]
+ - ![Engine or Transmission Oil Pressures][etx-px]
+ - ![Engine or Transmission Oil Temperatures][etx-t]
+ - ![Icing][icing]
 
 -Check Operation Limitations Chapter for the following
 
 #### Limits
-1. Eng Oil px
-1. Eng Oil Temp
-1. Nf
-1. Ng RPM
+ - Eng Oil px
+ - Eng Oil Temp
+ - Nf
+ - Ng RPM
 
 ---
 ## Day Two
@@ -28,14 +28,14 @@ Components and lights
 End of chapter questions
 
 #### EPs
-1. ![Suspected fuel leakage][fuel-leak]
-1. ![smoke and fume elimination][smoke-fume]
-1. ![torqumeter][torq]
-1. ![engine overspeed][overspeed]
-1. ![transmission malf][trans-malf]
+ - ![Suspected fuel leakage][fuel-leak]
+ - ![smoke and fume elimination][smoke-fume]
+ - ![torqumeter][torq]
+ - ![engine overspeed][overspeed]
+ - ![transmission malf][trans-malf]
 
 #### Limits
-1. Natops pages 4-2 to 4-4 (pre-Jan2018 ICs)
+ - Natops pages 4-2 to 4-4 (pre-Jan2018 ICs)
 
 #### Checklist
 
@@ -46,19 +46,24 @@ Checklist prestart check
 
 #### Reading
 
-Up through combustion section
+##### Systems
+ - [Engine, Engine Oil System, and Engine Controls](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#engine-engine-oil-system-and-engine-controls)
+ - [Compressor Section](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#compressor-section)
+ - [Combustion Section](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#combustion-section)
 
 #### EPs
 
-1. ![underspeeding][underspeeding]
-1. ![hyd power cyl malf][hyd-power-malf]
-1. ![elec fire unknown][elec-fire-unknown]
-1. ![fuselage fire][fuselage-fire]
-1. ![eng fire in flt][eng-fire-in-flt]
+ - ![underspeeding][underspeeding]
+ - ![hyd power cyl malf][hyd-power-malf]
+ - ![elec fire unknown][elec-fire-unknown]
+ - ![fuselage fire][fuselage-fire]
+ - ![eng fire in flt][eng-fire-in-flt]
 
 #### Limits
 
-Instrument markings diagram 1 and 2
+##### Instrument Markings
+
+- [Instrument Markings](https://github.com/wesleyem/th57/blob/master/LIMITS.md#instrument-markings)
 
 #### Checklist
 

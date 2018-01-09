@@ -73,6 +73,14 @@
    - Tail skid is stressed for loads of `200 lbs downward` or `400 lbs upward`
  - Cowling
    - 4 sections : foward, induction, engine and aft fairings
+   - forward fairing
+      - aluminum honeycomb with fiberglass skin
+   - induction fairing
+      - fiberglass
+   - engine cowling
+      - heavy alloyed aluminum
+   - aft fairing
+      - aluminum honeycomb with fiberglass skin
  - Tail boom
    - Full monocoque aluminum structure
    - Main purpose is to `"provide an extended support to mount the tail rotor"`
@@ -101,7 +109,6 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
  - Altimeter : senses static pressure from static ports
  - VSI : actuated by the rate of atmospheric pressure change ; vented to the static air system
  - A/S indicator : delta(impact air px/static px)
- - 
 
 #### Seat Restraints, Doors, and Caution Panel
 ##### Seat
@@ -141,7 +148,7 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
 
  - Compressor rotor blades and wheels
 
-    Six-stage axial compressor and one-stage centrifugal compressor. A bleed air control valve is mounted on the 5th stage of the compressor. By the time the air is collected in the diffuser scroll, is has been compressed to `6.5` times ambient pressure and has risen to a temperature of `500 degrees` Fahrenheit. The compressor bleed air system is an entirely automatic system
+    Six-stage axial compressor and one-stage centrifugal compressor. A bleed air control valve is mounted on the 5th stage of the compressor. By the time the air is collected in the diffuser scroll, is has been compressed to `6.5` times ambient pressure and has risen to a temperature of `500 degrees` Fahrenheit. The compressor bleed air system is an entirely automatic system. It bleeds air off the compressor during `starting, acceleration, and at low compressor pressure ratio operation`.
 
  - Case assemblies
  - Diffuser scroll
@@ -154,8 +161,11 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
 
  - Where the air and fuel mix to go boom
  - 250-C20J has single "can" type combustion chamber
+ - Fuel nozzle and igniter plug is mounted in the aft end
  - `75%` of air passes between the inner liner and combustion case which is used for cooling the combustion chamber
  - `25%` enters combustion liner, mixes with fuel, and goes boom.
+ - During starting, fuel-air mix is ignited by the capacitor-type igniter plug adjacent to the fuel nozzle
+ - Once the engine is started, combustion is self-sustaining
 
 #### Turbine Section
 
