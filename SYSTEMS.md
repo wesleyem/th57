@@ -153,7 +153,7 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
  - Case assemblies
  - Diffuser scroll
 
-    Contains ports for air to be bled for [anti-icing](#anti-ice-system), cabin heat, and a compressor discharge air pressure [(monitored by the fuel control system)](#engine-controls)
+    Contains ports for air to be bled for [anti-icing](#anti-ice-system), cabin heat, and a compressor discharge air pressure [(monitored by the fuel control system)](#engine-controls). Ducts the compressed air to the combustion chamber via itself and two air transfer tubes.
 
 #### Combustion Section
 
@@ -166,6 +166,7 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
  - `25%` enters combustion liner, mixes with fuel, and goes boom.
  - During starting, fuel-air mix is ignited by the capacitor-type igniter plug adjacent to the fuel nozzle
  - Once the engine is started, combustion is self-sustaining
+ - A `burner drain valve` is the lowest point in combustion section and drains any fuel that may collect in the chamber after shutdown
 
 #### Turbine Section
 
