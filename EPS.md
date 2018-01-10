@@ -87,6 +87,7 @@ Considerations:
 1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
 
 ---
+===
 ### Abort Start
 
 ##### Indications
@@ -105,6 +106,7 @@ Considerations:
 1. Starter ... **Secure after TOT stabilizes at 400 &deg;C or below**
 
 ---
+===
 ### Compressor Stall
 
 ##### Indications
@@ -140,6 +142,7 @@ Considerations:
 > Note: Depending on time, altitude, and suitability of the landing site the pilot may attempt to increase the twist grip after the compressor stall has cleared to affect a power on landing. Increasing the twist grip may re-aggravate the compressor stall.
 
 ---
+===
 ### Engine Overspeed (Nf) Rotor RPM (Nr)
 
 ##### Indications
@@ -153,6 +156,7 @@ Considerations:
 3. Land as soon as possible
 
 ---
+===
 ### Underspeeding Nf/Nr
 
 ##### Indications
@@ -184,6 +188,7 @@ Considerations:
 > Note: If power available exceeds power required to hover in ground effect, a normal approach to a hover can be executed. If power available is less than power required to hover, but level flight can be maintained, fly to a safe landing area and execute a no-hover landing or sliding landing. Terrain permitting, a sliding landing requires the least amount of power. 
 
 ---
+===
 ### Fuel Control Failure
 
 1. Collective ... **Adjust as required to maintain N<sub>r</sub> in operating range**
@@ -193,6 +198,7 @@ Considerations:
 > Warning: Be prepared for complete power loss
 
 ---
+===
 ### Engine Restart in flight
 
 ##### Indications
@@ -222,6 +228,7 @@ Considerations:
 > Note: Main generator and BUS/TIE Relay ![Image][c] may need to be reset
 
 ---
+===
 ### Emergency Shutdown
 
 ##### Indications
@@ -242,6 +249,7 @@ Considerations:
 
 > Warning: After exiting aircraft, beware of rotor blades
 
+===
 ### Engine Failure in Flight
 
 ##### Indications
@@ -266,6 +274,7 @@ Considerations:
 
 ---
 
+===
 ### Engine Failure at High Airspeed and Low Altitude
 
 ##### Indications
@@ -290,6 +299,7 @@ Considerations:
 1. [Transmission Chip](#transmission-chip)
 
 ---
+===
 ### Main Drive Shaft Failure
 
 1. Autorotate
@@ -302,6 +312,7 @@ Considerations:
 3. Emergency shutdown ... **Complete**
 
 ---
+===
 ### Sprag Clutch Slippage
 
 1. Autorotate
@@ -329,6 +340,7 @@ Considerations:
 > Caution: After completing the autorotative landing, ensure the twist grip is secured. Failure to do so may result in sudden reengagement of the sprag clutch, causing severe damage to the drive system.
 
 ---
+===
 ### Sprag Clutch Seizure
 
 1. Ensure twist grip is full open
@@ -337,6 +349,7 @@ Considerations:
 > Warning: If suspected during a practive autorotation, execute a waveoff
 
 ---
+===
 ### Transmission Malfunction
 
 ##### Indications
@@ -356,6 +369,7 @@ Considerations:
 
 ---
 
+===
 ### Transmission Chip
 
 ##### Indications
@@ -404,6 +418,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
 
 ---
+===
 ### Fuel Boost Pump Failure
 
 1. Descent ... **Initiate if above 6,000 feet PA and flight permits**
@@ -418,6 +433,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 3. Land as soon as possible
 
 ---
+===
 ### Suspected Fuel Leakage
 
 ##### Indications
@@ -439,6 +455,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 ---
 
+===
 ### Hydraulic Power Cylinder Malfunction
 
 ##### Indications
@@ -468,6 +485,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 1. [Post Shutdown Fire (Internal)](#post-shutdown-fire-internal)
 
 ---
+===
 ### Electrical Fire - Known Origin
 
 ##### Indications
@@ -490,6 +508,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 4. Land as soon as practicable
 
 ---
+===
 ### Electrical Fire - Unknown Origin
 
 ##### Indications
@@ -524,6 +543,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 > Note: ![Image][c] The voltmeter select switch may aid in identifying the location of the fire
 
 ---
+===
 ### Engine Fire in flight
 
 ##### Indications
@@ -550,6 +570,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 > Warning: This emergency may result in engine failure
 
 ---
+===
 ### Fuselage Fire
 
 1. Land immediately
@@ -560,6 +581,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 > Note: A sideslip may be desireable to keep the flame from spreading
 
 ---
+===
 ### Smoke and Fume Elimination
 
 ##### Indications
@@ -572,6 +594,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 3. Slip or skid aircraft to eliminate smoke and fumes
 
 ---
+===
 ### Post Shutdown Fire (Internal)
 
 ##### Indications
@@ -598,6 +621,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
 
 ---
+===
 ### Mast Bumping
 
 ##### If mast bumping is suspected:
@@ -606,6 +630,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 2. Land immediately
 
 ---
+===
 ### Uncommanded Right Roll During Flight Below 1G
 
 1. Cyclic ... **Immediately apply aft to establish positive G load on rotor, then center laterally**
@@ -619,6 +644,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 3. Land immediately
 
 ---
+===
 ### Fixed Pitch (Low Power)
 
 Fixed Pitch Pedal in a Hover - Right Yaw:
@@ -637,6 +663,7 @@ Fixed Pitch Pedal at Altitude - Lower Power steps are non-memory items.
 > Warning: If it becomes necessary to use large collective inputs to waveoff near the deck, the nose will yaw right and possibly enter uncontrolled flight
 
 ---
+===
 ### Fixed Pitch (High Power)
 
 Fixed Pitch Pedal in a Hover - Left Yaw:
@@ -655,6 +682,7 @@ Fixed Pitch Pedal in a Hover - Left Yaw:
 Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 
 ---
+===
 ### Loss of Tail Rotor Effectiveness
 
 1. Pedals ... **Maintain full left pedal**
@@ -666,6 +694,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 4. Autorotative landing ... **Execute**
 
 ---
+===
 ### High-Frequency Vibration
 
 1. ECS ... **OFF**
@@ -679,6 +708,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 > Warning: Increased power settings required to accomplish a normal approach may ultimately precipitate the complete failure of a malfunctioning tail rotor. Be prepared for uncommanded right yaw in the event of complete loss of tail toro thrust during the approach. Consideration should be given to maintaining an autorotative profile or low-powered approach.
 
 ---
+===
 ### Complete Loss of Tail Rotor Thrust
 
 ##### In a hover:
@@ -715,6 +745,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 1. [Emergency Egress](#emergency-egress)
 
 ---
+===
 ### Autorotation
 
 1. Autorotation ... **Establish**
@@ -726,6 +757,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
    3. Continue to increase collective to cushion landing
 
 ---
+===
 ### Engine Failure in Flight
 
 1. Autorotate
@@ -738,6 +770,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 5. Engine Restart in Flight ... **Perform, as required**
 
 ---
+===
 ### Emergency Descent
 
 1. Collective ... **Lower (to minimum pitch)**
@@ -746,6 +779,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 > Note: During recovery N<sub>r</sub> may tend to overspeed
 
 ---
+===
 ### Emergency Egress
 
 1. PIC ... **Calls for abandon aircraft**
@@ -780,6 +814,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 1. [Dynamic Rollover](#dynamic-rollover)
 
 ---
+===
 ### Pitot-Static Instruments
 
 ##### If the airspeed, vertical speed, or altimeter fluctuates erratically or gives apparently false indications while power and attitude instruments are normal, proceed as follows:
@@ -795,6 +830,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 4. Land as soon as practicable
 
 ---
+===
 ### Torquemeter Wet Line Rupture
 
 ##### Indications
@@ -807,6 +843,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 2. Land as soon as possible
 
 ---
+===
 ### Engine or Transmission Oil Pressures
 
 ##### Indications
@@ -824,6 +861,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 > Note: Illumination of the TRANS OIL PRESS caution light is common, while the twist grip is as flight idle; however, the gauge should indicate positive transmission oil pressure.
 
 ---
+===
 ### Engine or Transmission Oil Temperatures
 
 ##### Indications
@@ -843,6 +881,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 2. Land as soon as practicable
 
 ---
+===
 ### Icing
 
 ##### Indications
@@ -864,6 +903,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 > Warning: Monitor engine instruments and be prepared for partial or complete power loss
 
 ---
+===
 ### Power Required Exceeds Power Available
 
 1. Collective ... **Lower as required to maintain a minimum of 90% N<sub>r</sub>**
@@ -878,6 +918,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 7. Cushion the landing
 
 ---
+===
 ### Vortex Ring State
 
 1. Collective ... **Decrease**
@@ -887,6 +928,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 3. Level skids to conform to terrain
 
 ---
+===
 ### Rotor Blade Stall
 
 1. Severity of maneuver ... **Decrease**
@@ -896,6 +938,7 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 5. Rotor rpm ... **Increase**
 
 ---
+===
 ### Dynamic Rollover
 
 1. Collective ... **Lower to stop the roll**
