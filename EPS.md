@@ -55,9 +55,8 @@ Considerations:
    1. [High-Frequency Vibration](#high-frequency-vibration)
    1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
 
-1. [Autorotation](#autorotation)
+1. [Ditching/Egress](#autorotation)
 
-   1. [Autorotation](#autorotation-1)
    1. [Emergency Descent](#emergency-descent)
    1. [Emergency Egress](#emergency-egress)
 
@@ -241,6 +240,8 @@ Considerations:
 6. Helicopter ... **Egress, as required. Use fire bottle or get clear of the aircraft as applicable**
 
 > Warning: After exiting aircraft, beware of rotor blades
+
+---
 
 ### Engine Failure in Flight
 
@@ -708,36 +709,13 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 8. Twist grip ... **Rotate to flight idle prior to touchdown**
 
 ---
-## Autorotation
+## Ditching/Egress
 
-1. [Autorotation](#autorotation-1)
 1. [Emergency Descent](#emergency-descent)
 1. [Emergency Egress](#emergency-egress)
 
 ---
-### Autorotation
 
-1. Autorotation ... **Establish**
-   1. Maintain N<sub>r</sub> between 90 to 107%, ball centered and airspeed below 100 KIAS
-   2. At approximately 100 feet AGL, ensure a 60 knot attitude
-2. Autorotative landing ... **Execute**
-   1. Apply cyclic flare and collective pitch as required to reduce rate of descent and groundspeed
-   2. Ensure skids are level and nose aligned with direction of travel prior to touchdown
-   3. Continue to increase collective to cushion landing
-
----
-### Engine Failure in Flight
-
-1. Autorotate
-2. Shoulder harness ... **Lock**
-
-##### If time and altitude permit:
-
-3. Mayday ... **Transmit**
-4. Transponder ... **Emergency**
-5. Engine Restart in Flight ... **Perform, as required**
-
----
 ### Emergency Descent
 
 1. Collective ... **Lower (to minimum pitch)**
