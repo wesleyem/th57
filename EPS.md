@@ -5,6 +5,7 @@
 Considerations:
  - ![Image][c] means it applies to the TH-57C only
  - The only steps listed here are Memory Items
+ - Procedures are organized by Name, Indications (if applicable), Corrective Action, and any Notes, Warnings, or Cautions (if applicable)
  - Notes, Warnings, and Cautions have been embedded in the EPs as they appear in the PCL
 
 ## Table of Contents
@@ -87,6 +88,18 @@ Considerations:
 
 ---
 ### Abort Start
+
+##### Indications
+
+1. Battery below 17V
+1. TOT fails to rise after twist grip rotated to flight idle and N<sub>g</sub> fails to rise above 20% (igniter failure)
+1. TOT rises more slowly than normal and N<sub>g</sub> rises slowly and stabilizes (hung start)
+1. TIT exceeds limits and `TOT` caution light flashes twice per second (hot start)
+1. Engine Oil Pressure remains at 0 PSI
+1. Rotors not turning by 25% N<sub>g</sub>
+1. Transmission Oil Pressure not indicated by 30% N<sub>r</sub>
+
+##### Corrective Action
 
 1. Twist grip ... **Close**
 1. Starter ... **Secure after TOT stabilizes at 400 &deg;C or below**
