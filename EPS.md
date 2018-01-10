@@ -544,8 +544,6 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 ##### Corrective Action
 
-> Warning: This emergency may result in engine failure
-
 1. Confirm existence of fire
 
 ##### If fire exists:
