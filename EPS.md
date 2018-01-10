@@ -285,10 +285,9 @@ Considerations:
 ##### Corrective Action
 
 1. Cyclic ... **Immediately apply aft**
+2. Autorotate
 
 > Warning: Rapid cyclic movement may cause mast bumping
-
-2. Autorotate
 
 ---
 
