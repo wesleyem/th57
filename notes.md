@@ -123,14 +123,14 @@ Checklist prestart check
 
 [underspeeding]: https://github.com/wesleyem/th57/blob/master/EPS.md#underspeeding-nfnr
 [hyd-power-malf]: https://github.com/wesleyem/th57/blob/master/EPS.md#hydraulic-power-cylinder-malfunction
-[elec-fire-unknown]: https://github.com/wesleyem/th57/blob/master/EPS.md#electrical-fire-unknown-origin
+[elec-fire-unknown]: https://github.com/wesleyem/th57/blob/master/EPS.md#electrical-fire---unknown-origin
 [fuselage-fire]: https://github.com/wesleyem/th57/blob/master/EPS.md#fuselage-fire
 [eng-fire-in-flt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-fire-in-flight
 
 <!-- Day Four -->
 
 [Compressor-Stall]: https://github.com/wesleyem/th57/blob/master/EPS.md#compressor-stall
-[Elec-fire-known]: https://github.com/wesleyem/th57/blob/master/EPS.md#electrical-fire-known-origin
+[Elec-fire-known]: https://github.com/wesleyem/th57/blob/master/EPS.md#electrical-fire---known-origin
 [Engine-restart-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-restart-in-flight
 [Engine-fail-at-high-as-and-low-alt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-failure-at-high-airspeed-and-low-altitude
 [Engine-failure-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-failure-in-flight

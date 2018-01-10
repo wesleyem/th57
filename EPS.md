@@ -93,7 +93,7 @@ Considerations:
 1. Battery below 17V
 1. TOT fails to rise after twist grip rotated to flight idle and N<sub>g</sub> fails to rise above 20% (igniter failure)
 1. TOT rises more slowly than normal and N<sub>g</sub> rises slowly and stabilizes (hung start)
-1. TIT exceeds limits and `TOT` caution light flashes twice per second (hot start)
+1. TOT exceeds limits and `TOT` caution light flashes twice per second (hot start)
 1. Engine Oil Pressure remains at 0 PSI
 1. Rotors not turning by 25% N<sub>g</sub>
 1. Transmission Oil Pressure not indicated by 30% N<sub>r</sub>
@@ -132,10 +132,15 @@ Considerations:
 7. Land as soon as possible
 
 > Note: Bleed valve flutter is a mild pop or series of pops and may occur while opening the twist grip. The bleed valve flutter may cause slight momentary TOT and torque changes. Any additional indications should be reason to classify this as a compressor stall.
+
 > Warning: This emergency may result in engine failure
+
 > Note: Power (collective) reduction will often eliminate compressor stalls.
+
 > Note: Power available is considered sufficient if level flight can be maintained with N<sub>r</sub> at 90 percent or higher.
+
 > Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent enroute to suitable site for autorotation.
+
 > Note: Depending on time, altitude, and suitability of the landing site the pilot may attempt to increase the twist grip after the compressor stall has cleared to affect a power on landing. Increasing the twist grip may re-aggravate the compressor stall.
 
 ---
@@ -178,8 +183,11 @@ Considerations:
 6. Land as soon as possible
 
 > Warning: This emergency may result in engine failure
+
 > Note: Power available is considered to be sufficient if level flight can be maintained with N<sub>r</sub> at 90% or higher. Do not decelerate below 50 KIAS (min power airspeed) while executing a power check
+
 > Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent en route to a more suitable site for autorotation.
+
 > Note: If power available exceeds power required to hover in ground effect, a normal approach to a hover can be executed. If power available is less than power required to hover, but level flight can be maintained, fly to a safe landing area and execute a no-hover landing or sliding landing. Terrain permitting, a sliding landing requires the least amount of power. 
 
 ---
@@ -218,6 +226,7 @@ Considerations:
 7. Land as soon as possible
 
 > Note: N<sub>g</sub> will not decrease below minimum starting speed within 10 seconds because of rotational inertia plus possible ram effect. The twist grip can be left full open, since fuel flow during the start will be on the normal start acceleration schedule.
+
 > Note: Main generator and BUS/TIE Relay ![Image][c] may need to be reset
 
 ---
@@ -353,6 +362,7 @@ Considerations:
 2. Shoulder harness ... **Lock**
 
 > Note: Possible indications of a transmission failure may include yaw attitude excursions with no control input, an increase in power required for a fixed collective setting, increased noise, or increased vibration levels. 
+
 > Note: Transiting at a minimum power required airspeed and low altitude may permit a quick flare and immediate landing in the event of an imminent transmission failure.
 
 ---
@@ -455,6 +465,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 4. Land as soon as possible
 
 > Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out and the pilot will be unable to maintain control of the aircraft
+
 > Warning: In the event of a complete loss of electrical power in the TH-57B or a failure of the ESS No. 2 bus in the TH-57C, the hydraulic system will reenergize in the malfunction mode. The pilot will be unable to override the hydraulic boost solenoid.
 
 ---
