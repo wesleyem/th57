@@ -6,6 +6,7 @@
 1. [Day Two](#day-two)
 1. [Day Three](#day-three)
 1. [Day Four](#day-four)
+1. [Day Five](#day-five)
 
 ## Day One
 
@@ -133,6 +134,10 @@ Checklist prestart check
 
 
 #### Checklists
+
+ - Takeoff Radio Calls
+ - Prelanding Radio Call
+ - Landing Checks
 
 
 
