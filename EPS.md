@@ -703,14 +703,12 @@ Fixed Pitch Pedal in a Hover - Left Yaw:
 
 2. Smoothly increase collective to stop the yaw
 3. When the left yaw has stopped, smoothly decrease collective to setup for a landing.
+4. Eliminate lateral drift with cyclic as the aircraft settles.
+5. Continue to smoothly lower collective once on deck to control yaw and transfer aircraft weight to the skids.
 
 > Note: Steps 2 and 3 may need to be repeated until acceptable yaw conditions are established for landing.
 
 > Note: Twist grip manipulation may be required to aid recovery.
-
-> Note: Eliminate lateral drift with cyclic as the aircraft settles.
-
-> Note: Continue to smoothly lower collective once on deck to control yaw and transfer aircraft weight to the skids.
 
 ---
 ### Loss of Tail Rotor Effectiveness
