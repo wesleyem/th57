@@ -140,6 +140,30 @@ Checklist prestart check
  - Landing Checks
 
 
+## Day Six
+
+#### Reading
+
+ - [Engine Controls](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#engine-controls)
+ - [Meters and Gauges](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#meters-and-gauges)
+
+#### EPs
+
+ - [Fixed Pitch in a Hover][fixed-pitch-in-a-hover]
+ - [Fuel Boost Pump Failure][fuel-boost-pump-failure]
+ - [Emergency Descent][emergency-descent]
+ - [Sprag Clutch Seizure][sprag-clutch-seizure]
+
+#### Limits
+
+ - [Airspeed Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#airspeed-limits)
+
+#### Checklists
+
+ - Shutdown Checklist
+ - Hydraulic Check
+
+
 
 <!-- Day One -->
 
@@ -181,5 +205,12 @@ Checklist prestart check
 [Fuel-Control-Failure]: https://github.com/wesleyem/th57/blob/master/EPS.md#fuel-control-failure
 [Immediate-LandingDitching]: https://github.com/wesleyem/th57/blob/master/EPS.md#immediate-landingditching
 [Underwater-egress]: https://github.com/wesleyem/th57/blob/master/EPS.md#underwater-egress
+
+<!-- Day Six -->
+
+[fixed-pitch-in-a-hover]:https://github.com/wesleyem/th57/blob/master/EPS.md#fixed-pitch-in-a-hover
+[fuel-boost-pump-failure]:https://github.com/wesleyem/th57/blob/master/EPS.md#fuel-boost-pump-failure
+[emergency-descent]:https://github.com/wesleyem/th57/blob/master/EPS.md#emergency-descent
+[sprag-clutch-seizure]:https://github.com/wesleyem/th57/blob/master/EPS.md#sprag-clutch-seizure
 
 

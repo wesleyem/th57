@@ -25,10 +25,6 @@ Power On:
 |---|---|
 |97% 	|	100%|
 
-Power Off:
-
- - 90-107% N<sub>f</sub>
-
 > Note: N<sub>f</sub> overspeeds are determined on a sliding scale depending on TOT, N<sub>f</sub> percentage, and duration
 
 Avoid Range (steady-state operation)
@@ -80,7 +76,12 @@ Idle	|	Normal	|	Max
 
 ### Rotor Limits
 
-See [N<sub>f</sub> above](#nf)
+N<sub>r</sub> 
+| Power ON | Power OFF |
+---|---
+97%-100% | 90%-107%
+
+
 
 ### Transmission Oil System Limts
 
