@@ -8,14 +8,14 @@
 1. [Day Four](#day-four)
 1. [Day Five](#day-five)
 1. [Day Six](#day-six)
-1. [Day Seven](#day-seven)
+<!-- 1. [Day Seven](#day-seven)
 1. [Day Eight](#day-eight)
 1. [Day Nine](#day-nine)
 1. [Day Ten](#day-ten)
 1. [Day Eleven](#day-eleven)
 1. [Day Twelve](#day-twelve)
 1. [Day Thirteen](#day-thirteen)
-1. [Day Fourteen](#day-fourteen)
+1. [Day Fourteen](#day-fourteen) -->
 
 ---
 ## Day One
