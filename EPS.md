@@ -530,7 +530,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 > Note: Voltmeter will not indicate battery voltage until batter bus supply and voltmeter circuit breakers are in.
 
-> Note: Flight operation can be maintained without batter and generator. Instruments powered by the 28 Vdc power, however, will be inoperable.
+> Note: Flight operation can be maintained without battery and generator. Instruments powered by the 28 Vdc power, however, will be inoperable.
 
 > Note: ![Image][c] The voltmeter select switch may aid in identifying the location of the fire
 
