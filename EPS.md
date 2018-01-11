@@ -205,7 +205,7 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 ##### Corrective Action
 
 1. Collective ... **Adjust as required to maintain N<sub>r</sub> in operating range**
-2. Twist grip ... **Adjust (to maintain N<sub>f</sub> in operating range)**
+2. Twist grip ... **Adjust as required to maintain N<sub>f</sub> in operating range**
 3. Land as soon as possible
 
 > Warning: May result in engine failure
