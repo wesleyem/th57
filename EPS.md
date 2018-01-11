@@ -50,8 +50,7 @@ Considerations:
 
    1. [Mast Bumping](#mast-bumping)
    1. [Uncommanded Right Roll During Flight Below 1G](#uncommanded-right-roll-during-flight-below-1g)
-   1. [Fixed Pitch (Low Power)](#fixed-pitch-low-power)
-   1. [Fixed Pitch (High Power)](#fixed-pitch-high-power)
+   1. [Fixed Pitch in a Hover](#fixed-pitch-in-a-hover)
    1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
    1. [High-Frequency Vibration](#high-frequency-vibration)
    1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
@@ -364,6 +363,14 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 ---
 ### Sprag Clutch Seizure
 
+##### Indications
+
+1. N<sub>f</sub>/N<sub>r</sub> married during shutdown.
+2. N<sub>f</sub>/N<sub>r</sub> married above 100 percent during
+autorotational flight.
+
+##### Corrective Action
+
 1. Ensure twist grip is full open
 2. Land as soon as possible
 
@@ -440,16 +447,23 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 ---
 ### Fuel Boost Pump Failure
 
+##### Indications
+
+1. `FUEL PUMP` caution light
+1. Indicated fuel pressure of zero (dual-pump failure)
+
+##### Corrective Action
+
 1. Descent ... **Initiate if above 6,000 feet PA and flight permits**
 2. Fuel pressure and quantity ... **Note**
 
-> Warning: With one or both boost pumps inoperative, minimum fuel is 20 gallons; 10 gallons is unusable
-
 ##### If both fuel boost pumps have failed (fuel pressure at zero):
 
-> Warning: Dual boost pump failure may lead to engine failure
-
 3. Land as soon as possible
+
+> Warning: With one or both boost pumps inoperative, 10 gallons is unusable
+
+> Warning: Dual boost pump failure may lead to engine failure
 
 ---
 ### Suspected Fuel Leakage
@@ -624,8 +638,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 1. [Mast Bumping](#mast-bumping)
 1. [Uncommanded Right Roll During Flight Below 1G](#uncommanded-right-roll-during-flight-below-1g)
-1. [Fixed Pitch (Low Power)](#fixed-pitch-low-power)
-1. [Fixed Pitch (High Power)](#fixed-pitch-high-power)
+1. [Fixed Pitch in a Hover](#fixed-pitch-in-a-hover)
 1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
 1. [High-Frequency Vibration](#high-frequency-vibration)
 1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
@@ -660,7 +673,15 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 3. Land immediately
 
 ---
-### Fixed Pitch (Low Power)
+### Fixed Pitch in a Hover
+
+##### Indications
+
+1. Unable to control yaw in a hover with pedal input.
+   1. Right yaw - increased power will aggravate yaw
+   1. Left yaw - decrease power will aggravate yaw
+
+##### Corrective Action
 
 Fixed Pitch Pedal in a Hover - Right Yaw:
 ##### If rate of rotation is not excessive and landing surface is smooth and firm:
@@ -673,27 +694,23 @@ Fixed Pitch Pedal in a Hover - Right Yaw:
 3. Cyclic ... **Eliminate drift**
 4. Collective ... **Increase to cushion landing**
 
-Fixed Pitch Pedal at Altitude - Lower Power steps are non-memory items.
-
-> Warning: If it becomes necessary to use large collective inputs to waveoff near the deck, the nose will yaw right and possibly enter uncontrolled flight
-
----
-### Fixed Pitch (High Power)
-
 Fixed Pitch Pedal in a Hover - Left Yaw:
-
 ##### If rate of rotation is not excessive and landing surface is smooth and firm:
 
-1. Collective ... **Decrease to effect a power-on landing**
+1. Collective ... **Decrease to affect a power-on landing**
 
 ##### If rate of rotation is excessive or landing surface is unsuitable for a power-on landing:
 
-2. Smoothly increase collective to stop the left yaw
-3. When the left yaw has stopped, smoothly decrease collective to set up for a landing
-4. Eliminate lateral drift with cyclic as the aircraft settles
-5. Continue to smoothly lower collective once on deck to control yaw and transfer aircraft weight to the skids.
+2. Smoothly increase collective to stop the yaw
+3. When the left yaw has stopped, smoothly decrease collective to setup for a landing.
 
-Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
+> Note: Steps 2 and 3 may need to be repeated until acceptable yaw conditions are established for landing.
+
+> Note: Twist grip manipulation may be required to aid recovery.
+
+> Note: Eliminate lateral drift with cyclic as the aircraft settles.
+
+> Note: Continue to smoothly lower collective once on deck to control yaw and transfer aircraft weight to the skids.
 
 ---
 ### Loss of Tail Rotor Effectiveness
@@ -759,6 +776,8 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 ---
 
 ### Emergency Descent
+
+##### Corrective Action
 
 1. Collective ... **Lower (to minimum pitch)**
 2. Airspeed ... **130 KIAS (122 KIAS Maximum with FCS on)**

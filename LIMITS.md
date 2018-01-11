@@ -139,3 +139,25 @@ Limit starter engergizing time to the following:
 25s - ON| 40s - ON
 30m - OFF| 30m - OFF
 
+
+### Airspeed Limits
+
+> Note: All airspeed values are calibrated airspeed except when indicated airspeed is specifically stated
+
+| Density Alt Feet | Max Sideward Knots | Max Rearward Knots |
+|---|---|---|
+|0-1000|25|15|
+|1000-2000|20|15|
+|2000-4000|15|15|
+|4000-6000|10|10|
+|6000-10000|5|5|
+
+| Type | Airspeed |
+|---|---|
+| V<sub>ne</sub> FCS OFF | 130 KIAS |
+| V<sub>ne</sub> FCS ON | 122 KIAS |
+| Max rate of climb | 50KIAS |
+| Min IFR speed (V<sub>min i</sub>) | 65 KIAS |
+| Max airspeed with any combination of doors off | 110 KIAS |
+| Max autorotational airspeed | 100 KIAS |
+| Turbulence penetration airspeed | 80 KIAS |
