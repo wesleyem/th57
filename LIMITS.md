@@ -1,8 +1,3 @@
-[figure4-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-2.png?raw=true
-[figure4-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3.png?raw=true
-[figure4-3-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-2.png?raw=true
-[figure4-3-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-3.png?raw=true
-
 # Limits
 
 ## Engine Limitations
@@ -161,3 +156,16 @@ Limit starter engergizing time to the following:
 | Max airspeed with any combination of doors off | 110 KIAS |
 | Max autorotational airspeed | 100 KIAS |
 | Turbulence penetration airspeed | 80 KIAS |
+
+
+
+
+
+
+
+
+
+[figure4-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-2.png?raw=true
+[figure4-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3.png?raw=true
+[figure4-3-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-2.png?raw=true
+[figure4-3-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-3.png?raw=true
