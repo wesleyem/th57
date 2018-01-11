@@ -253,7 +253,13 @@ Checklist prestart check
 ---
 ## Day Fourteen
 
+#### Reading
 
+#### EPs
+
+#### Limits
+
+#### Checklists
 
 
 
