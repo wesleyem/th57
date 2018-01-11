@@ -25,6 +25,7 @@ Considerations:
 
 1. [Transmission](#transmission)
 
+   1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
    1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
    1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
    1. [Transmission Malfunction](#transmission-malfunction)
@@ -195,11 +196,19 @@ Considerations:
 ---
 ### Fuel Control Failure
 
+##### Indications
+
+If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</sub> due to erratic fuel scheduling
+1. Erratic N<sub>f</sub>/N<sub>r</sub>
+1. Fluctuating N<sub>g</sub> and/or TOT
+
+##### Corrective Action
+
 1. Collective ... **Adjust as required to maintain N<sub>r</sub> in operating range**
-2. Twist grip ... **Adjust (to maintain N<sub>f</sub>/N<sub>g</sub> in operating range)**
+2. Twist grip ... **Adjust (to maintain N<sub>f</sub>/N<sub>f</sub> in operating range)**
 3. Land as soon as possible
 
-> Warning: Be prepared for complete power loss
+> Warning: May result in engine failure
 
 ---
 ### Engine Restart in flight
@@ -295,6 +304,7 @@ Considerations:
 
 ## Transmission
 
+1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
 1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
 1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
 1. [Transmission Malfunction](#transmission-malfunction)
@@ -303,14 +313,26 @@ Considerations:
 ---
 ### Main Drive Shaft Failure
 
+##### Indications
+
+1. N<sub>r</sub> decrease
+1. N<sub>f</sub> higher than N<sub>r</sub>
+1. Left yaw
+1. Loud bang/sound of overspeeding engine
+1. Low torque
+
+##### Corrective Action
+
 1. Autorotate
 2. Twist grip ... **Adjust, if necessary, to maintain N<sub>f</sub> in operating range**
-
-> Warning: The engine must continue to operate to provide tail rotor drive. Tail rotor authority may be lost if N<sub>f</sub> is allowed to go below 80%
 
 ##### When on deck:
 
 3. Emergency shutdown ... **Complete**
+
+> Warning: The engine must continue to operate to provide tail rotor drive. Tail rotor authority may be lost if N<sub>f</sub> is allowed to go below 80%
+
+> Note: The N<sub>f</sub> governor should bring the N<sub>f</sub> back to 100% with the twist grip full open
 
 ---
 ### Sprag Clutch Slippage
@@ -611,10 +633,18 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 ---
 ### Mast Bumping
 
+##### Indications
+
+1. Sharp two-rev knocking
+
+##### Corrective Action
+
 ##### If mast bumping is suspected:
 
 1. Establish positive G load and/or balanced flight (as required)
 2. Land immediately
+
+> Note: If mast bumping occurs while on deck maintenance action is required prior to flight
 
 ---
 ### Uncommanded Right Roll During Flight Below 1G
