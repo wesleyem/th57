@@ -25,6 +25,10 @@ Power On:
 |---|---|
 |97% 	|	100%|
 
+Power Off:
+
+ - 90-107% N<sub>f</sub>
+
 > Note: N<sub>f</sub> overspeeds are determined on a sliding scale depending on TOT, N<sub>f</sub> percentage, and duration
 
 Avoid Range (steady-state operation)
@@ -73,3 +77,64 @@ Idle	|	Normal	|	Max
 ![Image][figure4-3]
 ![Image][figure4-3-2]
 ![Image][figure4-3-3]
+
+### Rotor Limits
+
+See [N<sub>f</sub> above](#nf)
+
+### Transmission Oil System Limts
+
+##### Pressure
+
+|Continuous	| Min | Max |
+|---|---|---|
+|30-50 psi| 30|70|
+
+ - Indications between 50-70 psi shall be documented on a MAF
+
+##### Temperature
+
+15&deg;C-110&deg;C
+
+> Note: Check transmission oil pressure with twist grip `full open`
+
+> Note: Illumination of the TRANS OIL PRESS caution light is common while the twist grip is at flight idle, however, the gauge should indicate positive transmission oil pressure.
+
+> Note: There is no detrimental effect to the transmission system with oil pressure between 50 to 70 psi with the transmission temperature within limits.
+
+
+### Torque
+
+|Max continuous | Military power limit | Transient limit |
+|---|---|---|
+|85%|100% for 5 min | 100-110% for 5 sec|
+
+### Fuel Pressure
+
+4-30 psi
+
+### Standby Generator Limits
+
+> Note: With main generator on, the standby generator loadmeter should indicate 10 percent load or less. Momentary testing of standby generator under full bus load is permitted on the ground or in the air. 
+
+Prolonged operation of the standby generator while it is the primary power supply to the essential No. 1 bus is prohibited at speeds below `65 KIAS`
+
+### Rotor Brake Limitations
+
+Should be applied 30-38% N<sub>r</sub> during normal operations
+
+### Starter Limitations
+
+> Note: If a light-off occurs within the first 20 seconds of the start sequence, the starter may be operated for 60 seconds with a 60-second cooling period. Three such attempts can be made in a 30-minute period, then wait 30 minutes to allow the starter to cool. 
+
+Limit starter engergizing time to the following:
+
+| Ext power | Battery |
+|---|---|
+25s - ON| 40s - ON
+30s - OFF| 60s - OFF
+25s - ON| 40s - ON
+30s - OFF| 60s - OFF
+25s - ON| 40s - ON
+30m - OFF| 30m - OFF
+

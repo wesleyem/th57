@@ -760,9 +760,52 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 
 ### Immediate Landing/Ditching
 
+##### Corrective Action
+
+1. Crew and Passengers ... **Alert**
+1. Harness ... **Lock**
+1. Mayday ... **Transmit**
+1. Transponder ... **Emergency**
+1. Doors ... **Open/Jettison as required**
+
+##### After landing:
+
+6. Emergency Engine Shutdown ... **Execute**
+
+##### If water landing:
+
+7. Underwater Egress ... **Execute**
+
+> Warning: Jettisoning the left cabin door in forward flight may cause catastrophic damage to the tail rotor.
+
+> Warning: Failure to remain strapped in the aircraft until all violent motion stops may result in injury or incapacitation.
+
 ---
 
 ### Underwater Egress
+
+##### Corrective Action
+
+1. SEBD ... **Don, as required**
+1. Communication cords ... **Disconnect**
+1. Doors ... **Open/Jettison**
+1. Place hand on known reference point
+
+##### Once all violent motion has stopped:
+
+5. Shoulder harness/lapbelt ... **Release**
+6. Exit helicopter
+
+##### After Egress:
+
+7. Swim clear and inflate LPU
+
+> Warning: Inflation of LPU inside of aircraft will impede egress.
+
+> Warning: Failure to jettison doors prior to water entry may prevent opening of doors until cabin fills with water. Cabin misalignment due to water landing may also prevent opening of doors.
+
+> Warning: Failure to disconnect ICS cords may impede egress.
+
 
 ---
 ## Flight/Instruments/Icing

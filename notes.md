@@ -124,13 +124,13 @@ Checklist prestart check
 
 #### Limits
 
- - Rotor limits
- - Transmission Oil system limts
- - torque
- - fuel pressure
- - standby gen limits
- - rotor brake limitsions
- - starter limitation
+ - [Rotor Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#rotor-limits)
+ - [Transmission Oil System Limts](https://github.com/wesleyem/th57/blob/master/LIMITS.md#transmission-oil-system-limts)
+ - [Torque](https://github.com/wesleyem/th57/blob/master/LIMITS.md#torque)
+ - [Fuel Pressure](https://github.com/wesleyem/th57/blob/master/LIMITS.md#fuel-pressure)
+ - [Standby Generator Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#standby-generator-limits)
+ - [Rotor Brake Limitsions](https://github.com/wesleyem/th57/blob/master/LIMITS.md#rotor-brake-limitsions)
+ - [Starter Limitations](https://github.com/wesleyem/th57/blob/master/LIMITS.md#starter-limitations)
 
 
 #### Checklists
