@@ -140,7 +140,7 @@ Limit starter engergizing time to the following:
 > Note: All airspeed values are calibrated airspeed except when indicated airspeed is specifically stated
 
 | Density Alt Feet | Max Sideward Knots | Max Rearward Knots |
-|---|---|---|
+|:---:|:---:|:---:|
 |0-1000|25|15|
 |1000-2000|20|15|
 |2000-4000|15|15|
@@ -148,7 +148,7 @@ Limit starter engergizing time to the following:
 |6000-10000|5|5|
 
 | Type | Airspeed |
-|---|---|
+|---:|:---:|
 | V<sub>ne</sub> FCS OFF | 130 KIAS |
 | V<sub>ne</sub> FCS ON | 122 KIAS |
 | Max rate of climb | 50KIAS |
