@@ -11,12 +11,12 @@
 ## Day One
 
 #### EPs
- - ![abort start][abort-start]
- - ![post shutdown fire/internal][post-shutdown]
- - ![emergency shutdown][emer-shutdown]
- - ![Engine or Transmission Oil Pressures][etx-px]
- - ![Engine or Transmission Oil Temperatures][etx-t]
- - ![Icing][icing]
+ - [abort start][abort-start]
+ - [post shutdown fire/internal][post-shutdown]
+ - [emergency shutdown][emer-shutdown]
+ - [Engine or Transmission Oil Pressures][etx-px]
+ - [Engine or Transmission Oil Temperatures][etx-t]
+ - [Icing][icing]
 
 -Check Operation Limitations Chapter for the following
 
@@ -36,11 +36,11 @@ Components and lights
 End of chapter questions
 
 #### EPs
- - ![Suspected fuel leakage][fuel-leak]
- - ![smoke and fume elimination][smoke-fume]
- - ![torqumeter][torq]
- - ![engine overspeed][overspeed]
- - ![transmission malf][trans-malf]
+ - [Suspected fuel leakage][fuel-leak]
+ - [smoke and fume elimination][smoke-fume]
+ - [torqumeter][torq]
+ - [engine overspeed][overspeed]
+ - [transmission malf][trans-malf]
 
 #### Limits
  - Natops pages 4-2 to 4-4 (pre-Jan2018 ICs)
@@ -61,11 +61,11 @@ Checklist prestart check
 
 #### EPs
 
- - ![underspeeding][underspeeding]
- - ![hyd power cyl malf][hyd-power-malf]
- - ![elec fire unknown][elec-fire-unknown]
- - ![fuselage fire][fuselage-fire]
- - ![eng fire in flt][eng-fire-in-flt]
+ - [underspeeding][underspeeding]
+ - [hyd power cyl malf][hyd-power-malf]
+ - [elec fire unknown][elec-fire-unknown]
+ - [fuselage fire][fuselage-fire]
+ - [eng fire in flt][eng-fire-in-flt]
 
 #### Limits
 
@@ -87,11 +87,11 @@ Checklist prestart check
 
 #### EPs
 
-- ![Compressor Stall][Compressor-Stall]
-- ![Elec fire known][Elec-fire-known]
-- ![Engine restart in flight][Engine-restart-in-flight]
-- ![Engine fail at high a/s and low alt][Engine-fail-at-high-as-and-low-alt]
-- ![Engine failure in flight][Engine-failure-in-flight]
+- [Compressor Stall][Compressor-Stall]
+- [Elec fire known][Elec-fire-known]
+- [Engine restart in flight][Engine-restart-in-flight]
+- [Engine fail at high a/s and low alt][Engine-fail-at-high-as-and-low-alt]
+- [Engine failure in flight][Engine-failure-in-flight]
 
 #### Limits
 
