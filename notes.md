@@ -6,6 +6,7 @@
 1. [Day Two](#day-two)
 1. [Day Three](#day-three)
 1. [Day Four](#day-four)
+1. [Day Five](#day-five)
 
 ## Day One
 
@@ -100,6 +101,44 @@ Checklist prestart check
 
  - Takeoff Checklist
 
+---
+
+## Day Five
+
+#### Reading
+
+ - [Engine Oil System Monitors](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#engine-oil-system-monitors)
+ - [Anti-Ice System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#anti-ice-system)
+ - [Engine Fire Detector System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#engine-fire-detector-system)
+ - [Engine Failure Warning System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#engine-failure-warning-system)
+ - [Engine Controls](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#engine-controls)
+ - [Meters and Gauges](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#meters-and-gauges)
+
+#### EPs
+
+- [Main drive shaft failure][Main-drive-shaft-failure]
+- [Mast Bumping][Mast-Bumping]
+- [Fuel Control Failure][Fuel-Control-Failure]
+- [Immediate Landing/Ditching][Immediate-LandingDitching]
+- [Underwater egress][Underwater-egress]
+
+#### Limits
+
+ - Rotor limits
+ - Transmission Oil system limts
+ - torque
+ - fuel pressure
+ - standby gen limits
+ - rotor brake limitsions
+ - starter limitation
+
+
+#### Checklists
+
+ - Takeoff Radio Calls
+ - Prelanding Radio Call
+ - Landing Checks
+
 
 
 <!-- Day One -->
@@ -134,4 +173,13 @@ Checklist prestart check
 [Engine-restart-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-restart-in-flight
 [Engine-fail-at-high-as-and-low-alt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-failure-at-high-airspeed-and-low-altitude
 [Engine-failure-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-failure-in-flight
+
+<!-- Day Five -->
+
+[Main-drive-shaft-failure]: https://github.com/wesleyem/th57/blob/master/EPS.md#main-drive-shaft-failure
+[Mast-Bumping]: https://github.com/wesleyem/th57/blob/master/EPS.md#mast-bumping
+[Fuel-Control-Failure]: https://github.com/wesleyem/th57/blob/master/EPS.md#fuel-control-failure
+[Immediate-LandingDitching]: https://github.com/wesleyem/th57/blob/master/EPS.md#immediate-landingditching
+[Underwater-egress]: https://github.com/wesleyem/th57/blob/master/EPS.md#underwater-egress
+
 

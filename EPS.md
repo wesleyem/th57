@@ -59,6 +59,8 @@ Considerations:
 
    1. [Emergency Descent](#emergency-descent)
    1. [Emergency Egress](#emergency-egress)
+   1. [Immediate Landing/Ditching](#immediate-landingditching)
+   1. [Underwater Egress](#underwater-egress)
 
 1. [Flight/Instruments/Icing](#flightinstrumentsicing)
 
@@ -721,6 +723,8 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 
 1. [Emergency Descent](#emergency-descent)
 1. [Emergency Egress](#emergency-egress)
+1. [Immediate Landing/Ditching](#immediate-landingditching)
+1. [Underwater Egress](#underwater-egress)
 
 ---
 
@@ -751,6 +755,14 @@ Fixed Pitch Pedal at Altitude - High Power steps are non-memory items.
 10. Shoulder harness/lapbelt ... **Release**
 11. Helicopter ... **Egress**
 12. LPU ... **Inflate as required**
+
+---
+
+### Immediate Landing/Ditching
+
+---
+
+### Underwater Egress
 
 ---
 ## Flight/Instruments/Icing
