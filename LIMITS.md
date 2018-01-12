@@ -30,7 +30,7 @@ Avoid Range (steady-state operation)
 ### Ng RPM
 Idle	|	Normal	|	Max
 ---|---|---
-|	62 +/- 2|	59-105	|	106 for 15s	|
+|	62% +/- 2|	59%-105%	|	106% for 15s	|
 
 ### Rotor Engagement/Disengagement Wind Limitations
 
@@ -72,9 +72,10 @@ Idle	|	Normal	|	Max
 ### Rotor Limits
 
 N<sub>r</sub> 
+
 | Power ON | Power OFF |
----|---
-97%-100% | 90%-107%
+|---|---|
+|97%-100% | 90%-107%|
 
 
 
@@ -151,7 +152,7 @@ Limit starter engergizing time to the following:
 |---:|:---:|
 | V<sub>ne</sub> FCS OFF | 130 KIAS |
 | V<sub>ne</sub> FCS ON | 122 KIAS |
-| Max rate of climb | 50KIAS |
+| Max rate of climb | 50 KIAS |
 | Min IFR speed (V<sub>min i</sub>) | 65 KIAS |
 | Max airspeed with any combination of doors off | 110 KIAS |
 | Max autorotational airspeed | 100 KIAS |
