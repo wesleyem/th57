@@ -6,105 +6,143 @@ Considerations:
  - ![Image][c] means it applies to the TH-57C only
  - The only steps listed here are Memory Items
  - Procedures are organized by Name, Indications (if applicable), Corrective Action, and any Notes, Warnings, or Cautions (if applicable)
- - Notes, Warnings, and Cautions have been embedded in the EPs as they appear in the PCL
+
 
 ## Table of Contents
 
 1. [Engine](#engine)
 
-   1. [Abort Start](#abort-start)
+   1. [Engine Failure in Flight](#engine-failure-in-flight)
+   1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
+   1. [Overtorque/Overtemp/Overspeed](#overtorqueovertempoverspeed)
    1. [Compressor Stall](#compressor-stall)
-   1. [Engine Overspeed (N<sub>f</sub>) Rotor RPM (N<sub>r</sub>)](#engine-overspeed-nf-rotor-rpm-nr)
    1. [Underspeeding (N<sub>f</sub>/N<sub>r</sub>)](#underspeeding-nfnr)
+   1. [Engine Overspeed (N<sub>f</sub>) Rotor RPM (N<sub>r</sub>)](#engine-overspeed-nf-rotor-rpm-nr)
    1. [Fuel Control Failure](#fuel-control-failure)
    1. [Engine Restart in Flight](#engine-restart-in-flight)
    1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
-   1. [Emergency Shutdown](#emergency-shutdown)
-   1. [Engine Failure in Flight](#engine-failure-in-flight)
-   1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
+   1. [Engine Chip](#engine-chip)
+   1. [Abort Start](#abort-start)
+
+1. [Main Rotor System](#main-rotor-system)
+
+   1. [Mast Bumping](#mast-bumping)
 
 1. [Transmission](#transmission)
 
-   1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
-   1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
-   1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
    1. [Transmission Malfunction](#transmission-malfunction)
    1. [Transmission Chip](#transmission-chip)
+   1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
+   1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
 
-1. [Fuel/Hydraulic](#fuelhydraulic)
+1. [Tail Rotor Failure and Directional Control Malfunctions](#tail-rotor-failure-and-directional-control-malfunctions)
+
+   1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
+   1. [Tail Rotor Chip Caution](#tail-rotor-chip-caution)
+   1. [Fixed Pitch in a Hover](#fixed-pitch-in-a-hover)
+   1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
+   1. [High-Frequency Vibration](#high-frequency-vibration)
+
+1. [Hydraulic System](#hydraulic-system)
+   1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
+
+1. [Electrical System](#electrical-system)
+   1. [Battery Hot Caution](#battery-hot-caution)
+   1. [Battery Temp Caution](#battery-temp-caution)
+   1. [Spare Caution](#spare-caution)
+
+1. [Fuel System](#fuel-system)
 
    1. [Fuel Boost Pump Failure](#fuel-boost-pump-failure)
    1. [Airframe Fuel Filter Caution](#airframe-fuel-filter-caution)
    1. [Suspected Fuel Leakage](#suspected-fuel-leakage)
-   1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
 
 1. [Fire](#fire)
 
-   1. [Electrical Fire - Known Origin](#electrical-fire---known-origin)
-   1. [Electrical Fire - Unknown Origin](#electrical-fire---unknown-origin)
    1. [Engine Fire in Flight](#engine-fire-in-flight)
    1. [Fuselage Fire](#fuselage-fire)
+   1. [Electrical Fire - Unknown Origin](#electrical-fire---unknown-origin)
+   1. [Electrical Fire - Known Origin](#electrical-fire---known-origin)
    1. [Smoke and Fume Elimination](#smoke-and-fume-elimination)
    1. [Post Shutdown Fire (Internal)](#post-shutdown-fire-internal)
 
-1. [Mast Bumping/Tail Rotor](#mast-bumpingtail-rotor)
-
-   1. [Mast Bumping](#mast-bumping)
-   1. [Uncommanded Right Roll During Flight Below 1G](#uncommanded-right-roll-during-flight-below-1g)
-   1. [Fixed Pitch in a Hover](#fixed-pitch-in-a-hover)
-   1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
-   1. [High-Frequency Vibration](#high-frequency-vibration)
-   1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
-
 1. [Ditching/Egress](#autorotation)
 
-   1. [Emergency Descent](#emergency-descent)
-   1. [Emergency Egress](#emergency-egress)
    1. [Immediate Landing/Ditching](#immediate-landingditching)
    1. [Underwater Egress](#underwater-egress)
+   1. [Emergency Shutdown](#emergency-shutdown)
 
-1. [Flight/Instruments/Icing](#flightinstrumentsicing)
+1. [Icing](#icing)
 
-   1. [Pitot-Static Instruments](#pitot-static-instruments)
+1. [Torquemter](#torquemeter)
    1. [Torquemeter Wet Line Rupture](#torquemeter-wet-line-rupture)
    1. [Engine or Transmission Oil Pressures](#engine-or-transmission-oil-pressures)
    1. [Engine or Transmission Oil Temperatures](#engine-or-transmission-oil-temperatures)
-   1. [Icing](#icing)
-   1. [Power Required Exceeds Power Available](#power-required-exceeds-power-available)
-   1. [Vortex Ring State](#vortex-ring-state)
+   1. [Pitot-Static Instruments](#pitot-static-instruments)
+
+1. [Performance](#performance)
+
    1. [Rotor Blade Stall](#rotor-blade-stall)
+   1. [Vortex Ring State](#vortex-ring-state)
+   1. [Power Required Exceeds Power Available](#power-required-exceeds-power-available)
    1. [Dynamic Rollover](#dynamic-rollover)
+   1. [Uncommanded Right Roll During Flight Below 1G](#uncommanded-right-roll-during-flight-below-1g)
+
+1. [Emergency Descent](#emergency-descent)
 
 ## Engine
 
-1. [Abort Start](#abort-start)
+1. [Engine Failure in Flight](#engine-failure-in-flight)
+1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
+1. [Overtorque/Overtemp/Overspeed](#overtorqueovertempoverspeed)
 1. [Compressor Stall](#compressor-stall)
-1. [Engine Overspeed (N<sub>f</sub>) Rotor RPM (N<sub>r</sub>)](#engine-overspeed-nf-rotor-rpm-nr)
 1. [Underspeeding (N<sub>f</sub>/N<sub>r</sub>)](#underspeeding-nfnr)
+1. [Engine Overspeed (N<sub>f</sub>) Rotor RPM (N<sub>r</sub>)](#engine-overspeed-nf-rotor-rpm-nr)
 1. [Fuel Control Failure](#fuel-control-failure)
 1. [Engine Restart in Flight](#engine-restart-in-flight)
 1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
-1. [Emergency Shutdown](#emergency-shutdown)
-1. [Engine Failure in Flight](#engine-failure-in-flight)
-1. [Engine Failure at High Airspeed and Low Altitude](#engine-failure-at-high-airspeed-and-low-altitude)
+1. [Engine Chip](#engine-chip)
+1. [Abort Start](#abort-start)
 
 ---
-### Abort Start
+### Engine Failure in Flight
 
 ##### Indications
 
-1. Battery below 17V
-1. TOT fails to rise after twist grip rotated to flight idle and N<sub>g</sub> fails to rise above 20% (igniter failure)
-1. TOT rises more slowly than normal and N<sub>g</sub> rises slowly and stabilizes (hung start)
-1. TOT exceeds limits and `TOT` caution light flashes twice per second (hot start)
-1. Engine Oil Pressure remains at 0 PSI
-1. Rotors not turning by 25% N<sub>g</sub>
-1. Transmission Oil Pressure not indicated by 30% N<sub>r</sub>
+1. N<sub>r</sub> decrease
+1. Rapid settling
+1. Left yaw
+1. `ROTOR LOW RPM` caution light and audio
+1. `ENGINE OUT` caution light and audio
+1. `GEN FAIL` or ![Image][c]`MAIN GEN FAIL` caution light
 
 ##### Corrective Action
 
-1. Twist grip ... **Close**
-1. Starter ... **Secure after TOT stabilizes at 400 &deg;C or below**
+1. Autorotate
+1. Shoulder harness ... **Lock**
+
+##### If time and altitude permit
+
+3. Mayday ... **Transmit**
+4. Transponder ... **Emergency**
+5. Engine Restart in Flight procedure ... **as required**
+
+---
+### Engine Failure at High Airspeed and Low Altitude
+
+##### Indications
+
+- None
+
+##### Corrective Action
+
+1. Cyclic ... **Immediately apply aft**
+2. Autorotate
+
+> Warning: Rapid cyclic movement may cause mast bumping
+
+---
+### Overtorque/Overtemp/Overspeed
 
 ---
 ### Compressor Stall
@@ -147,19 +185,6 @@ Considerations:
 > Note: Depending on time, altitude, and suitability of the landing site the pilot may attempt to increase the twist grip after the compressor stall has cleared to affect a power on landing. Increasing the twist grip may re-aggravate the compressor stall.
 
 ---
-### Engine Overspeed (Nf) Rotor RPM (Nr)
-
-##### Indications
-1. N<sub>r</sub>, N<sub>f</sub>, N<sub>g</sub>, TOT, and Engine noise inc
-1. Right yaw
-
-##### Corrective Action
-
-1. Twist grip ... **Reduce (to maintain N<sub>f</sub>/N<sub>r</sub>) in operating range)**
-2. Collective/twist grip ... **Coordinate**
-3. Land as soon as possible
-
----
 ### Underspeeding Nf/Nr
 
 ##### Indications
@@ -192,6 +217,19 @@ Considerations:
 > Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent en route to a more suitable site for autorotation.
 
 > Note: If power available exceeds power required to hover in ground effect, a normal approach to a hover can be executed. If power available is less than power required to hover, but level flight can be maintained, fly to a safe landing area and execute a no-hover landing or sliding landing. Terrain permitting, a sliding landing requires the least amount of power. 
+
+---
+### Engine Overspeed (Nf) Rotor RPM (Nr)
+
+##### Indications
+1. N<sub>r</sub>, N<sub>f</sub>, N<sub>g</sub>, TOT, and Engine noise inc
+1. Right yaw
+
+##### Corrective Action
+
+1. Twist grip ... **Reduce (to maintain N<sub>f</sub>/N<sub>r</sub>) in operating range)**
+2. Collective/twist grip ... **Coordinate**
+3. Land as soon as possible
 
 ---
 ### Fuel Control Failure
@@ -241,76 +279,6 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 > Note: Main generator and BUS/TIE Relay ![Image][c] may need to be reset
 
 ---
-### Emergency Shutdown
-
-##### Indications
-
-1. Fire warning light
-1. Smoke, fuel fumes, Fire
-1. Indication from ground personnel
-1. Grinding noises or apparent drive train damage
-
-##### Corrective Action
-
-1. Twist grip ... **Close**
-2. Fuel valve ... **OFF**
-3. BAT switch ... **OFF**
-4. ![Image][c] STBY ATT IND switch ... **OFF**
-5. ![Image][c] Rotor brake ... **Engage immediately**
-6. Helicopter ... **Egress, as required. Use fire bottle or get clear of the aircraft as applicable**
-
-> Warning: After exiting aircraft, beware of rotor blades
-
----
-
-### Engine Failure in Flight
-
-##### Indications
-
-1. N<sub>r</sub> decrease
-1. Rapid settling
-1. Left yaw
-1. `ROTOR LOW RPM` caution light and audio
-1. `ENGINE OUT` caution light and audio
-1. `GEN FAIL` or ![Image][c]`MAIN GEN FAIL` caution light
-
-##### Corrective Action
-
-1. Autorotate
-1. Shoulder harness ... **Lock**
-
-##### If time and altitude permit
-
-3. Mayday ... **Transmit**
-4. Transponder ... **Emergency**
-5. Engine Restart in Flight procedure ... **as required**
-
----
-
-### Engine Failure at High Airspeed and Low Altitude
-
-##### Indications
-
-- None
-
-##### Corrective Action
-
-1. Cyclic ... **Immediately apply aft**
-2. Autorotate
-
-> Warning: Rapid cyclic movement may cause mast bumping
-
----
-
-## Transmission
-
-1. [Main Drive Shaft Failure](#main-drive-shaft-failure)
-1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
-1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
-1. [Transmission Malfunction](#transmission-malfunction)
-1. [Transmission Chip](#transmission-chip)
-
----
 ### Main Drive Shaft Failure
 
 ##### Indications
@@ -333,6 +301,116 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 > Warning: The engine must continue to operate to provide tail rotor drive. Tail rotor authority may be lost if N<sub>f</sub> is allowed to go below 80%
 
 > Note: The N<sub>f</sub> governor should bring the N<sub>f</sub> back to 100% with the twist grip full open
+
+---
+### Engine Chip
+
+---
+### Abort Start
+
+##### Indications
+
+1. Battery below 17V
+1. TOT fails to rise after twist grip rotated to flight idle and N<sub>g</sub> fails to rise above 20% (igniter failure)
+1. TOT rises more slowly than normal and N<sub>g</sub> rises slowly and stabilizes (hung start)
+1. TOT exceeds limits and `TOT` caution light flashes twice per second (hot start)
+1. Engine Oil Pressure remains at 0 PSI
+1. Rotors not turning by 25% N<sub>g</sub>
+1. Transmission Oil Pressure not indicated by 30% N<sub>r</sub>
+
+##### Corrective Action
+
+1. Twist grip ... **Close**
+1. Starter ... **Secure after TOT stabilizes at 400 &deg;C or below**
+
+---
+## Main Rotor System
+
+1. [Mast Bumping](#mast-bumping)
+
+---
+### Mast Bumping
+
+##### Indications
+
+1. Sharp two-rev knocking
+
+##### Corrective Action
+
+##### If mast bumping is suspected:
+
+1. Establish positive G load and/or balanced flight (as required)
+2. Land immediately
+
+> Note: If mast bumping occurs while on deck maintenance action is required prior to flight
+
+
+---
+## Transmission
+
+1. [Transmission Malfunction](#transmission-malfunction)
+1. [Transmission Chip](#transmission-chip)
+1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
+1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
+
+---
+### Transmission Malfunction
+
+##### Indications
+1. Abnormal transmission temperature or pressure indications
+1. `TRANS OIL PRESS`, `TRANS OIL TEMP`, `TRANS CHIP` and `CLEAR CHIP` caution light
+1. Abnormal sound from the transmission area
+
+##### Corrective Action
+
+##### If failure is imminent:
+
+1. Land immediately
+2. Shoulder harness ... **Lock**
+
+> Note: Possible indications of a transmission failure may include yaw attitude excursions with no control input, an increase in power required for a fixed collective setting, increased noise, or increased vibration levels. 
+
+> Note: Transiting at a minimum power required airspeed and low altitude may permit a quick flare and immediate landing in the event of an imminent transmission failure.
+
+---
+### Transmission Chip
+
+##### Indications
+1. `TRANS CHIP` and `CLEAR CHIP` caution lights
+
+##### Corrective Action
+First `TRANS CHIP` caution light:
+
+1. Check for secondary indications
+
+If secondary indications exist:
+
+2. Transmission Malfunction Proc ... **Perform**
+
+If no secondary indications exist:
+
+3. Press `CLEAR CHIP`
+
+If `TRANS CHIP` caution light remains illuminated:
+
+4. Transmission Malfunction Proc ... **Perform**
+
+If `TRANS CHIP` light extinguishes:
+
+5. Note the time and continue flight
+
+Second `TRANS CHIP` caution light.
+If within 30 min of the first:
+
+6. Transmission Malfunction Proc ... **Perform**
+
+If more than 30 min have elapsed since the first `TRANS CHIP` caution light:
+
+7. Proceed as with the first `TRANS CHIP` caution light
+
+Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
+
+8. Transmission Malfunction Proc ... **Perform**
 
 ---
 ### Sprag Clutch Slippage
@@ -378,316 +456,45 @@ autorotational flight.
 > Warning: If suspected during a practice autorotation, execute a waveoff
 
 ---
-### Transmission Malfunction
+## Tail Rotor Failure and Directional Control Malfunctions
 
-##### Indications
-1. Abnormal transmission temperature or pressure indications
-1. `TRANS OIL PRESS`, `TRANS OIL TEMP`, `TRANS CHIP` and `CLEAR CHIP` caution light
-1. Abnormal sound from the transmission area
-
-##### Corrective Action
-
-##### If failure is imminent:
-
-1. Land immediately
-2. Shoulder harness ... **Lock**
-
-> Note: Possible indications of a transmission failure may include yaw attitude excursions with no control input, an increase in power required for a fixed collective setting, increased noise, or increased vibration levels. 
-
-> Note: Transiting at a minimum power required airspeed and low altitude may permit a quick flare and immediate landing in the event of an imminent transmission failure.
-
----
-
-### Transmission Chip
-
-##### Indications
-1. `TRANS CHIP` and `CLEAR CHIP` caution lights
-
-##### Corrective Action
-First `TRANS CHIP` caution light:
-
-1. Check for secondary indications
-
-If secondary indications exist:
-
-2. Transmission Malfunction Proc ... **Perform**
-
-If no secondary indications exist:
-
-3. Press `CLEAR CHIP`
-
-If `TRANS CHIP` caution light remains illuminated:
-
-4. Transmission Malfunction Proc ... **Perform**
-
-If `TRANS CHIP` light extinguishes:
-
-5. Note the time and continue flight
-
-Second `TRANS CHIP` caution light.
-If within 30 min of the first:
-
-6. Transmission Malfunction Proc ... **Perform**
-
-If more than 30 min have elapsed since the first `TRANS CHIP` caution light:
-
-7. Proceed as with the first `TRANS CHIP` caution light
-
-Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
-
-8. Transmission Malfunction Proc ... **Perform**
-
----
-
-## Fuel/Hydraulic
-
-1. [Fuel Boost Pump Failure](#fuel-boost-pump-failure)
-1. [Airframe Fuel Filter Caution](#airframe-fuel-filter-caution)
-1. [Suspected Fuel Leakage](#suspected-fuel-leakage)
-1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
-
----
-### Fuel Boost Pump Failure
-
-##### Indications
-
-1. `FUEL PUMP` caution light
-1. Indicated fuel pressure of zero (dual-pump failure)
-
-##### Corrective Action
-
-1. Descent ... **Initiate if above 6,000' PA and flight permits**
-2. Fuel pressure and quantity ... **Note**
-
-##### If both fuel boost pumps have failed (fuel pressure at zero):
-
-3. Land as soon as possible
-
-> Warning: With one or both boost pumps inoperative, 10 gallons is unusable
-
-> Warning: Dual boost pump failure may lead to engine failure
-
----
-
-### Airframe Fuel Filter Caution
-
-##### Indications
-
-1. `A/F` caution light
-
-##### Corrective Action
-
-1. Land as soon as possible
-
-> Warning: May result in engine failure
-
----
-
-### Suspected Fuel Leakage
-
-##### Indications
-
-1. Unusual fuel usage
-1. Fuel fumes in cockpit
-1. Streaming fuel
-
-##### Corrective Action
-
-1. Land as soon as possible
-
-##### If time and altitude permit:
-
-2. Transmit position and intentions
-3. Unnecessary electrical equipment ... **Secure**
-
-> Warning: If an air leak exists in the fuel lines between the boost pumps and engine, turning off all electrical power could cause and engine flameout due to a total loss of boost pump pressure.
-
----
-
-### Hydraulic Power Cylinder Malfunction
-
-##### Indications
-
-1. Cyclic/collective control displaces to abnormal position
-1. Pilot control of cyclic/collective is difficult or impossible
-
-##### Corrective Action
-
-1. HYDRAULIC BOOST switch ... **OFF**
-2. Helicopter ... **Regain control**
-3. Airspeed ... **Adjust (to obtain most comfortable control movement level)**
-4. Land as soon as possible
-
-> Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out and the pilot will be unable to maintain control of the aircraft
-
-> Warning: In the event of a complete loss of electrical power in the TH-57B or a failure of the ESS No. 2 bus in the TH-57C, the hydraulic system will reenergize in the malfunction mode. The pilot will be unable to override the hydraulic boost solenoid.
-
----
-
-## Fire
-
-1. [Electrical Fire - Known Origin](#electrical-fire---known-origin)
-1. [Electrical Fire - Unknown Origin](#electrical-fire---unknown-origin)
-1. [Engine Fire in Flight](#engine-fire-in-flight)
-1. [Fuselage Fire](#fuselage-fire)
-1. [Smoke and Fume Elimination](#smoke-and-fume-elimination)
-1. [Post Shutdown Fire (Internal)](#post-shutdown-fire-internal)
-
----
-### Electrical Fire - Known Origin
-
-##### Indications
-
-1. Smoke, fumes, sparks
-1. Loadmeter shows excessive load
-1. DC voltmeter shows a decrease in voltage
-
-##### Corrective Action
-
-1. Affected equipment ... **Secure**
-2. Affected circuit breakers ... **Pull**
-
-##### If fire persists:
-
-3. Electrical Fire - Unknown Origin procedure ... **Execute**
-
-##### If fire extinguishes:
-
-4. Land as soon as practicable
-
----
-### Electrical Fire - Unknown Origin
-
-##### Indications
-
-1. Smoke, fumes, sparks
-1. Loadmeter shows excessive load
-1. DC voltmeter shows a decrease in voltage
-
-##### Corrective Action
-
-1. BAT switch ... **OFF**
-2. ![Image][c] STBY GEN switch ... **OFF**
-3. ![Image][c] If in VMC, STBY ATT IND switch ... **OFF**
-4. MAIN GEN switch ... **OFF**
-
-##### If fire persists:
-
-5. Land immediately
-6. Emergency Shutdown ... **Complete**
-
-##### If fire extinguishes:
-
-7. Land as soon as possible
-
-
-> Note: Ensure corresponding bus supply circuit breakers are in to provide power to desired electrical equipment
-
-> Note: Voltmeter will not indicate battery voltage until batter bus supply and voltmeter circuit breakers are in.
-
-> Note: Flight operation can be maintained without battery and generator. Instruments powered by the 28 Vdc power, however, will be inoperable.
-
-> Note: ![Image][c] The voltmeter select switch may aid in identifying the location of the fire
-
----
-### Engine Fire in flight
-
-##### Indications
-
-1. Fire light
-1. Smoke or Flames
-
-##### Corrective Action
-
-1. Confirm existence of fire
-
-##### If fire exists:
-
-2. Land immediately
-3. Emergency shutdown ... **Complete**
-
-##### If fire not confirmed:
-
-4. Land as soon as possible
-5. Emergency Shutdown ... **Complete after landing**
-
-> Warning: This emergency may result in engine failure
-
----
-### Fuselage Fire
-
-1. Land immediately
-2. Emergency shutdown ... **Complete**
-
-> Warning: Fire extinguisher fluid vapors are dangerous; fire extinguisher use should be limited to a well-ventilated area. A moving TH-57 with the cabin vents and windows open is considered to be a well-ventilated area
-
-> Note: A sideslip may be desireable to keep the flame from spreading
-
----
-### Smoke and Fume Elimination
-
-##### Indications
-1. Fumes in cockpit
-1. Smoke in cockpit
-
-##### Corrective Action
-1. ECS and DEFOG blower ... **OFF**
-2. Vents/windows ... **Open**
-3. Slip or skid aircraft to eliminate smoke and fumes
-
----
-### Post Shutdown Fire (Internal)
-
-##### Indications
-
-1. TOT rises above 400&deg;C
-1. Flames or smoke coming from engine
-
-##### Corrective Action
-
-1. Starter ... **Engage**
-2. Fuel valve ... **OFF**
-3. Igniter circuit breaker ... **Pull**
-4. Starter ... **Secure after fire is extinguished**
-
----
-## Mast Bumping/Tail Rotor
-
-1. [Mast Bumping](#mast-bumping)
-1. [Uncommanded Right Roll During Flight Below 1G](#uncommanded-right-roll-during-flight-below-1g)
+1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
+1. [Tail Rotor Chip Caution](#tail-rotor-chip-caution)
 1. [Fixed Pitch in a Hover](#fixed-pitch-in-a-hover)
 1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
 1. [High-Frequency Vibration](#high-frequency-vibration)
-1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
 
 ---
-### Mast Bumping
+### Complete Loss of Tail Rotor Thrust
 
-##### Indications
+##### In a hover:
 
-1. Sharp two-rev knocking
+1. Twist grip ... **Flight idle**
+2. Cyclic ... **Eliminate drift**
+3. Collective ... **Increase to cushion landing**
 
-##### Corrective Action
+##### Transition to forward flight or hover/air taxi:
 
-##### If mast bumping is suspected:
+1. Twist grip ... **Flight idle**
+2. Cyclic ... **Eliminate sideward drift**
+3. Collective ... **Increase to cushion landing**
 
-1. Establish positive G load and/or balanced flight (as required)
-2. Land immediately
+##### At altitude:
 
-> Note: If mast bumping occurs while on deck maintenance action is required prior to flight
+4. Autorotate
+
+##### If yaw is not controllable:
+
+5. Twist grip ... **Flight idle immediately**
+
+##### If yaw is controllable
+
+6. Continue powered flight and set up to a suitable landing area at or above minimum rate of descent autorotational airspeed.
+7. Autorotate
+8. Twist grip ... **Rotate to flight idle prior to touchdown**
 
 ---
-### Uncommanded Right Roll During Flight Below 1G
-
-1. Cyclic ... **Immediately apply aft to establish positive G load on rotor, then center laterally**
-
-##### When main rotor returns to a positive thrust condition:
-
-2. Controls ... **As required to regain balanced flight**
-
-##### If mast bumping has occured:
-
-3. Land immediately
+### Tail Rotor Chip Caution
 
 ---
 ### Fixed Pitch in a Hover
@@ -747,77 +554,245 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 > Warning: Increased power settings required to accomplish a normal approach may ultimately precipitate the complete failure of a malfunctioning tail rotor. Be prepared for uncommanded right yaw in the event of complete loss of tail toro thrust during the approach. Consideration should be given to maintaining an autorotative profile or low-powered approach.
 
+## Hydraulic System
+
+1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
+
 ---
-### Complete Loss of Tail Rotor Thrust
+### Hydraulic Power Cylinder Malfunction
 
-##### In a hover:
+##### Indications
 
-1. Twist grip ... **Flight idle**
-2. Cyclic ... **Eliminate drift**
-3. Collective ... **Increase to cushion landing**
+1. Cyclic/collective control displaces to abnormal position
+1. Pilot control of cyclic/collective is difficult or impossible
 
-##### Transition to forward flight or hover/air taxi:
+##### Corrective Action
 
-1. Twist grip ... **Flight idle**
-2. Cyclic ... **Eliminate sideward drift**
-3. Collective ... **Increase to cushion landing**
+1. HYDRAULIC BOOST switch ... **OFF**
+2. Helicopter ... **Regain control**
+3. Airspeed ... **Adjust (to obtain most comfortable control movement level)**
+4. Land as soon as possible
 
-##### At altitude:
+> Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out and the pilot will be unable to maintain control of the aircraft
 
-4. Autorotate
+> Warning: In the event of a complete loss of electrical power in the TH-57B or a failure of the ESS No. 2 bus in the TH-57C, the hydraulic system will reenergize in the malfunction mode. The pilot will be unable to override the hydraulic boost solenoid.
 
-##### If yaw is not controllable:
+## Electrical System
 
-5. Twist grip ... **Flight idle immediately**
+1. [Battery Hot Caution](#battery-hot-caution)
+1. [Battery Temp Caution](#battery-temp-caution)
+1. [Spare Caution](#spare-caution)
 
-##### If yaw is controllable
+---
+### Battery Hot Caution
 
-6. Continue powered flight and set up to a suitable landing area at or above minimum rate of descent autorotational airspeed.
-7. Autorotate
-8. Twist grip ... **Rotate to flight idle prior to touchdown**
+---
+### Battery Temp Caution
+
+---
+### Spare Caution
+
+---
+## Fuel System
+
+1. [Fuel Boost Pump Failure](#fuel-boost-pump-failure)
+1. [Airframe Fuel Filter Caution](#airframe-fuel-filter-caution)
+1. [Suspected Fuel Leakage](#suspected-fuel-leakage)
+
+---
+### Fuel Boost Pump Failure
+
+##### Indications
+
+1. `FUEL PUMP` caution light
+1. Indicated fuel pressure of zero (dual-pump failure)
+
+##### Corrective Action
+
+1. Descent ... **Initiate if above 6,000' PA and flight permits**
+2. Fuel pressure and quantity ... **Note**
+
+##### If both fuel boost pumps have failed (fuel pressure at zero):
+
+3. Land as soon as possible
+
+> Warning: With one or both boost pumps inoperative, 10 gallons is unusable
+
+> Warning: Dual boost pump failure may lead to engine failure
+
+---
+
+### Airframe Fuel Filter Caution
+
+##### Indications
+
+1. `A/F` caution light
+
+##### Corrective Action
+
+1. Land as soon as possible
+
+> Warning: May result in engine failure
+
+---
+
+### Suspected Fuel Leakage
+
+##### Indications
+
+1. Unusual fuel usage
+1. Fuel fumes in cockpit
+1. Streaming fuel
+
+##### Corrective Action
+
+1. Land as soon as possible
+
+##### If time and altitude permit:
+
+2. Transmit position and intentions
+3. Unnecessary electrical equipment ... **Secure**
+
+> Warning: If an air leak exists in the fuel lines between the boost pumps and engine, turning off all electrical power could cause and engine flameout due to a total loss of boost pump pressure.
+
+---
+
+## Fire
+
+1. [Engine Fire in Flight](#engine-fire-in-flight)
+1. [Fuselage Fire](#fuselage-fire)
+1. [Electrical Fire - Unknown Origin](#electrical-fire---unknown-origin)
+1. [Electrical Fire - Known Origin](#electrical-fire---known-origin)
+1. [Smoke and Fume Elimination](#smoke-and-fume-elimination)
+1. [Post Shutdown Fire (Internal)](#post-shutdown-fire-internal)
+
+---
+### Engine Fire in flight
+
+##### Indications
+
+1. Fire light
+1. Smoke or Flames
+
+##### Corrective Action
+
+1. Confirm existence of fire
+
+##### If fire exists:
+
+2. Land immediately
+3. Emergency shutdown ... **Complete**
+
+##### If fire not confirmed:
+
+4. Land as soon as possible
+5. Emergency Shutdown ... **Complete after landing**
+
+> Warning: This emergency may result in engine failure
+
+---
+### Fuselage Fire
+
+1. Land immediately
+2. Emergency shutdown ... **Complete**
+
+> Warning: Fire extinguisher fluid vapors are dangerous; fire extinguisher use should be limited to a well-ventilated area. A moving TH-57 with the cabin vents and windows open is considered to be a well-ventilated area
+
+> Note: A sideslip may be desireable to keep the flame from spreading
+
+---
+### Electrical Fire - Unknown Origin
+
+##### Indications
+
+1. Smoke, fumes, sparks
+1. Loadmeter shows excessive load
+1. DC voltmeter shows a decrease in voltage
+
+##### Corrective Action
+
+1. BAT switch ... **OFF**
+2. ![Image][c] STBY GEN switch ... **OFF**
+3. ![Image][c] If in VMC, STBY ATT IND switch ... **OFF**
+4. MAIN GEN switch ... **OFF**
+
+##### If fire persists:
+
+5. Land immediately
+6. Emergency Shutdown ... **Complete**
+
+##### If fire extinguishes:
+
+7. Land as soon as possible
+
+
+> Note: Ensure corresponding bus supply circuit breakers are in to provide power to desired electrical equipment
+
+> Note: Voltmeter will not indicate battery voltage until batter bus supply and voltmeter circuit breakers are in.
+
+> Note: Flight operation can be maintained without battery and generator. Instruments powered by the 28 Vdc power, however, will be inoperable.
+
+> Note: ![Image][c] The voltmeter select switch may aid in identifying the location of the fire
+
+---
+### Electrical Fire - Known Origin
+
+##### Indications
+
+1. Smoke, fumes, sparks
+1. Loadmeter shows excessive load
+1. DC voltmeter shows a decrease in voltage
+
+##### Corrective Action
+
+1. Affected equipment ... **Secure**
+2. Affected circuit breakers ... **Pull**
+
+##### If fire persists:
+
+3. Electrical Fire - Unknown Origin procedure ... **Execute**
+
+##### If fire extinguishes:
+
+4. Land as soon as practicable
+
+---
+### Smoke and Fume Elimination
+
+##### Indications
+1. Fumes in cockpit
+1. Smoke in cockpit
+
+##### Corrective Action
+1. ECS and DEFOG blower ... **OFF**
+2. Vents/windows ... **Open**
+3. Slip or skid aircraft to eliminate smoke and fumes
+
+---
+### Post Shutdown Fire (Internal)
+
+##### Indications
+
+1. TOT rises above 400&deg;C
+1. Flames or smoke coming from engine
+
+##### Corrective Action
+
+1. Starter ... **Engage**
+2. Fuel valve ... **OFF**
+3. Igniter circuit breaker ... **Pull**
+4. Starter ... **Secure after fire is extinguished**
+
+
 
 ---
 ## Ditching/Egress
 
-1. [Emergency Descent](#emergency-descent)
-1. [Emergency Egress](#emergency-egress)
 1. [Immediate Landing/Ditching](#immediate-landingditching)
 1. [Underwater Egress](#underwater-egress)
+1. [Emergency Shutdown](#emergency-shutdown)
 
 ---
-
-### Emergency Descent
-
-##### Corrective Action
-
-1. Collective ... **Lower (to minimum pitch)**
-2. Airspeed ... **130 KIAS (122 KIAS Maximum with FCS on)**
-
-> Note: During recovery N<sub>r</sub> may tend to overspeed
-
----
-### Emergency Egress
-
-1. PIC ... **Calls for abandon aircraft**
-2. Shoulder harness ... **Lock**
-3. Mayday ... **Transmit**
-4. Transponder ... **Emergency**
-5. Emergency Engine Shutdown .. **Perform as required**
-6. SEBD ... **Don, as required**
-7. Communication cords ... **Disconnect**
-8. Doors ... **Open/jettison, as required**
-
-> Warning: Jettisoning the left side cabin in forward flight may cause catastrophic damage to the tail rotor
-
-##### After all violent motion has stopped:
-
-9. Place hand on known reference point
-10. Shoulder harness/lapbelt ... **Release**
-11. Helicopter ... **Egress**
-12. LPU ... **Inflate as required**
-
----
-
 ### Immediate Landing/Ditching
 
 ##### Corrective Action
@@ -841,7 +816,6 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 > Warning: Failure to remain strapped in the aircraft until all violent motion stops may result in injury or incapacitation.
 
 ---
-
 ### Underwater Egress
 
 ##### Corrective Action
@@ -866,34 +840,55 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 > Warning: Failure to disconnect ICS cords may impede egress.
 
+---
+### Emergency Shutdown
+
+##### Indications
+
+1. Fire warning light
+1. Smoke, fuel fumes, Fire
+1. Indication from ground personnel
+1. Grinding noises or apparent drive train damage
+
+##### Corrective Action
+
+1. Twist grip ... **Close**
+2. Fuel valve ... **OFF**
+3. BAT switch ... **OFF**
+4. ![Image][c] STBY ATT IND switch ... **OFF**
+5. ![Image][c] Rotor brake ... **Engage immediately**
+6. Helicopter ... **Egress, as required. Use fire bottle or get clear of the aircraft as applicable**
+
+> Warning: After exiting aircraft, beware of rotor blades
 
 ---
-## Flight/Instruments/Icing
+### Icing
 
-1. [Pitot-Static Instruments](#pitot-static-instruments)
+##### Indications
+
+1. OAT less than 4&deg;C, and
+1. Visible moisture
+
+##### Corrective Action
+
+1. ENG ANTI-ICING ... **ON**
+2. PITOT HEAT switches ... **HEAT**
+3. ![Image][c] Alternate static source knob ... **As required**
+4. Descend or climb to a warmer temperature or vacate clouds/moisture
+
+##### If unable to get clear of icing conditions:
+
+5. Land as soon as possible
+
+> Warning: Monitor engine instruments and be prepared for partial or complete power loss
+
+---
+## Torquemeter
+
 1. [Torquemeter Wet Line Rupture](#torquemeter-wet-line-rupture)
 1. [Engine or Transmission Oil Pressures](#engine-or-transmission-oil-pressures)
 1. [Engine or Transmission Oil Temperatures](#engine-or-transmission-oil-temperatures)
-1. [Icing](#icing)
-1. [Power Required Exceeds Power Available](#power-required-exceeds-power-available)
-1. [Vortex Ring State](#vortex-ring-state)
-1. [Rotor Blade Stall](#rotor-blade-stall)
-1. [Dynamic Rollover](#dynamic-rollover)
-
----
-### Pitot-Static Instruments
-
-##### If the airspeed, vertical speed, or altimeter fluctuates erratically or gives apparently false indications while power and attitude instruments are normal, proceed as follows:
-1. PITOT HEAT switch(es) ... **HEAT**
-
-##### Monitor cruise power settings and nose attitude to maintain altitude and airspeed. If pitot heat does not remedy the situation, accomplish the following:
-2. ![Image][c] Alternate static source knob ... **Pull**
-
-##### If icing conditions are present:
-3. Icing procedures ... **Execute**
-
-##### If icing conditions are not present:
-4. Land as soon as practicable
+1. [Pitot-Static Instruments](#pitot-static-instruments)
 
 ---
 ### Torquemeter Wet Line Rupture
@@ -944,25 +939,46 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 2. Land as soon as practicable
 
 ---
-### Icing
+### Pitot-Static Instruments
 
-##### Indications
+##### If the airspeed, vertical speed, or altimeter fluctuates erratically or gives apparently false indications while power and attitude instruments are normal, proceed as follows:
+1. PITOT HEAT switch(es) ... **HEAT**
 
-1. OAT less than 4&deg;C, and
-1. Visible moisture
+##### Monitor cruise power settings and nose attitude to maintain altitude and airspeed. If pitot heat does not remedy the situation, accomplish the following:
+2. ![Image][c] Alternate static source knob ... **Pull**
 
-##### Corrective Action
+##### If icing conditions are present:
+3. Icing procedures ... **Execute**
 
-1. ENG ANTI-ICING ... **ON**
-2. PITOT HEAT switches ... **HEAT**
-3. ![Image][c] Alternate static source knob ... **As required**
-4. Descend or climb to a warmer temperature or vacate clouds/moisture
+##### If icing conditions are not present:
+4. Land as soon as practicable
 
-##### If unable to get clear of icing conditions:
+---
+## Performance
 
-5. Land as soon as possible
+1. [Rotor Blade Stall](#rotor-blade-stall)
+1. [Vortex Ring State](#vortex-ring-state)
+1. [Power Required Exceeds Power Available](#power-required-exceeds-power-available)
+1. [Dynamic Rollover](#dynamic-rollover)
+1. [Uncommanded Right Roll During Flight Below 1G](#uncommanded-right-roll-during-flight-below-1g)
 
-> Warning: Monitor engine instruments and be prepared for partial or complete power loss
+---
+### Rotor Blade Stall
+
+1. Severity of maneuver ... **Decrease**
+2. Collective pitch ... **Decrease**
+3. Airspeed ... **Decrease**
+4. Altitude ... **Descend, if flight permits**
+5. Rotor rpm ... **Increase**
+
+---
+### Vortex Ring State
+
+1. Collective ... **Decrease**
+2. Cyclic ... **Forward to gain airspeed**
+
+##### If impact is imminent:
+3. Level skids to conform to terrain
 
 ---
 ### Power Required Exceeds Power Available
@@ -979,27 +995,31 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 7. Cushion the landing
 
 ---
-### Vortex Ring State
-
-1. Collective ... **Decrease**
-2. Cyclic ... **Forward to gain airspeed**
-
-##### If impact is imminent:
-3. Level skids to conform to terrain
-
----
-### Rotor Blade Stall
-
-1. Severity of maneuver ... **Decrease**
-2. Collective pitch ... **Decrease**
-3. Airspeed ... **Decrease**
-4. Altitude ... **Descend, if flight permits**
-5. Rotor rpm ... **Increase**
-
----
 ### Dynamic Rollover
 
 1. Collective ... **Lower to stop the roll**
 2. Cyclic ... **Neutral**
 
 ---
+### Uncommanded Right Roll During Flight Below 1G
+
+1. Cyclic ... **Immediately apply aft to establish positive G load on rotor, then center laterally**
+
+##### When main rotor returns to a positive thrust condition:
+
+2. Controls ... **As required to regain balanced flight**
+
+##### If mast bumping has occured:
+
+3. Land immediately
+
+
+---
+### Emergency Descent
+
+##### Corrective Action
+
+1. Collective ... **Lower (to minimum pitch)**
+2. Airspeed ... **130 KIAS (122 KIAS Maximum with FCS on)**
+
+> Note: During recovery N<sub>r</sub> may tend to overspeed
