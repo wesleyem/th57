@@ -7,7 +7,6 @@ Considerations:
  - The only steps listed here are Memory Items
  - Procedures are organized by Name, Indications (if applicable), Corrective Action, and any Notes, Warnings, or Cautions (if applicable)
 
-
 ## Table of Contents
 
 1. [Engine](#engine)
@@ -249,7 +248,7 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 > Warning: May result in engine failure
 
 ---
-### Engine Restart in flight
+### Engine Restart in Flight
 
 ##### Indications
 
@@ -343,7 +342,6 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 2. Land immediately
 
 > Note: If mast bumping occurs while on deck maintenance action is required prior to flight
-
 
 ---
 ## Transmission
@@ -725,7 +723,6 @@ autorotational flight.
 
 7. Land as soon as possible
 
-
 > Note: Ensure corresponding bus supply circuit breakers are in to provide power to desired electrical equipment
 
 > Note: Voltmeter will not indicate battery voltage until batter bus supply and voltmeter circuit breakers are in.
@@ -782,8 +779,6 @@ autorotational flight.
 2. Fuel valve ... **OFF**
 3. Igniter circuit breaker ... **Pull**
 4. Starter ... **Secure after fire is extinguished**
-
-
 
 ---
 ## Ditching/Egress
@@ -1012,7 +1007,6 @@ autorotational flight.
 ##### If mast bumping has occured:
 
 3. Land immediately
-
 
 ---
 ### Emergency Descent
