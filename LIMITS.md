@@ -160,6 +160,19 @@ Limit starter engergizing time to the following:
 
 
 
+### Altitude Limitations
+
+
+### Climb/Descent
+
+
+### Acceleration Limits
+
+
+### Weight Limitations
+
+
+
 
 
 

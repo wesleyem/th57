@@ -178,11 +178,25 @@ Checklist prestart check
 
 #### Reading
 
+ - [Fuel System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#fuel-system)
+
 #### EPs
+
+ - [Pitot-Static Instruments](https://github.com/wesleyem/th57/blob/master/EPS.md#pitot-static-instruments)
+ - [Rotor Blade Stall](https://github.com/wesleyem/th57/blob/master/EPS.md#rotor-blade-stall)
+ - [Vortex Ring State](https://github.com/wesleyem/th57/blob/master/EPS.md#vortex-ring-state)
+ - [Dynamic Rollover](https://github.com/wesleyem/th57/blob/master/EPS.md#dynamic-rollover)
+ - [Uncommanded Right Roll During Flight Below 1G](https://github.com/wesleyem/th57/blob/master/EPS.md#uncommanded-right-roll-during-flight-below-1g)
 
 #### Limits
 
+ - [Altitude Limitations](https://github.com/wesleyem/th57/blob/master/LIMITS.md#altitude-limitations)
+ - [Climb/Descent](https://github.com/wesleyem/th57/blob/master/LIMITS.md#climbdescent)
+ - [Acceleration Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#acceleration-limits)
+ - [Weight Limitations](https://github.com/wesleyem/th57/blob/master/LIMITS.md#weight-limitations)
+
 #### Checklists
+
 
 ---
 ## Day Eight
