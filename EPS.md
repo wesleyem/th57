@@ -683,23 +683,19 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 ##### Corrective Action
 
-Fixed Pitch Pedal in a Hover - Right Yaw:
 ##### If rate of rotation is not excessive and landing surface is smooth and firm:
 
 1. Collective ... **Decrease to effect a power-on landing**
 
 ##### If rate of rotation is excessive or landing surface is unsuitable for a power-on landing:
 
+##### Right Yaw Corrective Action
+
 2. Twist grip ... **Reduce as nose approaches windline**
 3. Cyclic ... **Eliminate drift**
 4. Collective ... **Increase to cushion landing**
 
-Fixed Pitch Pedal in a Hover - Left Yaw:
-##### If rate of rotation is not excessive and landing surface is smooth and firm:
-
-1. Collective ... **Decrease to affect a power-on landing**
-
-##### If rate of rotation is excessive or landing surface is unsuitable for a power-on landing:
+##### Left Yaw Corrective Action
 
 2. Smoothly increase collective to stop the yaw
 3. When the left yaw has stopped, smoothly decrease collective to setup for a landing.
