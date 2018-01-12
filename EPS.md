@@ -34,6 +34,7 @@ Considerations:
 1. [Fuel/Hydraulic](#fuelhydraulic)
 
    1. [Fuel Boost Pump Failure](#fuel-boost-pump-failure)
+   1. [Airframe Fuel Filter Caution](#airframe-fuel-filter-caution)
    1. [Suspected Fuel Leakage](#suspected-fuel-leakage)
    1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
 
@@ -441,6 +442,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 ## Fuel/Hydraulic
 
 1. [Fuel Boost Pump Failure](#fuel-boost-pump-failure)
+1. [Airframe Fuel Filter Caution](#airframe-fuel-filter-caution)
 1. [Suspected Fuel Leakage](#suspected-fuel-leakage)
 1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
 
@@ -454,7 +456,7 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 ##### Corrective Action
 
-1. Descent ... **Initiate if above 6,000 feet PA and flight permits**
+1. Descent ... **Initiate if above 6,000' PA and flight permits**
 2. Fuel pressure and quantity ... **Note**
 
 ##### If both fuel boost pumps have failed (fuel pressure at zero):
@@ -466,6 +468,21 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 > Warning: Dual boost pump failure may lead to engine failure
 
 ---
+
+### Airframe Fuel Filter Caution
+
+##### Indications
+
+1. `A/F` caution light
+
+##### Corrective Action
+
+1. Land as soon as possible
+
+> Warning: May result in engine failure
+
+---
+
 ### Suspected Fuel Leakage
 
 ##### Indications
