@@ -366,7 +366,7 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 ##### Indications
 
 1. N<sub>f</sub>/N<sub>r</sub> married during shutdown.
-2. N<sub>f</sub>/N<sub>r</sub> married above 100 percent during
+2. N<sub>f</sub>/N<sub>r</sub> married above 100% during
 autorotational flight.
 
 ##### Corrective Action
@@ -374,7 +374,7 @@ autorotational flight.
 1. Ensure twist grip is full open
 2. Land as soon as possible
 
-> Warning: If suspected during a practive autorotation, execute a waveoff
+> Warning: If suspected during a practice autorotation, execute a waveoff
 
 ---
 ### Transmission Malfunction
