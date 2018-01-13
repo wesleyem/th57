@@ -181,6 +181,7 @@ In IMC should not exceed 1000 fpm
 
 ### Weight Limitations
 
+|                                          |          |
 |------------------------------------------|----------|
 |Max gross weight internally               | 3200 lbs |
 |Max gross weight including external cargo | 3350 lbs |
