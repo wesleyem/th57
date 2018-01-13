@@ -162,16 +162,28 @@ Limit starter engergizing time to the following:
 
 ### Altitude Limitations
 
+#### Max operating altitude
+
+| |3000 lbs gross weight and below | Above 3000 lbs gross weight |
+|---|---|---|
+|FCS OFF| 20,000' PA | 16,000' PA |
+|FCS OFF| 18,000' DA | 13,000' DA |
+|IFR/FCS ON | 11,500' PA | 8,500' PA |
+|IFR/FCS ON | 13,500' DA | 11,000 DA |
 
 ### Climb/Descent
 
+In IMC should not exceed 1000 fpm
 
 ### Acceleration Limits
 
++2.5g's to +0.5g's at maximum gross weight
 
 ### Weight Limitations
 
-
+:-----------------------------------------|----------
+Max gross weight internally               | 3200 lbs
+Max gross weight including external cargo | 3350 lbs
 
 
 
