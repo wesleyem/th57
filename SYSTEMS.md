@@ -379,6 +379,7 @@ Pressure gauge is a wet-line system requiring no electrical power
 #### TH-57B/C Fuel System
 
  - Fuel Cell
+    - Bladder-type
     - Located below and aft of the passenger seat
     - crash-resistant
     - not self-sealing
@@ -388,10 +389,57 @@ Pressure gauge is a wet-line system requiring no electrical power
        - `40 psi` max
 
  - Fuel Boost Pumps
-    - 2 connected by hose
-    - 
+    - 2 pumps interconnected by hose
+    - deliver pressurized fuel to `engine-drive fuel pump`
+    - pressurization prevents in-line vaporization above 6000' PA
+    - Powered by 28VDC BUS
+    - Circuit breakers for each pump on overhead console
+    - **Pressure Switches**
+       - located in pump discharge ports
+       - connected to `FUEL PUMP` caution light
+    - With either pump failed, flight is restricted to below 6000' PA
+    - Normal flight operations require landing with a min 10 gal
+    - With one or both pumps failed, min landing required is 20 gal
+
+ - Quantity measuring system
+    - 2 float-type
+    - one indicating unit is located in the bottom and one in the top of the fuel cell
+    - both units provide inputs to a single fuel quantity indicator
+    - Fuel gauge is powered by 28VDC with circuit breaker `FUEL QUANTITY PRESS`
+    - `FUEL LOW` caution at 20 gal
+       - activated by simple float-type switch atop sump drain
+
+ - Pressure indicating system
+    - fuel pressure transducer located between boost pumps and fuel shutoff valve
+       - senses boost pump pressure and relays to fuel pressure gauge
+    - powered by 28VDC circuit
+    - protected by fuel quantity-pressure circuit breakers
+
+ - Shutoff valve
+    - motor-operated
+    - installed in main fuel supply line
+    - valve is electronically controlled on instrument panel
+    - protected by circuit breaker on overhead panel
+    - **in event of electrical failure, valve will remain in last position selected**
 
 #### Airframe Filter
+
+ - mounted on the right side of the forward firewall.
+ - replaceable filter element
+ - drain valve
+ - bypass valve
+    - allows fuel to flow to engine if filter becomes clogged
+ - impending bypass switch
+    - illuminates `A/F FUEL FILTER` caution light if pressure drops due to filter contamination
+ - manual test button
+    - used to test caution light circuit
+
+ - Engine fuel pump/filter
+    - first passes through low pressure filter (4-30 psi) to gear element of fuel pump
+    - bypass valve in the pump allows fuel to bypass low pressure filter
+    - engine fuel pump pressurizes fuel to 650-750psi for fuel control unit
+    - excess fuel is passed back to engine-drive fuel pump
+
 
 ---
 ### Power Train

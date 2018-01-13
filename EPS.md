@@ -320,7 +320,7 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 ##### Corrective Action
 
 1. Twist grip ... **Close**
-1. Starter ... **Secure after TOT stabilizes at 400 &deg;C or below**
+1. Starter ... **OFF after TOT stabilizes at 400 &deg;C or below**
 
 ---
 ## Main Rotor System
@@ -936,10 +936,17 @@ autorotational flight.
 ---
 ### Pitot-Static Instruments
 
-##### If the airspeed, vertical speed, or altimeter fluctuates erratically or gives apparently false indications while power and attitude instruments are normal, proceed as follows:
+##### Indications
+
+1. Airspeed, vertical speed, or altimeter fluctuates erratically or gives false indications, and
+1. Power and attitude instruments are normal
+
+##### Corrective Action
+
 1. PITOT HEAT switch(es) ... **HEAT**
 
-##### Monitor cruise power settings and nose attitude to maintain altitude and airspeed. If pitot heat does not remedy the situation, accomplish the following:
+##### If pitot heat does not remedy the situation, accomplish the following:
+
 2. ![Image][c] Alternate static source knob ... **Pull**
 
 ##### If icing conditions are present:
@@ -960,20 +967,43 @@ autorotational flight.
 ---
 ### Rotor Blade Stall
 
+##### Indications
+
+1. Progressively increasing two-per-revolution vibrations.
+1. Loss of longitudinal control and severe feedback in the cyclic.
+1. Violent vertical nose oscillations independent of cyclic position.
+
+##### Corrective Action
+
 1. Severity of maneuver ... **Decrease**
-2. Collective pitch ... **Decrease**
+2. Collective pitch ... **Lower**
 3. Airspeed ... **Decrease**
 4. Altitude ... **Descend, if flight permits**
 5. Rotor rpm ... **Increase**
 
+> Warning: Entry into severe blade stall can result in structural damage to the helicopter which could lead to loss of aircraft, injury, or death.
+
 ---
 ### Vortex Ring State
 
-1. Collective ... **Decrease**
-2. Cyclic ... **Forward to gain airspeed**
+##### Causes
+
+1. Rates of descent greater than 800 fpm at airspeeds less than 40 KIAS.
+1. High, steep, downwind approaches.
+
+##### Indications
+
+1. Rapid descent rate increase.
+1. Increase in overall vibration level.
+1. Loss of control effectiveness.
+
+##### Corrective Action
+
+1. Controls ... **As required to clear vortex ring state**
 
 ##### If impact is imminent:
-3. Level skids to conform to terrain
+
+2. Level skids to conform to terrain
 
 ---
 ### Power Required Exceeds Power Available
@@ -992,11 +1022,30 @@ autorotational flight.
 ---
 ### Dynamic Rollover
 
+##### Indications
+
+1. Excessive roll rates about a pivot point when lift approximately equals weight.
+2. Lateral control becomes sluggish or ineffective.
+3. Cyclic contacts lateral stop.
+
+##### Corrective Action
+
 1. Collective ... **Lower to stop the roll**
 2. Cyclic ... **Neutral**
 
+> Warning: With one skid on the ground and thrust approximately equal to the weight, if the lateral control becomes sluggish or ineffectual, contacts the lateral stop, or if bank angle or roll rates become excessive (15&deg; or 10&deg; per second respectively), the aircraft may roll over on its side.
+
+> Warning: Failure to keep the aircraft in trim during takeoff or landing could result in dynamic rollover.
+
 ---
 ### Uncommanded Right Roll During Flight Below 1G
+
+##### Indications
+
+1. Uncommanded right roll.
+1. Reduced cyclic effectiveness.
+
+##### Corrective Action
 
 1. Cyclic ... **Immediately apply aft to establish positive G load on rotor, then center laterally**
 
@@ -1007,6 +1056,8 @@ autorotational flight.
 ##### If mast bumping has occured:
 
 3. Land immediately
+
+> Warning: Lateral cyclic is decreasingly effective below 1g and increases main rotor flapping, which can result in mast bumping.
 
 ---
 ### Emergency Descent
