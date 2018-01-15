@@ -9,8 +9,8 @@
 1. [Day Five](#day-five)
 1. [Day Six](#day-six)
 1. [Day Seven](#day-seven)
-<!-- 1. [Day Eight](#day-eight)
-1. [Day Nine](#day-nine)
+1. [Day Eight](#day-eight)
+<!-- 1. [Day Nine](#day-nine)
 1. [Day Ten](#day-ten)
 1. [Day Eleven](#day-eleven)
 1. [Day Twelve](#day-twelve)
@@ -203,9 +203,22 @@ Checklist prestart check
 
 #### Reading
 
+ - [Transmission](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md##transmission)
+ - [Transmission Oil System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md##transmission-oil-system)
+
 #### EPs
 
+ - [Overtorque/Overtemp/Overspeed](https://github.com/wesleyem/th57/blob/master/EPS.md#overtorqueovertempoverspeed)
+ - [Sprag Clutch Slippage](https://github.com/wesleyem/th57/blob/master/EPS.md#sprag-clutch-slippage)
+ - [High-Frequency Vibration](https://github.com/wesleyem/th57/blob/master/EPS.md#high-frequency-vibration)
+ - [Power Required Exceeds Power Available](https://github.com/wesleyem/th57/blob/master/EPS.md#power-required-exceeds-power-available)
+ - [Battery Hot Caution](https://github.com/wesleyem/th57/blob/master/EPS.md#battery-hot-caution)
+
 #### Limits
+
+ - [Minimum Crew Requirements](https://github.com/wesleyem/th57/blob/master/LIMITS.md#minimum-crew-requirements)
+ - [Prohibited Maneuvers](https://github.com/wesleyem/th57/blob/master/LIMITS.md#prohibited-maneuvers)
+
 
 #### Checklists
 

@@ -187,6 +187,10 @@ In IMC should not exceed 1000 fpm
 | including external cargo | 3350 lbs |
 
 
+### Minimum Crew Requirements
+
+### Prohibited Maneuvers
+
 
 
 

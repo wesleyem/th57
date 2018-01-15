@@ -40,6 +40,8 @@
     1. [Airframe Filter](#airframe-filter)
 
 1. [Power Train](#power-train)
+   1. [Transmission](#transmission)
+   1. [Transmission Oil System](#transmission-oil-system)
 
 1. [Main Rotor, Tail Rotor, and Flight Control System](#main-rotor-tail-rotor-and-flight-control-system)
 
@@ -443,6 +445,11 @@ Pressure gauge is a wet-line system requiring no electrical power
 
 ---
 ### Power Train
+
+#### Transmission
+
+#### Transmission Oil System
+
 ---
 ### Main Rotor, tail rotor, and flight control system
 ---
