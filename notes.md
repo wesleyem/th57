@@ -203,8 +203,8 @@ Checklist prestart check
 
 #### Reading
 
- - [Transmission](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md##transmission)
- - [Transmission Oil System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md##transmission-oil-system)
+ - [Transmission](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#transmission)
+ - [Transmission Oil System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#transmission-oil-system)
 
 #### EPs
 
