@@ -145,8 +145,7 @@ Considerations:
 
 ##### Indications
 
-1. Torque gauge flashes twice per second
-1. `TRQ` caution light flashes twice per second
+1. Torque gauge and/or `TRQ` caution light flashes twice per second
 1. Torque limit exceeded
 
 ##### Corrective Action
