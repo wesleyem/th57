@@ -42,6 +42,9 @@
 1. [Power Train](#power-train)
    1. [Transmission](#transmission)
    1. [Transmission Oil System](#transmission-oil-system)
+   1. [Freewheeling Unit](#freewheeling-unit)
+   1. [Engine to Transmission Drive Shaft](#engine-to-transmission-drive-shaft)
+   1. [Tail Rotor Drive](#tail-rotor-drive)
 
 1. [Main Rotor, Tail Rotor, and Flight Control System](#main-rotor-tail-rotor-and-flight-control-system)
 
