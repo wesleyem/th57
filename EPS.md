@@ -143,6 +143,26 @@ Considerations:
 ---
 ### Overtorque/Overtemp/Overspeed
 
+##### Indications
+
+1. Torque gauge flashes twice per second
+1. `TRQ` caution light flashes twice per second
+1. Torque limit exceeded
+
+##### Corrective Action
+
+##### If overtorque exceeding 120%
+
+1. Land as soon as possible
+
+##### If overtorque less than 120%
+
+2. Land as soon as practicable
+
+##### If Ng, Nf, or Nr limits exceeded
+
+1. Land as soon as possible
+
 ---
 ### Compressor Stall
 
@@ -413,6 +433,16 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 ---
 ### Sprag Clutch Slippage
 
+##### Indications
+
+When the twist grip is full open
+
+1. N<sub>f</sub> indication higher than N<sub>r</sub>
+1. Low torque indication
+1. N<sub>g</sub> and TOT indications lower than normal and not responsive to collective
+
+##### Corrective Action
+
 1. Autorotate
 2. Twist grip ... **FLT IDLE**
 
@@ -424,8 +454,6 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 4. Collective ... **Increase**
 
-> Note: Multiple attempts to reengage the sprag clutch are permitted dependent on time and altitude.
-
 ##### If sprag clutch continues to slip:
 
 5. Autorotate
@@ -434,6 +462,8 @@ Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 ##### If the sprag clutch reengages:
 
 7. Land as soon as possible
+
+> Note: Multiple attempts to reengage the sprag clutch are permitted dependent on time and altitude.
 
 > Caution: After completing the autorotative landing, ensure the twist grip is secured. Failure to do so may result in sudden reengagement of the sprag clutch, causing severe damage to the drive system.
 
@@ -542,6 +572,14 @@ autorotational flight.
 ---
 ### High-Frequency Vibration
 
+##### Indications
+
+1. Vibration in pedals or sudden increased amplitute of vibrations
+1. Unusual noises
+1. `T/R CHIP` light
+
+##### Corrective Action
+
 1. ECS ... **OFF**
 
 ##### If vibrations continue:
@@ -550,7 +588,7 @@ autorotational flight.
 
 > Warning: Be prepared to execute Complete Loss of Tail Rotor Thrust procedures
 
-> Warning: Increased power settings required to accomplish a normal approach may ultimately precipitate the complete failure of a malfunctioning tail rotor. Be prepared for uncommanded right yaw in the event of complete loss of tail toro thrust during the approach. Consideration should be given to maintaining an autorotative profile or low-powered approach.
+> Warning: Increased power settings required to accomplish a normal approach may ultimately precipitate the complete failure of a malfunctioning tail rotor. Be prepared for uncommanded right yaw in the event of complete loss of tail rotor thrust during the approach. Consideration should be given to maintaining an autorotative profile or low-powered approach.
 
 ## Hydraulic System
 
@@ -583,6 +621,17 @@ autorotational flight.
 
 ---
 ### Battery Hot Caution
+
+##### Indications
+
+1. `BATTERY HOT` caution light
+
+##### Corrective Action
+
+1. `BAT` switch ... **Off**
+1. Land as soon as possible
+
+> Note: ![Image][c] Switching the Main Battery Off opens the main battery relay, which causes the “STBY BATT ON” light to illuminate. As long as the ESS No. 1 bus is being powered normally, the standby battery will not be depleted.
 
 ---
 ### Battery Temp Caution
@@ -1007,6 +1056,14 @@ autorotational flight.
 
 ---
 ### Power Required Exceeds Power Available
+
+##### Indications
+
+1. Uncommanded descent with torque at maximum available
+1. Rotor droop
+1. Loss of tail rotor authority
+
+##### Corrective Action
 
 1. Collective ... **Lower as required to maintain a minimum of 90% N<sub>r</sub>**
 2. Twist grip ... **Full open**

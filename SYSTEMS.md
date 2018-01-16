@@ -446,9 +446,101 @@ Pressure gauge is a wet-line system requiring no electrical power
 ---
 ### Power Train
 
+#### Components
+
+1. Transmission
+1. Main Drive Shaft (KAflex shaft)
+1. Freewheeling unit
+1. Forward Short Shaft
+1. Oil Cooler Fan Shaft
+1. Aft Short Shaft
+1. Tail Rotor Drive Shaft (5)
+1. Tail Rotor Gearbox
+
 #### Transmission
 
+ - Mounted on cabin roof deck with **three** points of support
+    - two spindles on the sides and one drag link at the aft end of the lower case
+ - Isolation mount is aft of the transmission
+    - purpose is to align the transmission and isolate vibrations
+    - composed of layers of elastomer and metal
+    - returns transmission to original state but allows some movement
+    - becomes more flexible with age
+ - In front of and attached to the drag link is a spike
+    - spike is surrounded by a plate called the spike well
+    - should the transmission move excessively it will contact the plate providing an indication to maintenance
+ 
+ - Transmission provides two stages of gear reduction
+    - **Overall** reduction of **15.22 to 1.0**
+    - First stage (input gear) rotates at **6000 RPM**
+    - Rotor mast is rotating at **394 RPM**
+
+
 #### Transmission Oil System
+
+Capacity: 5 US quarts
+
+Type: Wet sump/pressure lubrication system
+
+##### Components
+
+- Pump
+   - Mounted inside transmission lower case
+   - Driven by transmission accessory gear drive
+   - Draws oil from the sump and sends it to the filter
+
+- Transmission Accessory Gear Drive splined to shaft that drives:
+   - Oil pump
+   - Hydraulic pump
+   - N<sub>r</sub> tachometer-generator
+
+- Filter
+   - On left side of transmission and has replaceable filter element
+   - Provides attachment point for:
+      - Filter
+      - Temperature bulb
+         - gives indication to gauge in cockpit
+      - High temp sensor switch
+         - At 110&deg;C closes circuit and illuminates `TRANS OIL TEMP` light
+      - oil bypass valve
+         - allows bypass if filter becomes clogged
+      - oil monitor
+         - magnetic chip detector with a screen
+         - NOT part of chip detector caution system
+         - checked only after chips have been found on the other detectors
+      - drain valve
+         - allows maintenance to drain oil from filter
+   - After filter, oil flows to oil cooler
+
+- Oil Cooler
+   - mounted on transmission case
+   - regulate oil temperature
+   - uses air via ducting from oil cooling fan in aft of engine
+      - air is blown across single core radiator in the cooler
+   - Thermal bypass valve allows already cool oil to bypass oil cooler
+   - Flows from oil cooler to two sets of spray jets
+
+- Spray Jets
+   - passes through jets into transmission and returns to sumps
+- Temperature bulb
+- Relief valves
+   - Spring relief type valve which bleeds off pressure by passing oil back to the sump
+   - Limits overall system pressure
+   - Valve pressure can be adjusted
+   - Located on the transmission casing aft of the filter
+
+- External flows
+   - Exits transmission and hits T-fitting which contains restrictors that reduce the volume of oil passing through
+      - One side of T-fitting shows pressure gauge in cockpit
+         - contains low pressure sensor in this line which closes a circuit that illuminates `TRANS OIL PRESS` light
+      - Other side goes to freewheeling unit which lubricates the **sprag clutch**
+         - after oil has passed through the freewheeling unit it moves to the freewheeling sump which passes it back to the main transmission sump
+
+- Additional Chip Detectors
+   - Two on the lower right side of transmission which trigger `TRANS CHIP` caution light
+   - One also acts as a drain plug for maintenance
+   - Some aircraft have an additional detector on the upper left side
+
 
 ---
 ### Main Rotor, tail rotor, and flight control system

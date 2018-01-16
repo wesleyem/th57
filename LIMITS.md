@@ -189,8 +189,19 @@ In IMC should not exceed 1000 fpm
 
 ### Minimum Crew Requirements
 
+1. One pilot and one qualified observer
+1. IFR operations: two pilots (one being instrument rated)
+1. Confined Area Landing and External Cargo operations: one pilot, one qualifed observer, and one aircrewman
+   1. No aircrewman required if both pilots are NATOPS qualifed in model
+1. Min crew weight is 180 lbs
+
 ### Prohibited Maneuvers
 
+1. Aerobatic maneuvers.
+1. Protracted operations in the AVOID and CAUTION areas of the height velocity diagram (Figure 4-6).
+1. Fully developed vortex ring state.
+1. Intentional entry into blade stall.
+1. Hovering turns exceeding a rate of 45° per second.
 
 
 
