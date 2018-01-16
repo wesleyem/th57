@@ -201,6 +201,11 @@ Checklist prestart check
 ---
 ## Day Eight
 
+#### Outstanding Questions
+
+ - Underspeeding: How could this result in engine failure?
+ - Compressor Stall: What is happening that would result in engine failure?
+
 #### Reading
 
  - [Transmission](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#transmission)
@@ -222,16 +227,34 @@ Checklist prestart check
 
 #### Checklists
 
+ - Preflight
+
 ---
 ## Day Nine
 
 #### Reading
 
+ - [Freewheeling Unit](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#freewheeling-unit)
+ - [Engine to Transmission Drive Shaft](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#engine-to-transmission-drive-shaft)
+ - [Tail Rotor Drive](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#tail-rotor-drive)
+
+
 #### EPs
+
+ - [Engine Chip](https://github.com/wesleyem/th57/blob/master/EPS.md#engine-chip)
+ - [Transmission Chip](https://github.com/wesleyem/th57/blob/master/EPS.md#transmission-chip)
+ - [Tail Rotor Chip Caution](https://github.com/wesleyem/th57/blob/master/EPS.md#tail-rotor-chip-caution)
+ - [Battery Temp Caution](https://github.com/wesleyem/th57/blob/master/EPS.md#battery-temp-caution)
+ - [Spare Caution](https://github.com/wesleyem/th57/blob/master/EPS.md#spare-caution)
 
 #### Limits
 
+ - [Required Equipment for Night Flight](https://github.com/wesleyem/th57/blob/master/LIMITS.md#required-equipment-for-night-flight)
+ - [Required Equipment for Over Water and Shipboard Operations](https://github.com/wesleyem/th57/blob/master/LIMITS.md#required-equipment-for-over-water-and-shipboard-operations)
+
 #### Checklists
+
+ - Preflight
 
 ---
 ## Day Ten
@@ -239,6 +262,9 @@ Checklist prestart check
 #### Reading
 
 #### EPs
+
+ - [Loss Of Tail Rotor Effectiveness](https://github.com/wesleyem/th57/blob/master/EPS.md#loss-of-tail-rotor-effectiveness)
+ - [Airframe Fuel Filter](https://github.com/wesleyem/th57/blob/master/EPS.md#airframe-fuel-filter)
 
 #### Limits
 
@@ -250,6 +276,8 @@ Checklist prestart check
 #### Reading
 
 #### EPs
+
+complete loss of tail rotor thrust
 
 #### Limits
 

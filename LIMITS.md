@@ -195,6 +195,14 @@ In IMC should not exceed 1000 fpm
    1. No aircrewman required if both pilots are NATOPS qualifed in model
 1. Min crew weight is 180 lbs
 
+### Prohibited Operations
+
+1. ![Image][b] prohibited from IMC and icing conditions
+1. ![Image][c] prohibited from icing conditions
+1. IFR operations prohibited with any doors removed or with external load
+1. Flight prohibited with asymetrical doors off
+
+
 ### Prohibited Maneuvers
 
 1. Aerobatic maneuvers.
@@ -203,9 +211,17 @@ In IMC should not exceed 1000 fpm
 1. Intentional entry into blade stall.
 1. Hovering turns exceeding a rate of 45° per second.
 
+### Required Equipment for Night Flight
 
 
 
+### Required Equipment for Over Water and Shipboard Operations
+
+
+
+
+[c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
+[b]: https://img.shields.io/badge/TH--57-B-blue.svg?style=flat-square
 
 [figure4-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-2.png?raw=true
 [figure4-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3.png?raw=true

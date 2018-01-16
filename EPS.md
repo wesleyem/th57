@@ -1,7 +1,5 @@
 # Emergency Procedures
 
-[c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
-
 Considerations:
  - ![Image][c] means it applies to the TH-57C only
  - The only steps listed here are Memory Items
@@ -1124,3 +1122,6 @@ autorotational flight.
 2. Airspeed ... **130 KIAS (122 KIAS Maximum with FCS on)**
 
 > Note: During recovery N<sub>r</sub> may tend to overspeed
+
+
+[c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square

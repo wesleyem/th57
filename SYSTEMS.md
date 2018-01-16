@@ -542,6 +542,19 @@ Type: Wet sump/pressure lubrication system
    - Some aircraft have an additional detector on the upper left side
 
 
+#### Freewheeling Unit
+
+
+
+#### Engine to Transmission Drive Shaft
+
+
+
+#### Tail Rotor Drive
+
+
+
+
 ---
 ### Main Rotor, tail rotor, and flight control system
 ---
