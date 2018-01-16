@@ -536,6 +536,21 @@ autorotational flight.
 ---
 ### Complete Loss of Tail Rotor Thrust
 
+##### Indications
+
+1. Pedal input has no effect on helicopter trim
+1. Right yaw (left sideslip)
+1. Left roll of fuselage along the longitudinal axis
+1. Loud bang
+
+##### Delayed-Onset Indications
+
+1. High frequency vibrations
+1. Whining, grinding
+1. Yaw kicks, often during power changes
+1. Restricted or difficult movement of pedals
+1. Unusual pedal positions
+
 ##### In a hover:
 
 1. Twist grip ... **Flight idle**
@@ -561,6 +576,24 @@ autorotational flight.
 6. Continue powered flight and set up to a suitable landing area at or above minimum rate of descent autorotational airspeed.
 7. Autorotate
 8. Twist grip ... **Rotate to flight idle prior to touchdown**
+
+> Warning: Autorotation may be the safest option. Attempting to control a loss of tail rotor thrust in powered flight requires considerable skill and may result in loss of aircraft control.
+
+> Warning: Airspeed indications during side-slip are unreliable. At airspeeds below approximately 50 knots, the side-slip may suddenly become uncontrollable, and the helicopter will begin an unrecoverable vertical axis “flat spin”.
+
+> Warning: If attempting to achieve higher airspeeds, care must be taken to avoid excessive cyclic inputs coupled with large power settings that could lead to mast bumping or rapid nose tucking.
+
+> Warning: In the autorotation, maintain airspeed above minimum rate of descent airspeed until flare to avoid loss of yaw control.
+
+> Warning: Once the engine is secured, in the absence of torque, the lift produced by the vertical fin may tend to yaw the nose to the left at faster speeds. As airspeed slows and Nr decays, the decelerating rotorhead and swashplate friction will create additional left yaw, increasing the chance for rollover. Depending on landing profile, consideration should be given to leaving twist grip open until pulling collective at the bottom of the autorotation to allow control of yaw with twist grip.
+
+> Note: Depending on the nature of the failure and degree of damage, airspeeds between 50 to 72 KIAS may provide the best opportunity to maintain level flight.
+
+> Note: A non-typical nosedown attitude may be required to achieve a desired airspeed due to increased drag on the tail.
+
+> Note: Turns to the right may provide greater controllability of airspeed and potentially minimize altitude loss.
+
+> Note: Banking to the left will aid in counteracting torque.
 
 ---
 ### Tail Rotor Chip Caution

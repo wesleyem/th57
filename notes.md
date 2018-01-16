@@ -277,7 +277,7 @@ Checklist prestart check
 
 #### EPs
 
-complete loss of tail rotor thrust
+ - [Complete Loss Of Tail Rotor Thrust](https://github.com/wesleyem/th57/blob/master/EPS.md#complete-loss-of-tail-rotor-thrust)
 
 #### Limits
 
