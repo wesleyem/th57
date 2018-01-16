@@ -544,16 +544,50 @@ Type: Wet sump/pressure lubrication system
 
 #### Freewheeling Unit
 
-
+ - incorporates and outer race, innner race, and sprag clutch assembly
+    - during shutdown and autorotation, the sprags make minimal contact with the races
+ - front end of inner race shaft connects directly to the main drive shaft
+ - aft end of inner race shaft connects to the tail rotor drive
+ - inner race shaft is free to turn until sprag clutch engages
+ - freewheeling unit lubricated by transmission oil system
+    - centrifugal force throws the oil into the case
+ - chip detector throws `TRANS CHIP` if metal particles are present
+ - Sprag clutch assembly is main component of freewheeling unit and provides the means to disconnect the power train from a failed or secured engine
+ - sprags held in cage assembly
+ - engine rotates outer race and which jams the sprags between the inner and outer races
+    - if the outer race stops turning (i.e. engine fail or shutdown) the inner race and shaft are free to turn
 
 #### Engine to Transmission Drive Shaft
 
+**KAflex Shaft**
 
+ - has flexible splined coupling on each end that allows for momentary misalignment of the transmission drive shaft caused by transmission movement during flight
+ - aft end of KAflex shaft connected to freewheeling unit
 
 #### Tail Rotor Drive
 
-
-
+**Components**
+ - forward shaft
+    - steel
+ - oil cooler fan drive shaft
+    - steel
+    - part of tail rotor drive train
+    - turns oil cooler fan
+       - squirrel-cage-type impeller fan
+       - provides airflow to the engine, transmission, and hydraulic oil cooling systems
+ - aft short shaft
+    - aluminum
+ - **five** tail rotor drive shafts
+    - aluminum
+ - tail rotor gearbox
+    - changes direction of the drive by 90&deg;
+    - provides gear reduction from 6000 RPM to 2554 RPM at 100% N<sub>r</sub>
+    - housing is made of casted magnesium and bolted to tail section by (4) bolts
+    - has oil level sight gauge
+    - has combo chip detector/drain plug (illuminates `T/R CHIP` caution light)
+    - has vented cap
+    - self-contained splash-type lubrication system
+       - capacity: `3/8 pint`
 
 ---
 ### Main Rotor, tail rotor, and flight control system
