@@ -213,10 +213,18 @@ In IMC should not exceed 1000 fpm
 
 ### Required Equipment for Night Flight
 
-
+1. All instrument and circuit breaker panel lights
+1. All exterior lights
+1. Operable communication radio
+1. Attitude gyro
+1. Radar altimeter
 
 ### Required Equipment for Over Water and Shipboard Operations
 
+1. Radar altimeter
+1. VSI
+
+> Note: Due to weight and space restrictions associated with the TH-57, liferafts are not required.
 
 
 

@@ -321,6 +321,48 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 ---
 ### Engine Chip
 
+##### Indications
+
+1. `ENG CHIP` and `CLEAR CHIP` caution lights
+
+##### Corrective Action
+
+1. Check for secondary indications
+
+##### If secondary indications exist:
+
+2. Land as soon as possible
+
+##### If no secondary indications exist, proceed as follows:
+
+**First Chip light**
+
+3. Press `CLEAR CHIP`
+
+##### If `ENG CHIP` remains:
+
+4. Land as soon as possible
+
+##### If `ENG CHIP` extinguishes:
+
+5. Note time and continue flight
+
+**Second Chip light**
+
+##### If within 30 min of the first:
+
+6. Land as soon as possible
+
+##### If more than 30 min have elapsed since the first light:
+
+7. Press `CLEAR CHIP` and proceed as with the first light
+
+##### Any subsequent chip light:
+
+8. Land as soon as possible
+
+> Warning: may result in engine failure
+
 ---
 ### Abort Start
 
@@ -394,36 +436,38 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 1. `TRANS CHIP` and `CLEAR CHIP` caution lights
 
 ##### Corrective Action
-First `TRANS CHIP` caution light:
+
+##### First `TRANS CHIP` caution light:
 
 1. Check for secondary indications
 
-If secondary indications exist:
+##### If secondary indications exist:
 
 2. Transmission Malfunction Proc ... **Perform**
 
-If no secondary indications exist:
+##### If no secondary indications exist:
 
 3. Press `CLEAR CHIP`
 
-If `TRANS CHIP` caution light remains illuminated:
+##### If `TRANS CHIP` caution light remains illuminated:
 
 4. Transmission Malfunction Proc ... **Perform**
 
-If `TRANS CHIP` light extinguishes:
+##### If `TRANS CHIP` light extinguishes:
 
 5. Note the time and continue flight
 
-Second `TRANS CHIP` caution light.
-If within 30 min of the first:
+**Second `TRANS CHIP` caution light**
+
+##### If within 30 min of the first:
 
 6. Transmission Malfunction Proc ... **Perform**
 
-If more than 30 min have elapsed since the first `TRANS CHIP` caution light:
+##### If more than 30 min have elapsed since the first `TRANS CHIP` caution light:
 
 7. Proceed as with the first `TRANS CHIP` caution light
 
-Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
+##### Any subsequent `TRANS CHIP` caution light within 50 hours of the first:
 
 8. Transmission Malfunction Proc ... **Perform**
 
@@ -521,6 +565,18 @@ autorotational flight.
 ---
 ### Tail Rotor Chip Caution
 
+##### Indications
+
+1. `T/R CHIP` and `CLEAR CHIP` caution lights
+
+##### Corrective Action
+
+1. Land as soon as possible
+
+> Warning: may result in Complete Loss of Tail Rotor Thrust.
+
+> Warning: High power settings may result in loss of aircraft control in the event of the Loss of Tail Rotor Thrust. Increased power settings required to accomplish a normal approach may ultimately precipitate the complete failure of a malfunctioning tail rotor.
+
 ---
 ### Fixed Pitch in a Hover
 
@@ -557,6 +613,12 @@ autorotational flight.
 
 ---
 ### Loss of Tail Rotor Effectiveness
+
+##### Indications
+
+1. See paragraph 11.13
+
+##### Corrective Action
 
 1. Pedals ... **Maintain full left pedal**
 2. Collective ... **Lower (as altitude permits)**
@@ -628,13 +690,33 @@ autorotational flight.
 1. `BAT` switch ... **Off**
 1. Land as soon as possible
 
-> Note: ![Image][c] Switching the Main Battery Off opens the main battery relay, which causes the “STBY BATT ON” light to illuminate. As long as the ESS No. 1 bus is being powered normally, the standby battery will not be depleted.
+> Note: ![Image][c] Switching the Main Battery Off opens the main battery relay, which causes the `STBY BATT ON` light to illuminate. As long as the ESS No. 1 bus is being powered normally, the standby battery will not be depleted.
 
 ---
 ### Battery Temp Caution
 
+##### Indications
+
+1. `BATTERY TEMP` caution light
+
+##### Corrective Action
+
+1. `BAT` Switch ... **Off**
+1. Land as soon as possible
+
+> Note: ![Image][c] Switching the Main Battery Off opens the main battery relay, which causes the `STBY BATT ON` light to illuminate. As long as the ESS No. 1 bus is being powered normally, the standby battery will not be depleted.
+
 ---
 ### Spare Caution
+
+##### Indications
+
+1. `SPARE` caution light which indicates improper wiring of the caution panel
+
+##### Corrective Action
+
+1. Check for other indications
+1. Land as soon as possible
 
 ---
 ## Fuel System

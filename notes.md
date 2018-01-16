@@ -264,7 +264,7 @@ Checklist prestart check
 #### EPs
 
  - [Loss Of Tail Rotor Effectiveness](https://github.com/wesleyem/th57/blob/master/EPS.md#loss-of-tail-rotor-effectiveness)
- - [Airframe Fuel Filter](https://github.com/wesleyem/th57/blob/master/EPS.md#airframe-fuel-filter)
+ - [Airframe Fuel Filter Caution](https://github.com/wesleyem/th57/blob/master/EPS.md#airframe-fuel-filter-caution)
 
 #### Limits
 
