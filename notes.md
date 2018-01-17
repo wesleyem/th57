@@ -261,6 +261,13 @@ Checklist prestart check
 
 #### Reading
 
+![Image][figure4-1]
+![Image][figure4-3]
+![Image][figure4-4]
+![Image][figure4-6]
+![Image][figure4-9]
+![Image][figure4-12]
+
 #### EPs
 
  - [Loss Of Tail Rotor Effectiveness](https://github.com/wesleyem/th57/blob/master/EPS.md#loss-of-tail-rotor-effectiveness)
@@ -268,7 +275,11 @@ Checklist prestart check
 
 #### Limits
 
-#### Checklists
+Review
+
+#### Flight Characteristics
+
+Review
 
 ---
 ## Day Eleven
