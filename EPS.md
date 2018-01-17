@@ -886,7 +886,7 @@ autorotational flight.
 
 > Note: Ensure corresponding bus supply circuit breakers are in to provide power to desired electrical equipment
 
-> Note: Voltmeter will not indicate battery voltage until batter bus supply and voltmeter circuit breakers are in.
+> Note: Voltmeter will not indicate battery voltage until battery bus supply and voltmeter circuit breakers are in.
 
 > Note: Flight operation can be maintained without battery and generator. Instruments powered by the 28 Vdc power, however, will be inoperable.
 
