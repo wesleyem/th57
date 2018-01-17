@@ -735,7 +735,7 @@ autorotational flight.
 ##### Corrective Action
 
 1. `BAT` Switch ... **Off**
-1. Land as soon as possible
+1. Flight may be continued
 
 > Note: ![Image][c] Switching the Main Battery Off opens the main battery relay, which causes the `STBY BATT ON` light to illuminate. As long as the ESS No. 1 bus is being powered normally, the standby battery will not be depleted.
 
