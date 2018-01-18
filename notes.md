@@ -10,9 +10,9 @@
 1. [Day Six](#day-six)
 1. [Day Seven](#day-seven)
 1. [Day Eight](#day-eight)
-<!-- 1. [Day Nine](#day-nine)
+1. [Day Nine](#day-nine)
 1. [Day Ten](#day-ten)
-1. [Day Eleven](#day-eleven)
+<!-- 1. [Day Eleven](#day-eleven)
 1. [Day Twelve](#day-twelve)
 1. [Day Thirteen](#day-thirteen)
 1. [Day Fourteen](#day-fourteen) -->
@@ -261,12 +261,7 @@ Checklist prestart check
 
 #### Reading
 
-![Image][figure4-1]
-![Image][figure4-3]
-![Image][figure4-4]
-![Image][figure4-6]
-![Image][figure4-9]
-![Image][figure4-12]
+ - [Power Train Review](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#power-train)
 
 #### EPs
 

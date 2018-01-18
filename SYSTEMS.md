@@ -478,12 +478,16 @@ Pressure gauge is a wet-line system requiring no electrical power
     - First stage (input gear) rotates at **6000 RPM**
     - Rotor mast is rotating at **394 RPM**
 
+![Image][systems-figure-4-1]
+![Image][systems-figure-4-3]
 
 #### Transmission Oil System
 
 Capacity: 5 US quarts
 
 Type: Wet sump/pressure lubrication system
+
+![Image][systems-figure-4-4]
 
 ##### Components
 
@@ -544,6 +548,8 @@ Type: Wet sump/pressure lubrication system
    - One also acts as a drain plug for maintenance
    - Some aircraft have an additional detector on the upper left side
 
+![Image][systems-figure-4-6]
+
 
 #### Freewheeling Unit
 
@@ -560,12 +566,16 @@ Type: Wet sump/pressure lubrication system
  - engine rotates outer race and which jams the sprags between the inner and outer races
     - if the outer race stops turning (i.e. engine fail or shutdown) the inner race and shaft are free to turn
 
+![Image][systems-figure-4-9]
+
 #### Engine to Transmission Drive Shaft
 
 **KAflex Shaft**
 
  - has flexible splined coupling on each end that allows for momentary misalignment of the transmission drive shaft caused by transmission movement during flight
  - aft end of KAflex shaft connected to freewheeling unit
+
+![Image][systems-figure-4-12]
 
 #### Tail Rotor Drive
 
@@ -604,3 +614,16 @@ Type: Wet sump/pressure lubrication system
 ### TH-57C Electrical System
 ---
 ### The Ministab System
+
+
+
+<!-- Images -->
+
+<!-- Power Train -->
+
+[systems-figure-4-1]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-1.png
+[systems-figure-4-3]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-3.png
+[systems-figure-4-4]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-4.png
+[systems-figure-4-6]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-6.png
+[systems-figure-4-9]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-9.png
+[systems-figure-4-12]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-12.png
