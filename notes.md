@@ -12,8 +12,8 @@
 1. [Day Eight](#day-eight)
 1. [Day Nine](#day-nine)
 1. [Day Ten](#day-ten)
-<!-- 1. [Day Eleven](#day-eleven)
-1. [Day Twelve](#day-twelve)
+1. [Day Eleven](#day-eleven)
+<!-- 1. [Day Twelve](#day-twelve)
 1. [Day Thirteen](#day-thirteen)
 1. [Day Fourteen](#day-fourteen) -->
 
@@ -262,6 +262,7 @@ Checklist prestart check
 #### Reading
 
  - [Power Train Review](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#power-train)
+ - Ch. 11 NFM
 
 #### EPs
 
@@ -270,24 +271,19 @@ Checklist prestart check
 
 #### Limits
 
-Review
-
-#### Flight Characteristics
-
-Review
+ - Review
 
 ---
 ## Day Eleven
 
 #### Reading
 
+ - [Main Rotor Assembly](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#main-rotor-assembly)
+
 #### EPs
 
  - [Complete Loss Of Tail Rotor Thrust](https://github.com/wesleyem/th57/blob/master/EPS.md#complete-loss-of-tail-rotor-thrust)
 
-#### Limits
-
-#### Checklists
 
 ---
 ## Day Twelve

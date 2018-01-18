@@ -47,6 +47,7 @@
    1. [Tail Rotor Drive](#tail-rotor-drive)
 
 1. [Main Rotor, Tail Rotor, and Flight Control System](#main-rotor-tail-rotor-and-flight-control-system)
+   1. [Main Rotor Assembly](#main-rotor-assembly)
 
 1. [Hydraulic System](#hydraulic-system)
 
@@ -604,6 +605,9 @@ Type: Wet sump/pressure lubrication system
 
 ---
 ### Main Rotor, tail rotor, and flight control system
+
+#### Main Rotor Assembly
+
 ---
 ### Hydraulic System
 ---

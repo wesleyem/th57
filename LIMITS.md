@@ -30,7 +30,7 @@ Avoid Range (steady-state operation)
 ### Ng RPM
 Idle	|	Normal	|	Max
 ---|---|---
-|	62% +/- 2|	59%-105%	|	106% for 15s	|
+|	62% +/- 2|	60%-105%	|	106% for 15s	|
 
 ### Rotor Engagement/Disengagement Wind Limitations
 

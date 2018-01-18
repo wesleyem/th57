@@ -884,14 +884,6 @@ autorotational flight.
 
 7. Land as soon as possible
 
-> Note: Ensure corresponding bus supply circuit breakers are in to provide power to desired electrical equipment
-
-> Note: Voltmeter will not indicate battery voltage until battery bus supply and voltmeter circuit breakers are in.
-
-> Note: Flight operation can be maintained without battery and generator. Instruments powered by the 28 Vdc power, however, will be inoperable.
-
-> Note: ![Image][c] The voltmeter select switch may aid in identifying the location of the fire
-
 ---
 ### Electrical Fire - Known Origin
 
