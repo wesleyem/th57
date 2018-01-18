@@ -48,6 +48,11 @@
 
 1. [Main Rotor, Tail Rotor, and Flight Control System](#main-rotor-tail-rotor-and-flight-control-system)
    1. [Main Rotor Assembly](#main-rotor-assembly)
+   1. [Rotor Brake](#rotor-brake)
+   1. [Flight Control System Overview](#flight-control-system-overview)
+   1. [Cyclic Control](#cyclic-control)
+   1. [Collective System](#collective-system)
+   1. [Anti-Torque Pedals](#anti-torque-pedals)
 
 1. [Hydraulic System](#hydraulic-system)
 
@@ -604,9 +609,57 @@ Type: Wet sump/pressure lubrication system
        - capacity: `3/8 pint`
 
 ---
-### Main Rotor, tail rotor, and flight control system
+### Main Rotor, Tail Totor, and Flight Control System
 
 #### Main Rotor Assembly
+
+##### Major Components
+
+ - Splined trunnion
+ - Yoke
+ - Tension torsion-straps
+ - Blade Grips
+ - Pitch Change Horns
+ - Flap Restraint Assembly (kit)
+ - Main Rotor Blades
+
+##### Splined Trunnion
+
+Mounted to the mast and provides the mounting point for the yoke assembly and flapping axis for the main rotor.
+
+##### Yoke
+
+Mounted to the splined trunnion by pillow blocks which allow the main rotor to flap. Mounting point for the yoke is above the centerline. This (undersling) corrects for geometric imbalance caused by tilting the rotor system. The yoke has `2 1/4&deg;` of preconing which helps relieve bending stress.
+
+##### Tension Torsion Strap
+
+Attached to inboard part of yoke by a retention cap and pin. It's made up of many wires around two spools with a rubber coating. The strap holds the blade grip to the yoke assembly via a latch bolt. The strap twists and absorbs centrifugal forces that allow pitch change action.
+
+##### Blade Grips
+
+Provide mounting point for rotor blades and pitch change horns. Mounted to the Yoke by the Tension Torsion Strap.
+
+##### Pitch Change Horns
+
+Receive inputs from pitch control tube which cause blade grips to change pitch around the yoke assembly. 
+
+##### Flap Restraint Assembly
+
+Prevents excessive flapping. Mounted at the top of the splined trunnion. Is a flyweight and spring type restraint. At low rotor RPM springs hold restraint in tension. As RPM increase, flyweights overcome spring and full flap is allowed.
+
+##### Main Rotor Blades
+
+Mounted to the Blade Grips by hollow Through Bolts. They are hollow to allow for balance weights to be installed. Blades are nonsymetrical droop snoot design composed of an aluminum allow nose block, trailing edge, and skin sheets over an aluminum honeycomb fiber. Strength is increased by bonding doublers (laminations) at the root. Weights are added at the tip and mid-span to help with autorotation. Excessive blade flapping can cause damage to the tail boom especially at low rotor RPM.
+
+#### Rotor Brake
+
+#### Flight Control System Overview
+
+#### Cyclic Control
+
+#### Collective System
+
+#### Anti-Torque Pedals
 
 ---
 ### Hydraulic System

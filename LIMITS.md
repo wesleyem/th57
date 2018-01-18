@@ -3,9 +3,9 @@
 ## Engine Limitations
 
 ### Engine Oil Pressure
-|Min w/ N<sub>g</sub> below 79%	| Min w/ N<sub>g</sub> 79-94%	| Min w/ N<sub>g</sub> above 94%	| Max |
-|---|---|---|---|
-50 psi	| 90 psi	| 115 psi	| 130 psi except 150 immediately following cold-wx start
+Min w/ N<sub>g</sub> below 79% | Min w/ N<sub>g</sub> 79-94% | Min w/ N<sub>g</sub> above 94% | Max
+-------------------------------|-----------------------------|--------------------------------|-------------------------------------------------------
+50 psi	                       | 90 psi                      | 115 psi                        | 130 psi except 150 immediately following cold-wx start
 
 
 ### Engine Oil Temperature
@@ -16,9 +16,9 @@
 
 Power On:
 
-|Min 	| Max |
-|---|---|
-|97% 	|	100%|
+|Min | Max  |
+|----|------|
+|97% | 100% |
 
 > Note: N<sub>f</sub> overspeeds are determined on a sliding scale depending on TOT, N<sub>f</sub> percentage, and duration
 
@@ -28,9 +28,9 @@ Avoid Range (steady-state operation)
 > Note: Holding N<sub>f</sub> in this range for 60 cumulative seconds requires turbine replacement and shall be avoided
 
 ### Ng RPM
-Idle	|	Normal	|	Max
----|---|---
-|	62% +/- 2|	60%-105%	|	106% for 15s	|
+Idle      | Normal   | Max
+----------|----------|-------------
+62% +/- 2 | 60%-105% | 106% for 15s
 
 ### Rotor Engagement/Disengagement Wind Limitations
 
@@ -40,20 +40,20 @@ Idle	|	Normal	|	Max
 
 ##### During Start
 
-| Range | Time Limit |
-|---|---|
-| Up to 810 &deg;C | No limit |
-| 810 &deg;C to 927 &deg;C | 10s max |
-| 927 &deg;C | Max |
+Range                    | Time Limit
+-------------------------|-----------
+Up to 810 &deg;C         | No limit
+810 &deg;C to 927 &deg;C | 10s max
+927 &deg;C               | Max
 
 ##### During power transient
 
-| Range | Time Limit |
-|---|---|
-| Up to 738 &deg;C | No limit|
-| 738 &deg;C to 810 &deg;C  | 5 min |
-| 810 &deg;C to 843 &deg;C | 6 sec |
-| 843 &deg;C | Max |
+Range                     | Time Limit
+--------------------------|-----------
+Up to 738 &deg;C          | No limit
+738 &deg;C to 810 &deg;C  | 5 min
+810 &deg;C to 843 &deg;C  | 6 sec
+843 &deg;C                | Max
 
 ### Fuel
 
@@ -73,9 +73,9 @@ Idle	|	Normal	|	Max
 
 N<sub>r</sub> 
 
-| Power ON | Power OFF |
-|---|---|
-|97%-100% | 90%-107%|
+Power ON | Power OFF
+---------|----------
+97%-100% | 90%-107%
 
 
 
@@ -83,9 +83,9 @@ N<sub>r</sub>
 
 ##### Pressure
 
-|Continuous	| Min | Max |
-|---|---|---|
-|30-50 psi| 30|70|
+Continuous | Min | Max
+-----------|-----|-----
+30-50 psi  | 30  |70
 
  - Indications between 50-70 psi shall be documented on a MAF
 
@@ -102,9 +102,9 @@ N<sub>r</sub>
 
 ### Torque
 
-|Max continuous | Military power limit | Transient limit |
-|---|---|---|
-|85%|100% for 5 min | 100-110% for 5 sec|
+Max continuous | Military power limit | Transient limit
+---------------|----------------------|-------------------
+85%            |100% for 5 min        | 100-110% for 5 sec
 
 ### Fuel Pressure
 
@@ -126,37 +126,37 @@ Should be applied 30-38% N<sub>r</sub> during normal operations
 
 Limit starter engergizing time to the following:
 
-| Ext power | Battery |
-|---|---|
-25s - ON| 40s - ON
-30s - OFF| 60s - OFF
-25s - ON| 40s - ON
-30s - OFF| 60s - OFF
-25s - ON| 40s - ON
-30m - OFF| 30m - OFF
+Ext power | Battery
+----------|----------
+25s - ON  | 40s - ON
+30s - OFF | 60s - OFF
+25s - ON  | 40s - ON
+30s - OFF | 60s - OFF
+25s - ON  | 40s - ON
+30m - OFF | 30m - OFF
 
 
 ### Airspeed Limits
 
 > Note: All airspeed values are calibrated airspeed except when indicated airspeed is specifically stated
 
-| Density Alt Feet | Max Sideward Knots | Max Rearward Knots |
-|:---:|:---:|:---:|
-|0-1000|25|15|
-|1000-2000|20|15|
-|2000-4000|15|15|
-|4000-6000|10|10|
-|6000-10000|5|5|
+Density Alt Feet | Max Sideward Knots | Max Rearward Knots
+:---------------:|:------------------:|:------------------:
+0-1000           | 25                 | 15
+1000-2000        | 20                 | 15
+2000-4000        | 15                 | 15
+4000-6000        | 10                 | 10
+6000-10000       | 5                  | 5
 
-| Type | Airspeed |
-|---:|:---:|
-| V<sub>ne</sub> FCS OFF | 130 KIAS |
-| V<sub>ne</sub> FCS ON | 122 KIAS |
-| Max rate of climb | 50 KIAS |
-| Min IFR speed (V<sub>min i</sub>) | 65 KIAS |
-| Max airspeed with any combination of doors off | 110 KIAS |
-| Max autorotational airspeed | 100 KIAS |
-| Turbulence penetration airspeed | 80 KIAS |
+Type                                           | Airspeed
+:---------------------------------------------:|:--------:
+V<sub>ne</sub> FCS OFF                         | 130 KIAS
+V<sub>ne</sub> FCS ON                          | 122 KIAS
+Max rate of climb                              | 50 KIAS
+Min IFR speed (V<sub>min i</sub>)              | 65 KIAS
+Max airspeed with any combination of doors off | 110 KIAS
+Max autorotational airspeed                    | 100 KIAS
+Turbulence penetration airspeed                | 80 KIAS
 
 
 
@@ -164,12 +164,12 @@ Limit starter engergizing time to the following:
 
 #### Max operating altitude
 
-| |3000 lbs gross weight and below | Above 3000 lbs gross weight |
-|---|---|---|
-|FCS OFF| 20,000' PA | 16,000' PA |
-|FCS OFF| 18,000' DA | 13,000' DA |
-|IFR/FCS ON | 11,500' PA | 8,500' PA |
-|IFR/FCS ON | 13,500' DA | 11,000 DA |
+           |3000 lbs gross weight and below | Above 3000 lbs gross weight
+-----------|--------------------------------|----------------------------
+FCS OFF    | 20,000' PA                     | 16,000' PA
+FCS OFF    | 18,000' DA                     | 13,000' DA
+IFR/FCS ON | 11,500' PA                     | 8,500' PA
+IFR/FCS ON | 13,500' DA                     | 11,000 DA
 
 ### Climb/Descent
 
@@ -181,10 +181,10 @@ In IMC should not exceed 1000 fpm
 
 ### Weight Limitations
 
-| Max gross weight         | lbs      |
-|--------------------------|----------|
-| internally               | 3200 lbs |
-| including external cargo | 3350 lbs |
+Max gross weight         | lbs     
+-------------------------|---------
+internally               | 3200 lbs
+including external cargo | 3350 lbs
 
 
 ### Minimum Crew Requirements
