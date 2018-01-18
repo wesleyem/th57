@@ -653,13 +653,13 @@ autorotational flight.
 
 ##### Corrective Action
 
-1. Pedals ... **Maintain full left pedal**
+1. Pedals ... **Full left**
 2. Collective ... **Lower (as altitude permits)**
-3. Cyclic ... **Forward to increase airspeed**
+3. Airspeed ... **Increase**
 
 ##### If spin cannot be stopped:
 
-4. Autorotative landing ... **Execute**
+4. Autorotate
 
 ---
 ### High-Frequency Vibration
