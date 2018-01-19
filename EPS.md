@@ -381,6 +381,10 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 1. Twist grip ... **Close**
 1. Starter ... **OFF after TOT stabilizes at 400 &deg;C or below**
 
+> Caution: An excessive rise in TOT, TOT rapidly accelerating through 840 °C, and/or the battery voltage stabilized below 17 volts on starter engagement particularly when combined, indicates an increased potential for a hot start and may necessitate aborting the start to preclude an overtemp.
+
+> Caution: Failure to utilize a GPU/battery cart on subsequent start attempts may result in hot start.
+
 ---
 ## Main Rotor System
 
