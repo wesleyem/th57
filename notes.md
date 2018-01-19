@@ -288,15 +288,31 @@ Checklist prestart check
 ---
 ## Day Twelve
 
-Add NWC for Abort Start
-
 #### Reading
+
+ - [Rotor Brake](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#rotor-brake)
+ - [Tail Rotor Assembly](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#tail-rotor-assembly)
+ - [Cyclic Control](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#cyclic-control)
+
+#### Course Rules
+
+ - Able & Baker Departures
+
+#### Contact FTI
+
+ - Hovering
+ - Vertical Landing
+ - Vertical Takeoff
+ - Turn on the Spot/Clearing Turn
+ - Air Taxi
 
 #### EPs
 
+ - Review
+
 #### Limits
 
-#### Checklists
+ - Review
 
 ---
 ## Day Thirteen
@@ -307,8 +323,6 @@ Add NWC for Abort Start
 
 #### Limits
 
-#### Checklists
-
 ---
 ## Day Fourteen
 
@@ -317,11 +331,6 @@ Add NWC for Abort Start
 #### EPs
 
 #### Limits
-
-#### Checklists
-
-
-
 
 <!-- Day One -->
 
