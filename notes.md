@@ -288,6 +288,8 @@ Checklist prestart check
 ---
 ## Day Twelve
 
+Add NWC for Abort Start
+
 #### Reading
 
 #### EPs
