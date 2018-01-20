@@ -13,8 +13,8 @@
 1. [Day Nine](#day-nine)
 1. [Day Ten](#day-ten)
 1. [Day Eleven](#day-eleven)
-<!-- 1. [Day Twelve](#day-twelve)
-1. [Day Thirteen](#day-thirteen)
+1. [Day Twelve](#day-twelve)
+<!-- 1. [Day Thirteen](#day-thirteen)
 1. [Day Fourteen](#day-fourteen) -->
 
 ---
@@ -296,15 +296,15 @@ Checklist prestart check
 
 #### Course Rules
 
- - Able & Baker Departures
+ - [Departures](https://github.com/wesleyem/th57/blob/master/course-rules.md#departures)
 
 #### Contact FTI
 
- - Hovering
- - Vertical Landing
- - Vertical Takeoff
- - Turn on the Spot/Clearing Turn
- - Air Taxi
+ - [Vertical Takeoff](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#vertical-takeoff)
+ - [Hover](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#hover)
+ - [Vertical Landing](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#vertical-landing)
+ - [Turn on the spot/Clearing Turn](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#turn-on-the-spot/clearing-turn)
+ - [Hover Taxi/Air Taxi](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#hover-taxiair-taxi)
 
 #### EPs
 
