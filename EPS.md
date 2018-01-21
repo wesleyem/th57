@@ -1236,3 +1236,4 @@ autorotational flight.
 
 
 [c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
+[b]: https://img.shields.io/badge/TH--57-B-blue.svg?style=flat-square

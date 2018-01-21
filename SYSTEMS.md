@@ -1,13 +1,3 @@
-[figure1-8]: https://github.com/wesleyem/th57/blob/master/images/figure1-8.PNG?raw=true
-[figure2-1]: https://github.com/wesleyem/th57/blob/master/images/figure2-1.PNG?raw=true
-[figure2-2]: https://github.com/wesleyem/th57/blob/master/images/figure2-2.PNG?raw=true
-[figure2-6]: https://github.com/wesleyem/th57/blob/master/images/figure2-6.PNG?raw=true
-[figure2-12]: https://github.com/wesleyem/th57/blob/master/images/figure2-12.PNG?raw=true
-[figure2-13]: https://github.com/wesleyem/th57/blob/master/images/figure2-13.PNG?raw=true
-
-
-
-
 # TH-57B/C Systems
 
 ### Table of Contents
@@ -48,8 +38,8 @@
 
 1. [Main Rotor, Tail Rotor, and Flight Control System](#main-rotor-tail-rotor-and-flight-control-system)
    1. [Main Rotor Assembly](#main-rotor-assembly)
-   1. [Rotor Brake](#rotor-brake)
-   1. [Flight Control System Overview](#flight-control-system-overview)
+   1. ![Image][c][Rotor Brake](#rotor-brake)
+   1. [Tail Rotor Assembly](#tail-rotor-assembly)
    1. [Cyclic Control](#cyclic-control)
    1. [Collective System](#collective-system)
    1. [Anti-Torque Pedals](#anti-torque-pedals)
@@ -113,7 +103,7 @@
 
 #### Lighting Systems
 All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by circuit breakers and circuit breaker type switches.
-![Image][figure1-8]
+![Image][systems-1-8]
 
 ---
 
@@ -154,13 +144,13 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
  	- gas producer gear train
  	- power turbine gear train
  - `420 SHP` but only `317 SHP` is usable
-![Image][figure2-1]
+![Image][systems-2-1]
 
 ---
 
 #### Compressor Section
  
-![Image][figure2-2]
+![Image][systems-2-2]
  4 subassemblies
  - Front support
 
@@ -179,7 +169,7 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
 
 #### Combustion Section
 
-![Image][figure2-6]
+![Image][systems-2-6]
 
  - Where the air and fuel mix to go boom
  - 250-C20J has single "can" type combustion chamber
@@ -247,8 +237,8 @@ Pressurized circulating dry sump-type oil system
     - External filter
     - Oil cooler
 
-![Image][figure2-12]
-![Image][figure2-13]
+![Image][systems-2-12]
+![Image][systems-2-13]
 
 ---
 
@@ -484,8 +474,8 @@ Pressure gauge is a wet-line system requiring no electrical power
     - First stage (input gear) rotates at **6000 RPM**
     - Rotor mast is rotating at **394 RPM**
 
-![Image][systems-figure-4-1]
-![Image][systems-figure-4-3]
+![Image][systems-4-1]
+![Image][systems-4-3]
 
 #### Transmission Oil System
 
@@ -493,7 +483,7 @@ Capacity: 5 US quarts
 
 Type: Wet sump/pressure lubrication system
 
-![Image][systems-figure-4-4]
+![Image][systems-4-4]
 
 ##### Components
 
@@ -554,7 +544,7 @@ Type: Wet sump/pressure lubrication system
    - One also acts as a drain plug for maintenance
    - Some aircraft have an additional detector on the upper left side
 
-![Image][systems-figure-4-6]
+![Image][systems-4-6]
 
 
 #### Freewheeling Unit
@@ -572,7 +562,7 @@ Type: Wet sump/pressure lubrication system
  - engine rotates outer race and which jams the sprags between the inner and outer races
     - if the outer race stops turning (i.e. engine fail or shutdown) the inner race and shaft are free to turn
 
-![Image][systems-figure-4-9]
+![Image][systems-4-9]
 
 #### Engine to Transmission Drive Shaft
 
@@ -581,7 +571,7 @@ Type: Wet sump/pressure lubrication system
  - has flexible splined coupling on each end that allows for momentary misalignment of the transmission drive shaft caused by transmission movement during flight
  - aft end of KAflex shaft connected to freewheeling unit
 
-![Image][systems-figure-4-12]
+![Image][systems-4-12]
 
 #### Tail Rotor Drive
 
@@ -651,11 +641,60 @@ Prevents excessive flapping. Mounted at the top of the splined trunnion. Is a fl
 
 Mounted to the Blade Grips by hollow Through Bolts. They are hollow to allow for balance weights to be installed. Blades are nonsymetrical droop snoot design composed of an aluminum allow nose block, trailing edge, and skin sheets over an aluminum honeycomb fiber. Strength is increased by bonding doublers (laminations) at the root. Weights are added at the tip and mid-span to help with autorotation. Excessive blade flapping can cause damage to the tail boom especially at low rotor RPM.
 
-#### Rotor Brake
+#### ![Image][c]Rotor Brake
 
-#### Flight Control System Overview
+#### Tail Rotor Assembly
+
+Counteracts the main rotor torque effect. Main rotor blade rotate CCW which makes the fuselage attempt to rotate CW.
+
+ - two-bladed, semi rigid, flapping type system
+ - blades are all metal (aluminum honeycomb covered by SS skin)
+
+###### Major Components
+
+ - Rotor blades
+    - aluminum honeycomb covered by SS skin
+    - diameter is 5'5"
+    - mounted to yoke by retention block
+    - has ballast stations for mass balancing
+       - spanwise balancing: washers on blade bolts
+       - chordwise balancing: weights and washers on trunnion bearing housing retaining bolts
+ - pitch change horns
+    - mounted to tail rotor blade
+    - receives input from cross head via pitch change links
+ - cross head
+    - mounted to control tube
+ - control tube
+    - as extends or retracts cross head moves the pitch change links
+ - balance wheel
+    - used for dynamic balancing
+    - mounted on tail rotor gearbox shaft
+ - static stop
+    - limits amount of flapping by tail rotor
+ - yoke assembly
+    - forged alumnium alloy
+    - mounted to gearbox shaft by splined trunnion
+    - Geometric balance is accomplished by an offset between the splined trunnion and the yoke assembly
+       - trunnion is attached to yoke assembly at an angle less than 90&deg; to the span of the blades
 
 #### Cyclic Control
+
+As the cyclic is moved, the rotor disc tilts in the direction of movement. At the base of cyclic and part of the pivot support assembly, a friction adjuster allows pilot to adjust desired cyclic friction. Pilot and Co-Pilot pivot supports are connected by a torque tube.
+
+The swashplate assembly consists of a stationary swashplate, rotating swashplate, pivot sleeve, swashplate support, and a drive link.
+
+![Image][contacts-5-13]
+
+The top of the pivot sleeve is of a uni-ball construction. It's the mounting point for the stationary swashplate. This is what allows the stationary swashplate to tilt in any direction. Rotating swash is mounted to stationary swash by bearings and bearing cap. A drive link is spline mounted to the mast at one end and to the rotating swash at the other.
+
+The drive link lever and collar causes the rotating swash to rotate at the same speed with the rotor system. Rotating swash is attached to the pitch change horns by two pitch control tubes.
+
+**Moving the cyclic forward will cause the stationary swash to tilt forward. The rotating swash will tilt with the stationary. A low point front and high point rear is created when the swash is tilted foward. As the rotating swash rotates, the pitch change tubes move up on the high side and down on the low side. As a pitch change tube moves upward, blade pitch angle increases, and as it moves downward blade pitch angle decreases. The retreating blade climbs and the advancing blade descends.**
+
+##### Control Input Flow
+
+Cyclic transmits controls to the mixing lever (located at the base of the control column). Inputs are intermixed and transmitted up the control column to hydraulic servos. Manual input is hydraulically boosted to the stationary swashplate. Stationary swashplate transmits controls to the rotating contols (rotating swashplate, pitch change tubes, and pitch change horns).
+
 
 #### Collective System
 
@@ -676,11 +715,24 @@ Mounted to the Blade Grips by hollow Through Bolts. They are hollow to allow for
 
 <!-- Images -->
 
+<!-- Engine -->
+
+[systems-1-8]: https://github.com/wesleyem/th57/blob/master/images/systems-1-8.png?raw=true
+[systems-2-1]: https://github.com/wesleyem/th57/blob/master/images/systems-2-1.png?raw=true
+[systems-2-2]: https://github.com/wesleyem/th57/blob/master/images/systems-2-2.png?raw=true
+[systems-2-6]: https://github.com/wesleyem/th57/blob/master/images/systems-2-6.png?raw=true
+[systems-2-12]: https://github.com/wesleyem/th57/blob/master/images/systems-2-12.png?raw=true
+[systems-2-13]: https://github.com/wesleyem/th57/blob/master/images/systems-2-13.png?raw=true
+
 <!-- Power Train -->
 
-[systems-figure-4-1]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-1.png
-[systems-figure-4-3]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-3.png
-[systems-figure-4-4]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-4.png
-[systems-figure-4-6]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-6.png
-[systems-figure-4-9]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-9.png
-[systems-figure-4-12]: https://github.com/wesleyem/th57/blob/master/images/systems-figure-4-12.png
+[systems-4-1]: https://github.com/wesleyem/th57/blob/master/images/systems-4-1.png
+[systems-4-3]: https://github.com/wesleyem/th57/blob/master/images/systems-4-3.png
+[systems-4-4]: https://github.com/wesleyem/th57/blob/master/images/systems-4-4.png
+[systems-4-6]: https://github.com/wesleyem/th57/blob/master/images/systems-4-6.png
+[systems-4-9]: https://github.com/wesleyem/th57/blob/master/images/systems-4-9.png
+[systems-4-12]: https://github.com/wesleyem/th57/blob/master/images/systems-4-12.png
+
+
+[c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
+[b]: https://img.shields.io/badge/TH--57-B-blue.svg?style=flat-square

@@ -15,3 +15,6 @@
  - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
  - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
  - [notes](https://github.com/wesleyem/th57/blob/master/notes.md)
+
+[c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
+[b]: https://img.shields.io/badge/TH--57-B-blue.svg?style=flat-square

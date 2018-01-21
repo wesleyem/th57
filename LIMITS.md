@@ -34,7 +34,7 @@ Idle      | Normal   | Max
 
 ### Rotor Engagement/Disengagement Wind Limitations
 
-![Image][figure4-2]
+![Image][limits-4-2]
 
 ### Turbine Outlet Temperatures
 
@@ -65,9 +65,9 @@ Up to 738 &deg;C          | No limit
 
 ### Instrument Markings
 
-![Image][figure4-3]
-![Image][figure4-3-2]
-![Image][figure4-3-3]
+![Image][limits-4-3]
+![Image][limits-4-3-2]
+![Image][limits-4-3-3]
 
 ### Rotor Limits
 
@@ -231,7 +231,7 @@ including external cargo | 3350 lbs
 [c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
 [b]: https://img.shields.io/badge/TH--57-B-blue.svg?style=flat-square
 
-[figure4-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-2.png?raw=true
-[figure4-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3.png?raw=true
-[figure4-3-2]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-2.png?raw=true
-[figure4-3-3]: https://github.com/wesleyem/th57/blob/master/images/figure4-3-3.png?raw=true
+[limits-4-2]: https://github.com/wesleyem/th57/blob/master/images/limits-4-2.png?raw=true
+[limits-4-3]: https://github.com/wesleyem/th57/blob/master/images/limits-4-3.png?raw=true
+[limits-4-3-2]: https://github.com/wesleyem/th57/blob/master/images/limits-4-3-2.png?raw=true
+[limits-4-3-3]: https://github.com/wesleyem/th57/blob/master/images/limits-4-3-3.png?raw=true
