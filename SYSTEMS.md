@@ -683,7 +683,7 @@ As the cyclic is moved, the rotor disc tilts in the direction of movement. At th
 
 The swashplate assembly consists of a stationary swashplate, rotating swashplate, pivot sleeve, swashplate support, and a drive link.
 
-![Image][contacts-5-13]
+![Image][systems-5-13]
 
 The top of the pivot sleeve is of a uni-ball construction. It's the mounting point for the stationary swashplate. This is what allows the stationary swashplate to tilt in any direction. Rotating swash is mounted to stationary swash by bearings and bearing cap. A drive link is spline mounted to the mast at one end and to the rotating swash at the other.
 
@@ -732,6 +732,10 @@ Cyclic transmits controls to the mixing lever (located at the base of the contro
 [systems-4-6]: https://github.com/wesleyem/th57/blob/master/images/systems-4-6.png
 [systems-4-9]: https://github.com/wesleyem/th57/blob/master/images/systems-4-9.png
 [systems-4-12]: https://github.com/wesleyem/th57/blob/master/images/systems-4-12.png
+
+<!-- Main Rotor, Tail Rotor, FCS -->
+
+[systems-5-13]: https://github.com/wesleyem/th57/blob/master/images/systems-5-13.png
 
 
 [c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square

@@ -164,12 +164,12 @@ Turbulence penetration airspeed                | 80 KIAS
 
 #### Max operating altitude
 
-           |3000 lbs gross weight and below | Above 3000 lbs gross weight
------------|--------------------------------|----------------------------
-FCS OFF    | 20,000' PA                     | 16,000' PA
-FCS OFF    | 18,000' DA                     | 13,000' DA
-IFR/FCS ON | 11,500' PA                     | 8,500' PA
-IFR/FCS ON | 13,500' DA                     | 11,000 DA
+|            |3000 lbs gross weight and below | Above 3000 lbs gross weight
+|------------|--------------------------------|----------------------------
+| FCS OFF    | 20,000' PA                     | 16,000' PA
+| FCS OFF    | 18,000' DA                     | 13,000' DA
+| IFR/FCS ON | 11,500' PA                     | 8,500' PA
+| IFR/FCS ON | 13,500' DA                     | 11,000 DA
 
 ### Climb/Descent
 
