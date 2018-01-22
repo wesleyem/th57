@@ -670,7 +670,7 @@ autorotational flight.
 
 ##### Indications
 
-1. Vibration in pedals or sudden increased amplitute of vibrations
+1. Vibration in pedals or sudden increased amplitude of vibrations
 1. Unusual noises
 1. `T/R CHIP` light
 
@@ -707,7 +707,7 @@ autorotational flight.
 
 > Warning: Hydraulic system will not secure if HYD BOOST circuit breaker is out and the pilot will be unable to maintain control of the aircraft
 
-> Warning: In the event of a complete loss of electrical power in the TH-57B or a failure of the ESS No. 2 bus in the TH-57C, the hydraulic system will reenergize in the malfunction mode. The pilot will be unable to override the hydraulic boost solenoid.
+> Warning: In the event of a complete loss of electrical power in the TH-57B or a failure of the ESS No. 2 bus in the TH-57C, the hydraulic system will re-energize in the malfunction mode. The pilot will be unable to override the hydraulic boost solenoid.
 
 ## Electrical System
 
