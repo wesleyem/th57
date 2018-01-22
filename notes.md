@@ -9,6 +9,7 @@ M             | T             | W              | Th            | F
 1             | 2             | 3              | [4](#4-jan)   | [5](#5-jan)
 [8](#8-jan)   | [9](#9-jan)   | [10](#10-jan)  | [11](#11-jan) | [12](#12-jan)
 [15](#15-jan) | [16](#16-jan) | [17](#17-jan)  | [18](#18-jan) | [19](#19-jan)
+[22](#22-jan) |
 
 ---
 ## 4 Jan
@@ -290,7 +291,7 @@ Checklist prestart check
 
  - [Departures](https://github.com/wesleyem/th57/blob/master/course-rules.md#departures)
 
-#### Contact FTI
+#### Contacts
 
  - [Vertical Takeoff](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#vertical-takeoff)
  - [Hover](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#hover)
@@ -307,22 +308,20 @@ Checklist prestart check
  - Review
 
 ---
-## Day Thirteen
+## 22 Jan
 
 #### Reading
 
-#### EPs
+#### Course Rules
 
-#### Limits
+#### Contacts
+
+#### Review
+
+ - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
+ - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
 
 ---
-## Day Fourteen
-
-#### Reading
-
-#### EPs
-
-#### Limits
 
 <!-- 4 Jan -->
 
