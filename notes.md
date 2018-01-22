@@ -265,7 +265,7 @@ Checklist prestart check
 
 #### Limits
 
- - Review
+ - [Review](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
 
 ---
 ## 18 Jan
@@ -299,22 +299,32 @@ Checklist prestart check
  - [Turn on the spot/Clearing Turn](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#turn-on-the-spot/clearing-turn)
  - [Hover Taxi/Air Taxi](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#hover-taxiair-taxi)
 
-#### EPs
+#### Review
 
- - Review
-
-#### Limits
-
- - Review
+ - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
+ - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
 
 ---
 ## 22 Jan
 
 #### Reading
 
+ - Chapter 3 NFM
+ - [Collective System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#collective-system)
+ - [Anti-Torque Pedals](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#anti-torque-pedals)
+
 #### Course Rules
 
+ - [Arrivals](https://github.com/wesleyem/th57/blob/master/course-rules.md#arrivals)
+    - Pace
+
 #### Contacts
+
+ - [Square Patterns](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#square-patterns)
+ - [Transition to Forward Flight](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#transition-to-forward-flight)
+ - [Max Load Takeoff](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#max-load-takeoff)
+ - [No Hover Takeoff](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#no-hover-takeoff)
+ - [Normal Cruise](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#normal-cruise)
 
 #### Review
 
