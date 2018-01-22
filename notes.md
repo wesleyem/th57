@@ -2,23 +2,16 @@
 
 ## Table Of Contents
 
-1. [Day One](#day-one)
-1. [Day Two](#day-two)
-1. [Day Three](#day-three)
-1. [Day Four](#day-four)
-1. [Day Five](#day-five)
-1. [Day Six](#day-six)
-1. [Day Seven](#day-seven)
-1. [Day Eight](#day-eight)
-1. [Day Nine](#day-nine)
-1. [Day Ten](#day-ten)
-1. [Day Eleven](#day-eleven)
-1. [Day Twelve](#day-twelve)
-<!-- 1. [Day Thirteen](#day-thirteen)
-1. [Day Fourteen](#day-fourteen) -->
+Jan
+
+M             | T             | W              | Th            | F
+:------------:|:-------------:|:--------------:|:-------------:|:------------:
+1             | 2             | 3              | [4](#4-jan)   | [5](#5-jan)
+[8](#8-jan)   | [9](#9-jan)   | [10](#10-jan)  | [11](#11-jan) | [12](#12-jan)
+[15](#15-jan) | [16](#16-jan) | [17](#17-jan)  | [18](#18-jan) | [19](#19-jan)
 
 ---
-## Day One
+## 4 Jan
 
 #### EPs
  - [abort start][abort-start]
@@ -37,7 +30,7 @@
  - Ng RPM
 
 ---
-## Day Two
+## 5 Jan
 
 #### Reading
 
@@ -60,7 +53,7 @@ End of chapter questions
 Checklist prestart check
 
 ---
-## Day Three
+## 8 Jan
 
 #### Reading
 
@@ -86,7 +79,7 @@ Checklist prestart check
 #### Checklist
 
 ---
-## Day Four
+## 9 Jan
 
 #### Reading
 
@@ -112,7 +105,7 @@ Checklist prestart check
  - Takeoff Checklist
 
 ---
-## Day Five
+## 10 Jan
 
 #### Reading
 
@@ -150,7 +143,7 @@ Checklist prestart check
 
 
 ---
-## Day Six
+## 11 Jan
 
 #### Reading
 
@@ -174,7 +167,7 @@ Checklist prestart check
  - Hydraulic Check
 
 ---
-## Day Seven
+## 12 Jan
 
 #### Reading
 
@@ -199,7 +192,7 @@ Checklist prestart check
 
 
 ---
-## Day Eight
+## 15 Jan
 
 #### Outstanding Questions
 
@@ -230,7 +223,7 @@ Checklist prestart check
  - Preflight
 
 ---
-## Day Nine
+## 16 Jan
 
 #### Reading
 
@@ -257,7 +250,7 @@ Checklist prestart check
  - Preflight
 
 ---
-## Day Ten
+## 17 Jan
 
 #### Reading
 
@@ -274,7 +267,7 @@ Checklist prestart check
  - Review
 
 ---
-## Day Eleven
+## 18 Jan
 
 #### Reading
 
@@ -286,7 +279,7 @@ Checklist prestart check
 
 
 ---
-## Day Twelve
+## 19 Jan
 
 #### Reading
 
@@ -331,7 +324,7 @@ Checklist prestart check
 
 #### Limits
 
-<!-- Day One -->
+<!-- 4 Jan -->
 
 [abort-start]: https://github.com/wesleyem/th57/blob/master/EPS.md#abort-start
 [post-shutdown]: https://github.com/wesleyem/th57/blob/master/EPS.md#post-shutdown-fire-internal
@@ -340,7 +333,7 @@ Checklist prestart check
 [etx-t]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-or-transmission-oil-temperatures
 [icing]: https://github.com/wesleyem/th57/blob/master/EPS.md#icing
 
-<!-- Day Two -->
+<!-- 5 Jan -->
 
 [fuel-leak]: https://github.com/wesleyem/th57/blob/master/EPS.md#suspected-fuel-leakage
 [smoke-fume]: https://github.com/wesleyem/th57/blob/master/EPS.md#smoke-and-fume-elimination
@@ -348,7 +341,7 @@ Checklist prestart check
 [overspeed]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-overspeed-nf-rotor-rpm-nr
 [trans-malf]: https://github.com/wesleyem/th57/blob/master/EPS.md#transmission-malfunction
 
-<!-- Day Three -->
+<!-- 8 Jan -->
 
 [underspeeding]: https://github.com/wesleyem/th57/blob/master/EPS.md#underspeeding-nfnr
 [hyd-power-malf]: https://github.com/wesleyem/th57/blob/master/EPS.md#hydraulic-power-cylinder-malfunction
@@ -356,7 +349,7 @@ Checklist prestart check
 [fuselage-fire]: https://github.com/wesleyem/th57/blob/master/EPS.md#fuselage-fire
 [eng-fire-in-flt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-fire-in-flight
 
-<!-- Day Four -->
+<!-- 9 Jan -->
 
 [Compressor-Stall]: https://github.com/wesleyem/th57/blob/master/EPS.md#compressor-stall
 [Elec-fire-known]: https://github.com/wesleyem/th57/blob/master/EPS.md#electrical-fire---known-origin
@@ -364,7 +357,7 @@ Checklist prestart check
 [Engine-fail-at-high-as-and-low-alt]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-failure-at-high-airspeed-and-low-altitude
 [Engine-failure-in-flight]: https://github.com/wesleyem/th57/blob/master/EPS.md#engine-failure-in-flight
 
-<!-- Day Five -->
+<!-- 10 Jan -->
 
 [Main-drive-shaft-failure]: https://github.com/wesleyem/th57/blob/master/EPS.md#main-drive-shaft-failure
 [Mast-Bumping]: https://github.com/wesleyem/th57/blob/master/EPS.md#mast-bumping
@@ -372,7 +365,7 @@ Checklist prestart check
 [Immediate-LandingDitching]: https://github.com/wesleyem/th57/blob/master/EPS.md#immediate-landingditching
 [Underwater-egress]: https://github.com/wesleyem/th57/blob/master/EPS.md#underwater-egress
 
-<!-- Day Six -->
+<!-- 11 Jan -->
 
 [fixed-pitch-in-a-hover]:https://github.com/wesleyem/th57/blob/master/EPS.md#fixed-pitch-in-a-hover
 [fuel-boost-pump-failure]:https://github.com/wesleyem/th57/blob/master/EPS.md#fuel-boost-pump-failure
@@ -380,21 +373,21 @@ Checklist prestart check
 [sprag-clutch-seizure]:https://github.com/wesleyem/th57/blob/master/EPS.md#sprag-clutch-seizure
 
 
-<!-- Day Seven -->
+<!-- 12 Jan -->
 
-<!-- Day Eight -->
+<!-- 15 Jan -->
 
-<!-- Day Nine -->
+<!-- 16 Jan -->
 
-<!-- Day Ten -->
+<!-- 17 Jan -->
 
-<!-- Day Eleven -->
+<!-- 18 Jan -->
 
-<!-- Day Twelve -->
+<!-- 19 Jan -->
 
-<!-- Day Thirteen -->
+<!-- 22 Jan -->
 
-<!-- Day Fourteen -->
+<!-- 23 Jan -->
 
 
 [c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
