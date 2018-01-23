@@ -7,6 +7,11 @@
  1. [Vertical Landing](#vertical-landing)
  1. [Turn on the spot/Clearing Turn](#turn-on-the-spotclearing-turn)
  1. [Hover Taxi/Air Taxi](#hover-taxiair-taxi)
+ 1. [Square Patterns](#square-patterns)
+ 1. [Transition to Forward Flight](#transition-to-forward-flight)
+ 1. [Max Load Takeoff](#max-load-takeoff)
+ 1. [No Hover Takeoff](#no-hover-takeoff)
+ 1. [Normal Cruise](#normal-cruise)
 
 ## Vertical Takeoff
 
@@ -115,6 +120,104 @@ Air Taxi: less than 100' AGL. Safe airspeed.
 1. Hover taxi at or below walking speed within line area.
 
 ![Image][taxi-signals]
+
+## Square Patterns
+
+### Procedure
+
+#### Constant-Heading
+
+1. From start, move laterally in either direction
+1. At each corner, stop and stabilize, then continue in either direction
+1. When moving laterally, heading should be perpendicular to square side
+1. Moving forward or rearward, square side should be under the aircraft to provide reference.
+
+#### Parallel-Heading
+
+1. From start, move forward onto square, turn 90&deg; right to parallel side, then air taxi
+1. Hover at corner with next side abeam shoulder
+1. 90&deg; turn on the spot to parallel new side, stabilize hover, continue air taxi.
+1. Continue unti reaching middle of downwind side, turn 90&deg; and taxi rearward to starting position
+
+#### Perpendicular-Heading
+
+1. From start, slow lateral movement in either direction along square. Heading perpedicular to square.
+1. Coordinate cyclic and rudder to turn on corners to maintain perpendicular heading. Do not stop lateral movement.
+1. Continue until reaching the starting position
+
+
+### Amplifying Information
+
+ - All square patterns are performed at hover altitude
+ - All started in the middle of the downwind side with heading perpendicular to the side
+ - Starting distance should be sufficient to scan side over the instrument panel
+ - Be aware of tendency to get low in turns
+ - As the tail passes through the wind line the nose will tend to tuck. Be aware.
+ - Parallel and perpendicular squares shall not be performed in winds exceeding 15 KTS
+
+## Transition to Forward Flight
+
+### Procedure
+
+1. From hover, begin forward motion
+1. Add collective if needed to prevent settling when leaving ground effect
+1. Accelerate through 40 KIAS with 20' AGL
+1. Passing 50' and 65 KTS adjust nose to 70 KTS attitude, climb at 500-700 fpm
+1. 50' below desired altitude, adjust nose to cruise attitude. Maintain power.
+1. Approaching desired airspeed, adjust collective to level off
+
+### Amplifying Information
+
+ - At an OLF, make clearing turn.
+ - Collective increase may be required when moving the cyclic forward as some of the vertical lift is being used for thrust
+ - Passing through translational lift (10-15 KTS) results in considerable increase in lift and aircraft will yaw left and slightly up. This is predicated by a moderate vibration or shudder throughout the helicopter. Apply additional forward cyclic to overcome this effect.
+
+## Max Load Takeoff
+
+### Procedure
+
+1. Hover into courseline. Check and state N<sub>g</sub> required for hover.
+1. Clearing turn and land
+1. Raise collective to just clear the ground and stabilize
+1. Begin slow forward movement, still in ground effect
+1. Add power to prevent settling
+1. Passing through translational lift, adjust cyclic to prevent excessive climb
+1. Maneuver complete when 40 KIAS at no higher than 20' AGL. Announce.
+
+### Amplifying Information
+
+ - Hover into the wind at 5' and check N<sub>g</sub> required to maintain hover. This is simulated threshold for maneuver.
+ - When just clear of the ground, power required should not yet equal simulated power available
+ - DO NOT RUSH FORWARD FLIGHT
+
+## No Hover Takeoff
+
+### Procedure
+
+1. From hover, clearing turn and land
+1. Trim controls to neutral and hover scan
+1. Smoothly raise collective in a continuous pull not to exceed 85% torque
+1. As the helicopter leaves the ground, forward cyclic
+1. Reach translational lift asap while maintaining safe ground clearance
+1. At 40 KIAS, adjust power and intercept normal forward flight parameters
+
+### Amplifying Information
+
+ - Do not hesitate or stop once collective pull has started until reaching max power available as rotor wash will quickly lift debris
+ - Rate of forward cyclic must be slow to prevent excessive nose low
+
+## Normal Cruise
+
+### Procedure
+
+1. Set cruise attitude with cyclic and altitude with collective
+1. Use pedals
+
+### Amplifying Information
+
+ - Normal cruise (100 KIAS) is typically 70-75% torque
+ - Attitude and VSI are primary items for normal cruise
+
 
 
 <!-- Links -->

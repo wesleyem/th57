@@ -70,12 +70,17 @@ FE: 204' MSL
 
 Max A/C: 8 (4 per side)
 
+#### Layout
+
+![Image][rwop-7-4-1]
+
 #### From KNDZ
 
 ###### Points Defined
 
 1. `unimproved road` - **unimproved road that heads approximately 315&deg;**
 1. Point `BEND` - **first bend in the unimproved road, just N of the road intersection**
+1. Point `SNAKE` - **HWY 197A and the power lines**
 
 ##### Rules
 
@@ -90,10 +95,20 @@ Max A/C: 8 (4 per side)
    1. descend to 700' MSL (500' AGL)
    1. Landing Checklist
 
+#### Departing Pace
+
+1. Depart from the SE corner
+1. Report "departing" to AODO, turn SE to intercept `HWY 197`, climb to 900' MSL, and accelerate to 100 KIAS
+1. `HWY 197` south to `HWY 197A` then to `SNAKE`
+1. Proceed as follows for [Home Field Arrivals](#home-field-arrivals)
 
 ### Site 8
 
 ### Santa Rosa
+
+## Home Field Arrivals
+
+
 
 
 <!-- Links -->
@@ -102,3 +117,5 @@ Max A/C: 8 (4 per side)
 [rwop-6-2]: https://github.com/wesleyem/th57/blob/master/images/rwop-6-2.png
 [rwop-6-3]: https://github.com/wesleyem/th57/blob/master/images/rwop-6-3.png
 [rwop-6-4]: https://github.com/wesleyem/th57/blob/master/images/rwop-6-4.png
+[rwop-7-4-1]: https://github.com/wesleyem/th57/blob/master/images/rwop-7-4-1.png
+

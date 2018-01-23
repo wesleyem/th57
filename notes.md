@@ -315,7 +315,7 @@ Checklist prestart check
 
 #### Course Rules
 
- - [Arrivals](https://github.com/wesleyem/th57/blob/master/course-rules.md#arrivals)
+ - [Arrivals](https://github.com/wesleyem/th57/blob/master/course-rules.md#olf-arrivals)
     - Pace
 
 #### Contacts

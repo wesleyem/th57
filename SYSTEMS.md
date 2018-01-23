@@ -698,7 +698,11 @@ Cyclic transmits controls to the mixing lever (located at the base of the contro
 
 #### Collective System
 
+Collective transmits pilot inputs to the main rotor blades through mechanical linkage. Adjusts blade pitch angle equally and in the same direction. Collective is mounted to a jackshaft (which contains a fiction adjuster). Inputs are transmitted through mixing lever and control tube to the center hydraulic servo. The servo connects to the collective lever. Movement of the collective lever is what moves the pivot sleeve and uni-ball assembly thus moving the swashplate assembly.
+
 #### Anti-Torque Pedals
+
+The control pedals transmit inputs by push-pull tubes to the tail rotor. The starwheel colocated with the pedals allows the movement of the pedals fore and aft for pilot adjustment. The control linkage runs rearward up the control column through the tail boom to the pitch change mechanism (which consists of a lever, control tube, and crosshead). The lever extends and retracts the control tube that runs through the tail rotor gearbox and drive shaft. When the crosshead moves in and out the pitch angle of the tail rotor blades changes via pitch change link and pitch horns.
 
 ---
 ### Hydraulic System
