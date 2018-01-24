@@ -12,6 +12,16 @@
  1. [Max Load Takeoff](#max-load-takeoff)
  1. [No Hover Takeoff](#no-hover-takeoff)
  1. [Normal Cruise](#normal-cruise)
+ 1. [Climbs](#climbs)
+ 1. [Normal Descents](#normal-descents)
+ 1. [Level Speed Change](#level-speed-change)
+ 1. [Turn Pattern](#turn-pattern)
+ 1. [Normal Approach](#normal-approach)
+ 1. [Modified Normal Approach](#modified-normal-approach)
+ 1. [Steep Approach](#steep-approach)
+ 1. [Waveoff - Power On](#waveoff---power-on)
+ 1. [Waveoff - Power Off](#waveoff---power-off)
+ 1. [Quick Stop From A Hover](#quick-stop-from-a-hover)
 
 ## Vertical Takeoff
 
@@ -217,6 +227,173 @@ Air Taxi: less than 100' AGL. Safe airspeed.
 
  - Normal cruise (100 KIAS) is typically 70-75% torque
  - Attitude and VSI are primary items for normal cruise
+
+## Climbs
+
+### Procedure
+
+#### Normal Climb
+
+1. Transition to 70 KIAS climb attitude
+1. Collective, adjust for 500-700 fpm
+1. 50' prior, lower nose to cruise attitude
+1. At cruise airspeed, collective adjust for level-off
+
+#### Cruise Climb
+
+1. Collective, increase for 500-700 fpm
+1. 50' prior, collective adjust for level off
+
+## Normal Descents
+
+### Procedure
+
+1. Collective, lower for 700-1000 fpm descent while maintaining cruise attitude
+1. 50' prior, collective increase to level off
+
+## Level Speed Change
+
+### Procedure
+
+1. Establish 100 KTS cruise flight at given altitude >500'
+1. Slow to 70 KTS and stabilize
+1. Accelerate to 100 KTS
+
+### Amplifying Information
+
+1. Can be executed from any airspeed, but typically its done from 100 KTS
+1. At 100 KIAS torque will be (70-75%). Slowing to 70 KIAS will require reduction in torque past torque required to maintain 70 KIAS (50-55%) and vice versa
+
+## Turn Pattern
+
+### Procedure
+
+1. Establish 100/70 KIAS at given altitude >500'
+1. 15&deg; AOB for 90&deg; of heading change; reverse
+1. 30&deg; AOB for 180&deg; of heading change; reverse
+1. 45&deg; AOB for 360&deg; of heading change; reverse
+1. Roll wings level on original heading, altitude, and airspeed
+
+### Amplifying Information
+
+1. For 15&deg; AOB, little or no power changes
+1. For 30&deg; AOB, additional power may be required
+1. For 45&deg; AOB, definite power increase will be required
+
+## Normal Approach
+
+### Procedure
+
+1. 500' AGL, 70 KTS on downwind
+1. At 180&deg; position, lower collective, turn toward courseline
+1. At 90&deg; position, 300' AGL, 60 KTS
+1. Courseline intercept NLT 150' AGL, 50 KTS, and 600-800' to intercept glideslope
+1. At 150' AGL, set decel attitude and adjust collective to maintain 10-20&deg; glideslope
+1. Arrive over spot at hover altitude, hover power, and 0 GS simultaneously
+
+### Amplifying Information
+
+At the abeam position:
+----------------------
+**Power** - reduce for 500-700 fpm descent
+
+**Pedal** - right
+
+**Pause** - check rate of descent
+
+**Trim** - use pedals and cyclic to ensure balanced flight
+
+**Turn** - clear left and right, begin turn
+
+1. 25-30% torque is about 50 fpm rate of descent
+
+
+## Modified Normal Approach
+
+### Procedure
+
+1. Determine landing point and decelerate as necessary
+1. Intercept normal approach profile
+
+## Steep Approach
+
+### Procedure
+
+1. Maintain 500', 70 KIAS on downwind
+1. Slightly beyond 180&deg; position, lower collective and turn
+1. Arrive at 90&deg; at 300' AGL and 60 KTS
+1. Stop descent at 300' AGL and intercept courseline before glideslope with 45 KTS
+1. Intercept 25-45&deg; glideslope and lower collective
+1. Terminiate in a hover or no-hover landing
+
+### Amplifying Information
+
+At the abeam position:
+----------------------
+
+**Thousand one, thousand two,...** - five count for longer final
+
+**Power** - reduce for 500-700 fpm
+
+**Pedal** - coordinate aircraft
+
+**Pause** - check 500-700 fpm
+
+**Trim** - use trim to keep balanced flight
+
+**Turn** - clear left and right, then begin turn
+
+1. After intercepting courseline with 800-1000' of final, the minimum acceptable glideslope of 25&deg; will be at ~550' from intended point of landing. Max 45&deg; will be ~300'.
+
+1. Groundspeed is controlled with nose attitude and rate of descent is controlled with collective
+
+## Waveoff - Power On
+
+### Procedure
+
+1. Ensure twist grip full open
+1. Collective, increase to arrest rate of descent
+1. Establish 70 KTS 500-700fpm climb
+
+### Amplifying Information
+
+1. In most cases, 50% Q will slow or stop the rate of descent.
+1. For 70 KTS 500-700 fpm climb, use at lease 70% Q
+
+**full open, 70, 70, ball, call**
+
+## Waveoff - Power Off
+
+### Procedure
+
+1. Time and altitude permitting:
+   1. Collective, smoothly lower to full down
+   1. Twist grip, smoothly rotate to full open (verbalize "TWIST GRIP FULL OPEN")
+   1. Collective, increase as necessary
+   1. Adjust nose for 70 KTS, 500-700 fpm
+   1. Continuously clear area
+1. Time and altitude not permitting:
+   1. Recommended IP use Low RPM Recovery procedures as necessary
+
+## Quick Stop From A Hover
+
+### Procedure
+
+1. Begin transition for forward flight
+1. At 35' and 50 KTS, level off and stabilize at 35' and 50 KTS
+1. Collective/Aft cyclic coordinate, maintain heading and altitude
+1. Slow to ~25 KTS GS
+1. Recover by accelerating to 50 KTS
+
+### Amplifying Information
+
+1. Begin from stable hover, transitioning to forward flight
+1. Use airspeed indicator to judge 50 KTS, don't use altimeter to measure 35'
+1. Airspeed indicator unreliable below 40 KIAS
+1. Quality determined by smoothness and control coordination. Don't rush it, it's not quick or a stop
+
+
+
 
 
 

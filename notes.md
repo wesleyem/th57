@@ -9,7 +9,7 @@ M             | T             | W              | Th            | F
 1             | 2             | 3              | [4](#4-jan)   | [5](#5-jan)
 [8](#8-jan)   | [9](#9-jan)   | [10](#10-jan)  | [11](#11-jan) | [12](#12-jan)
 [15](#15-jan) | [16](#16-jan) | [17](#17-jan)  | [18](#18-jan) | [19](#19-jan)
-[22](#22-jan) |
+[22](#22-jan) | [23](#23-jan) | [24](#24-jan)  | [25]          | [26]
 
 ---
 ## 4 Jan
@@ -332,6 +332,79 @@ Checklist prestart check
  - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
 
 ---
+
+## 23 Jan
+
+#### Reading
+
+ - [Power Pack](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#power-pack)
+ - [Hydraulic Filter](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#hydraulic-filter)
+ - [Hydraulic Pressure Switch](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#hydraulic-pressure-switch)
+
+#### Course Rules
+
+ - [Arrivals](https://github.com/wesleyem/th57/blob/master/course-rules.md#olf-arrivals)
+    - Spencer
+
+#### Contacts
+
+ - [Climbs](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#climbs)
+ - [Normal Descents](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#normal-descents)
+ - [Level Speed Change](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#level-speed-change)
+ - [Turn Pattern](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#turn-pattern)
+ - [Normal Approach](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#normal-approach)
+
+#### Review
+
+ - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
+ - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
+
+## 24 Jan
+
+#### Reading
+
+ - [Solenoid Valve](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#solenoid-valve)
+ - [Servo Actuators](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#servo-actuators)
+ - [Force Trim](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#force-trim)
+
+#### Course Rules
+
+ - [Arrivals](https://github.com/wesleyem/th57/blob/master/course-rules.md#olf-arrivals)
+    - Santa Rosa
+
+#### Contacts
+
+ - [Modified Normal Approach](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#modified-normal-approach)
+ - [Steep Approach](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#steep-approach)
+ - [Waveoff - Power On](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#waveoff---power-on)
+ - [Waveoff - Power Off](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#waveoff---power-off)
+ - [Quick Stop From A Hover](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#quick-stop-from-a-hover)
+
+#### Review
+
+ - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
+ - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
+
+## 25 Jan
+
+### Reading
+
+
+
+### Course Rules
+
+
+
+### Contacts
+
+
+
+### Review
+
+ - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
+ - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
+
+
 
 <!-- 4 Jan -->
 
