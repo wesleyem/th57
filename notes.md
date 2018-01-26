@@ -389,15 +389,18 @@ Checklist prestart check
 
 ### Reading
 
-
+ - Environmental Control System
 
 ### Course Rules
 
-
+ - Arrivals
+    - Site 8
 
 ### Contacts
 
-
+ - Sliding Landing
+ - No Hover Landing
+ - Hydraulic Boost-Off Approach
 
 ### Review
 
