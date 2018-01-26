@@ -305,7 +305,7 @@ At the abeam position:
 
 **Turn** - clear left and right, begin turn
 
-1. 25-30% torque is about 50 fpm rate of descent
+1. 25-30% torque is about 500 fpm rate of descent
 
 
 ## Modified Normal Approach
