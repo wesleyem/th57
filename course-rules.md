@@ -240,9 +240,60 @@ Max A/C: Day (12; 8 on normal side, 4 on auto side). Normal side: 3 Max in Low w
 
 ### Site 8
 
+FE: 159' MSL
+
+Max A/C: 12 (6 per side, 2 where Confined Area Landings)
+
+> Note: aircraft working low areas are counted for total at field but not total for their side
+
+> Note: aircraft in refueling or crew change areas don't count toward total for site or side
+
+![Image][rwop-7-6-2]
+
+#### Points Defined
+
+ - `TRIANGLE FACTORY` - intersection of HWY 184 and 85A
+ - `baseball complex` - grouping of four baseball fields
+
+#### KNDZ to Site 8
+
+1. `POND`, turn ~250&deg; to `POND CREEK BRIDGE`
+1. `POND CREEK BRIDGE` climb to 1100' MSL turn ~260&deg; to intercept HWY 184
+1. Parallel HWY 184 to N to `TRIANGLE FACTORY`
+1. Turn 205&deg; and descend to 700' MSL for `baseball complex`
+1. Turn 190&deg; and switch UHF to Site 8 for NW corner of `Kings Field`
+1. Report "Kings Field inbound" to Site 8 AODO, complete landing checklist, and continue south
+
+> Note: Don't cross SE departure corner
+
+> Note: Don't overfly Ransom Middle School
+
+> Note: Stay E of Beulah Rd
+
+#### Departures from Site 8
+
+1. Depart from SE corner and report "departing" to AODO
+1. Turn ~060&deg;, climb 900' MSL, 100 KIAS to two white geodesic domes just S of the Solutia chemical plant
+1. Cross HWY 29, turn 080&deg; and perform BAST
+1. Split Solutia Chemical Plant and Gulf Power Plant
+1. Either intercept power lines for SNAKE arrival or maintain course and intercept HWY 90 for WHISKEY arrival
+
+#### SNAKE Arrival
+
+1. Intercept power lines on NE heading and descend to 700' MSL
+1. Follow to SNAKE
+
+#### WHISKEY Arrival
+
+1. Intercept and follow HWY 90 E to WHISKEY
+
 ### Harold
 
 ## Home Field Arrivals
+
+### WHISKEY Arrival
+
+### SNAKE Arrival
 
 ### Echo Arrival
 
@@ -260,6 +311,7 @@ Max A/C: Day (12; 8 on normal side, 4 on auto side). Normal side: 3 Max in Low w
 [rwop-7-4-1]: https://github.com/wesleyem/th57/blob/master/images/rwop-7-4-1.png
 [rwop-7-4-23]: https://github.com/wesleyem/th57/blob/master/images/rwop-7-4-23.png
 [rwop-7-5-1]: https://github.com/wesleyem/th57/blob/master/images/rwop-7-5-1.png
+[rwop-7-6-2]: https://github.com/wesleyem/th57/blob/master/images/rwop-7-6-2.png
 [rwop-7-7-1]: https://github.com/wesleyem/th57/blob/master/images/rwop-7-7-1.png
 [rwop-7-7-2]: https://github.com/wesleyem/th57/blob/master/images/rwop-7-7-2.png
 [rwop-7-7-5]: https://github.com/wesleyem/th57/blob/master/images/rwop-7-7-5.png
