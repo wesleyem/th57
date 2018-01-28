@@ -22,6 +22,9 @@
  1. [Waveoff - Power On](#waveoff---power-on)
  1. [Waveoff - Power Off](#waveoff---power-off)
  1. [Quick Stop From A Hover](#quick-stop-from-a-hover)
+ 1. [Sliding Landing](#sliding-landing)
+ 1. [No Hover Landing](#no-hover-landing)
+ 1. [Hydraulic Boost-Off Approach](#hydraulic-boost-off-approach)
 
 ## Vertical Takeoff
 
@@ -392,8 +395,55 @@ At the abeam position:
 1. Airspeed indicator unreliable below 40 KIAS
 1. Quality determined by smoothness and control coordination. Don't rush it, it's not quick or a stop
 
+## Sliding Landing
 
+### Procedure
 
+1. Utilize normal approach procedures
+1. Intercept final, adjust nose and attitude to decel, maintain translational lift (13-15 KTS)
+1. At 5-10' AGL, level skids with 3-15 KTS GS
+1. After touchdown, smoothly lower collective to gradually stop, then full down.
+
+### Amplifying Information
+
+**Level skids, forward and down**
+
+1. Desired speed at touchdown depends on condition of landing surface
+1. Must remain in effective translational lift until touchdown attitude
+
+> Warning: failure to align aircraft with direction of travel may result in dynamic rollover
+
+> Caution: Excessive GS with uneven terrain may result in excessive rocking of the aircraft and potential driveshaft-to-isolation mount contact
+
+> Caution: Reduction of the collective at an excessive rate and/or magnitude upon touchdown may result in the skids digging in and the aircraft rocking forward precipitously
+
+## No Hover Landing
+
+### Procedure
+
+1. Utilize normal or steep approach procedures
+1. Approaching ground effect, adjust collective to continue descent with little or no GS
+
+### Amplifying Information
+
+**Level skids, forward and down**
+
+1. DO NOT RUSH
+
+## Hydraulic Boost-Off Approach
+
+### Procedure
+
+1. In the upwind, IP will turn hydraulic switch to OFF IOT simulate hyd system failure
+1. Fly pattern at a comfortable airspeed (similar to normal approach) and terminate in a five-foot hover taxi with five KTS of GS
+1. When stable in a hover taxi, IP will assume control and student will switch hyd switch On when instructed
+
+### Amplifying Information
+
+1. Increased force will be required for control movements and considerable coupling between cyclic and collective can be noticed
+1. Collective additions are easier than reductions
+1. Make smooth control inputs
+1. Force trim still usable
 
 
 
