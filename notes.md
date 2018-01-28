@@ -389,18 +389,18 @@ Checklist prestart check
 
 ### Reading
 
- - Environmental Control System
+ - [Environmental Control System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#environmental-control-system)
 
 ### Course Rules
 
- - Arrivals
+ - [Arrivals](https://github.com/wesleyem/th57/blob/master/course-rules.md#olf-arrivals)
     - Site 8
 
 ### Contacts
 
- - Sliding Landing
- - No Hover Landing
- - Hydraulic Boost-Off Approach
+ - [Sliding Landing](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#sliding-landing)
+ - [No Hover Landing](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#no-hover-landing)
+ - [Hydraulic Boost-Off Approach](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#hydraulic-boost-off-approach)
 
 ### Review
 
