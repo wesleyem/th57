@@ -795,6 +795,79 @@ Depressing the cyclic force trim button releases the magnetic brake and allows t
 
 ---
 ### Environmental Control System
+
+#### Subsystems
+
+ - Ram air ventilation
+ - Defog system
+ - Air conditioner
+ - Bleed air heater
+
+##### Ventilation and Defog
+
+The ventilation and defog systems ensure the windscreen remains clear and provides ambient air through the cabin for crew ventilation.
+
+The ventilation and defog systems have the following major components:
+
+ - Sliding windows in each door provide additional ventilation
+
+Ram air enters the **louvered grills** (located on either side of the battery access door) to a **manifold assembly** which direct air to the cabin and defog systems. The amount of air is controlled by push-pull cables which are mechanically connected to flapper valves. The flapper valves also direct air to the defog system when the **vent control knobs** are pulled out.
+
+ - Ram air flow not required for defog operation
+    - however, it does increase airflow when both **vent control knobs** are pulled out
+ - Defog primary use is ventilation and defogging during ground operatinos
+ - Axial flow blowers in defog nozzle controlled by `DEFOG BLOWER` c/b
+    - base of each windscreen to distribute flow
+ - Defog works best when paired with A/C or heater
+    - If paired with A/C or heater, close ram air vents
+
+##### Vapor Cycle Air Conditioner
+
+**Required 5 HP for operation**
+
+###### Components
+
+ - Switch panel
+    - Air Cond/OFF/Fan
+       - Air Cond: compressor, condenser fan, evap fan, and forward blowers are automatically activated
+       - Fan: forward blowers and evap fan
+    - Fan speed
+       - HI or LO
+    - Temp Regulator
+       - connected to thermostatic relay that cycles compressor on and off based on temperature selected
+ - Compressor
+    - Selecting Air Cond: closes compressor relay which allows power to flow through temperature control relay to the compressor
+       - driven by pulley and belt arrangement off of the tail rotor drive shaft
+       - electrical clutch pumps freon gas from evaporator
+       - compresses this gas and routes to condenser
+ - Condenser
+    - pressurized gas from compressor flows through condenser coils and becomes liquid when cooled by the condenser blower
+    - liquid freon is then stored in a receiver dryer for on-demand use by the evaporator
+ - Condenser blower
+    - cools pressurized gas to liquid
+ - Evaporator
+    - Flow of freon is controlled by two thermostatically controlled expansion valves
+    - When the compressor is on a low pressure is created and the expansion valves open
+    - The expansion valves meter the liquid at a rate to turn the liquid back into a gas (the gas absorbing the heat) cooling the evaporator coils
+ - Evaporator blower
+    - Pulls cabin air through the cooled evaporator coils and returns cool air back to the cabin
+
+##### Bleed Air Heater
+
+Installed inline between the evaporator and evaporator fan
+
+###### Components
+
+ - Heater silencer
+   - Mixes engine bleed air and cabin air then circulated by evap fan
+   - contains duct temperature switch which monitors air temp in the outlet side of the heater silencer
+      - Illuminates `DUCT HI TEMP`
+         - When illuminated closely monitor TOT
+ - Control valve
+    - Governs a controlled airflow to the regulator valve
+ - Regulator valve
+    - Allows proportional amount of engine bleed air to heater silencer
+
 ---
 ### TH-57B Electrical System
 ---
