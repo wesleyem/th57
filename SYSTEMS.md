@@ -55,6 +55,9 @@
 1. [Environmental Control System](#environmental-control-system)
 
 1. [TH-57B Electrical System](#th-57b-electrical-system)
+   1. [Battery](#battery)
+   1. [Starter/Generator](#startergenerator)
+   1. [External Power Receptacle](#external-power-receptacle)
 
 1. [TH-57C Electrical System](#th-57c-electrical-system)
 
@@ -870,6 +873,114 @@ Installed inline between the evaporator and evaporator fan
 
 ---
 ### TH-57B Electrical System
+
+ - 28V single wire system using the airframe as a common negative ground
+ - Composed of:
+    - a sealed lead acid battery (SLAB)
+    - starter generator
+    - external power receptacle
+    - voltage regulator
+    - common bus
+
+
+![Image][systems-8-1]
+
+#### Battery
+
+##### Components
+
+ - Battery
+    - rated to 24V
+    - discharge rate 17 amp-hours
+ - Relay
+    - when closed, power is supplied to the common bus
+ - Switch
+    - controls relay to ground
+ - Required wiring
+
+Circuit breakers connect individual components to the common BUS and provide protection for those components.
+
+Two battery caution lights provide indication of an overheating battery. Temperature is measured by two temperature-sensitive switches located in the overtemperature module.
+
+   - BATTERY TEMP
+      - 54&deg;C +- 3
+   - BATTERY HOT
+      - 60&deg;C +- 3
+
+#### Starter/Generator
+
+ - Dual purpose unit
+    - electical motor (starter) to drive N<sub>g</sub> until self-sustaining RPM is reached
+    - generator supplying 28V to common BUS and charging battery driven by N<sub>g</sub>
+ - Mounted on the aft side of the AGB
+
+##### Generator Circuit
+
+ - Rated to 30V, 150 amps
+    - output regulated to 28V, 105 amps
+
+###### Components
+
+ - Gen switch: on, off, reset
+    - reset position provides excitation current to gen shunt field (activates generator portion) and resets generator reset relay
+ - Voltage regulator
+    - maintains constant generator voltage
+ - Reverse current relay
+    - (dis)connects gen to common BUS when (im)proper voltage is obtained
+    - prevents current flow from battery to generator
+ - Overvoltage sensing relay
+    - trips generator reset relay when line voltage 31V +- 1
+
+##### Loadmeter/Voltmeter
+
+Loadmeter monitors the generator and only works with the generator
+ - Reads electrical load placed on the generator in percent of load capability
+ - protected by two c/b in aft electrical compartment
+
+Voltmeter monitors the common BUS
+ - gives direct voltage reading off common BUS regardless of power source
+ - gives indication of gen fail
+    - loadmeter reads zero and voltmeter reads 22-24
+
+##### Starter
+
+###### Components
+
+ - Switch
+    - double-pole single-throw switch
+    - ON: completes the starter relay and generator field control relay 
+ - Starter Relay
+    - provides power from common BUS to starter motor
+ - Starter motor
+    - gets power from common BUS via starter relay when starter switch is ON
+ - Generator field relay
+    - opens generator shunt field and allows generator to work as starter by completnig the circuit from the common BUS to the igniter
+ - Igniter circuit
+
+#### External Power Receptacle
+
+ - Another source of power may be provided by an auxiliary power unit via external power receptacle
+ - Carrys main power load from the external power unit to the common BUS
+ - External power unit for starting requires a 28V 400a capability
+
+
+Maintenance Personnel
+ - port side of instrument panel support pedestal are three 28V aux outlets
+ - circuit protection provided by c/b on overhead console marked aux receptacle
+
+##### Programmed Continuity Sensor
+
+Benz systems programmed continuity sensor
+
+**provides a continuity check for the electrical circuits to the clear chip, engine chip detectors, transmission chip detectors, and tail rotor gearbox chip detector**
+
+When the following occurs:
+ - battery on AND the `CAUTION LT TEST` button is pressed for more than two seconds
+ - OR electical power is interrupted for more than two seconds
+
+the associated caution lights will illuminate and remain illuminated for five seconds, then extinguish, providing an automatic check of those electical circuits
+
+
 ---
 ### TH-57C Electrical System
 ---
@@ -905,6 +1016,10 @@ Installed inline between the evaporator and evaporator fan
 
 [systems-6-1]: https://github.com/wesleyem/th57/blob/master/images/systems-6-1.png
 [systems-6-6]: https://github.com/wesleyem/th57/blob/master/images/systems-6-6.png
+
+<!-- Electical System -->
+
+[systems-8-1]: https://github.com/wesleyem/th57/blob/master/images/systems-8-1.png
 
 
 [c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square

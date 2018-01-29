@@ -6,10 +6,20 @@ Jan
 
 M             | T             | W              | Th            | F
 :------------:|:-------------:|:--------------:|:-------------:|:------------:
-1             | 2             | 3              | [4](#4-jan)   | [5](#5-jan)
-[8](#8-jan)   | [9](#9-jan)   | [10](#10-jan)  | [11](#11-jan) | [12](#12-jan)
+01            | 02            | 03             | [04](#4-jan)  | [05](#5-jan)
+[08](#8-jan)  | [09](#9-jan)  | [10](#10-jan)  | [11](#11-jan) | [12](#12-jan)
 [15](#15-jan) | [16](#16-jan) | [17](#17-jan)  | [18](#18-jan) | [19](#19-jan)
-[22](#22-jan) | [23](#23-jan) | [24](#24-jan)  | [25]          | [26]
+[22](#22-jan) | [23](#23-jan) | [24](#24-jan)  | [25](#25-jan) | [26](#26-jan)
+[29](#29-jan) | [30](#30-jan) | [31](#31-jan)  | [01](#01-feb) | [02](#02-feb)
+
+---
+
+Feb
+
+M             | T             | W              | Th            | F
+:------------:|:-------------:|:--------------:|:-------------:|:------------:
+[29](#29-jan) | [30](#30-jan) | [31](#31-jan)  | [01](#01-feb) | [02](#02-feb)
+
 
 ---
 ## 4 Jan
@@ -387,6 +397,10 @@ Checklist prestart check
 
 ## 25 Jan
 
+Review
+
+## 26 Jan
+
 ### Reading
 
  - [Environmental Control System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#environmental-control-system)
@@ -407,6 +421,16 @@ Checklist prestart check
  - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
  - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
 
+
+## 29 Jan
+
+### Reading
+
+### Course Rules
+
+### Contacts
+
+### Review
 
 
 <!-- 4 Jan -->
