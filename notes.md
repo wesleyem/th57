@@ -426,11 +426,21 @@ Review
 
 ### Reading
 
+ - [TH-57B Electical System](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#th-57b-electrical-system)
+
 ### Course Rules
+
+ - [Arrivals](https://github.com/wesleyem/th57/blob/master/course-rules.md#olf-arrivals)
+    - Harold
 
 ### Contacts
 
+ - [Autorotation](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#autorotation)
+
 ### Review
+
+ - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
+ - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
 
 
 <!-- 4 Jan -->

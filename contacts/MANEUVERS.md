@@ -25,6 +25,11 @@
  1. [Sliding Landing](#sliding-landing)
  1. [No Hover Landing](#no-hover-landing)
  1. [Hydraulic Boost-Off Approach](#hydraulic-boost-off-approach)
+ 1. [Autorotation](#autorotation)
+    1. [Simulated Engine Failure in a Hover and Hover Taxi](#simulated-engine-failure-in-a-hover-and-hover-taxi)
+    1. [Autorotations](#autorotations)
+    1. [Simulated Engine Failure at Altitude](#simulated-engine-failure-at-altitude)
+    1. [Checking Power Available at Altitude](#checking-power-available-at-altitude)
 
 ## Vertical Takeoff
 
@@ -444,6 +449,79 @@ At the abeam position:
 1. Collective additions are easier than reductions
 1. Make smooth control inputs
 1. Force trim still usable
+
+## Simulated Engine Failure in a Hover and Hover Taxi
+
+### Procedure
+
+1. Face into the wind at 5' hover or 5'/5 KTS forward hover taxi
+1. When IP rolls twist grip flight idle
+   1. hold collective pitch constant
+   1. maintain heading with pedals
+1. Eliminate drift as aircraft descends
+1. Cushion touchdown with collective
+1. On deck, smoothly lower collective to full down
+
+### Amplifying Information
+
+Recommended verbal procedures
+-----------------------------
+
+**FREEZE THE COLLECTIVE**
+
+**STOP YAW AND DRIFT**
+
+**CUSHION, CUSHION, CUSHION**
+
+1. Already set up for a power on landing, just keep level attitude
+1. Slight right pedal
+1. Slight right cyclic
+1. Nose may pitch up and drift left, correct with cyclic
+1. When less than 45 gal of fuel, nose may pitch forward instead. Correc with cyclic
+1. Don't pull pitch to hold altitude, results in hard landing.
+1. Don't wait too long to respond with collective
+1. ATTITUDE, ATTITUDE, ATTITUDE control
+
+## Autorotations
+
+### Procedure
+
+1. 70 KTS, 600' AGL and balanced flight in traffic pattern
+1. Enter auto by smoothly lower collective to full down simultaneously adding right pedal
+1. Twist grip to flight idle and turn to courseline
+1. Transition to 50-60 KTS descending attitude
+1. Monitor N<sub>r</sub> 90-107% (optimum 94-95%)
+1. Intercept courseline
+1. Ensure collective full down by 150' AGL
+1. 75-100' AGL, flare with cyclic (this reduces rate of descent and groundspeed and increases N<sub>r</sub>)
+   1. Power Recover: smoothly rotate twist grip to full open and verbalize "TWIST GRIP FULL OPEN"
+   1. Full: verbalize "TWIST GRIP AT FLIGHT IDLE"
+1. Adjust flare for GS and minimize rate of descent
+1. 10-15' AGL coordniate up collective and forward cyclic to slow rate of descent and level attitude
+   1. Power Recovery: 5', 0-10 KTS GS, stabilize
+   1. Full: level wings 0-10 KTS GS prior to touchdown. Collective to cushion landing.
+
+### Amplifying Information
+
+1. Autorotation entries practiced from 90 and 180 positions
+1. **Down<sup>collective</sup>, right<sup>pedal</sup>, idle<sup>twist grip</sup>, turn<sup>to courseline</sup>**
+1. Ensure N<sub>g</sub> at or above flight idle
+1. Arrive at courseline with a min of 200', else waveoff
+1. Don't delay turn to courseline (you're giving up altitude)
+1. Scan pattern ditty for inside-outside: **attitude, N<sub>r</sub>, ball**
+1. N<sub>r</sub> (90-107%) ideally 94-95%
+   1. Use up collective to slow N<sub>r</sub> during turns
+1. With no N<sub>r</sub>, helicopter falls like brick
+1. Smoothly lower collective (as to not cause mast bumping) to maintain N<sub>r</sub>
+1. Use the inertia stored in rotor blades at bottom of the autorotation to produce the necessary lift to properly cushion the landing
+
+## Simulated Engine Failure at Altitude
+
+### Procedure
+
+### Amplifying Information
+
+## Checking Power Available at Altitude
 
 
 
