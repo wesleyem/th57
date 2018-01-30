@@ -519,10 +519,67 @@ Recommended verbal procedures
 
 ### Procedure
 
+1. Instructor initiates with "simulated" and rotating the twist grip to flight idle
+1. Lower collective for autorotation, set appropriate airspeed
+1. Turn toward landing area and plan for final to be into the wind
+1. Maintain 50-72 KIAS and N<sub>r</sub> 90-107% depending upon glide distance and gross weight
+1. PAC direct PNAC to lock, talk, and squawk
+1. At the site: terminate as power recovery unless otherwise directed
+1. Away from site: IP takes controls and wavesoff NLT 300' AGL NST 50 KIAS
+
 ### Amplifying Information
+
+The Ditty
+---------
+
+1. Down - collective full down in no less than 2 seconds
+1. Right - pedal to center ball
+1. Transition - cyclic for nose attitude 50-72 KIAS
+1. Turn - toward landing zone, into the wind
+1. Attitude - cyclic for nose attitude 50-72 KIAS
+1. N<sub>r</sub> - collective to control 90-107%
+1. Ball - pedals to center
+1. Lock - shoulder harness
+1. Talk - PNAC simulates Mayday call
+1. Squawk - PNAC simulates 7700
+1. Restart - simulated Engine Restart in Flight Procedures
+
+Techniques
+----------
+
+1. Once the landing site is safely made transition to 50-60 KIAS descending attitude
+1. Ideal range for N<sub>r</sub> is 94-95%
+1. During descent, note N<sub>g</sub> at or above flight idle
+1. Lock harness, direct PNAC simulated Mayday and transponder
+1. Shall not be initiated below 500' AGL and 60 KIAS
+1. When away from site, IP shall recover aircraft NLT 300' AGL and 50 KIAS
+1. Turn away from channel as waveoff initiated
+1. At the site, use sufficient AOB to turn if not aligned with courseline by 200', level the wings, then waveoff (unless directed to continue)
+1. At the site, terminate with power recovery unless otherwise directed
+1. Priority of Actions:
+   1. Enter auto
+   1. Pick landing site
+   1. Consider wind
 
 ## Checking Power Available at Altitude
 
+### Procedure
+
+1. Raise collective until VSI centers on zero or N<sub>r</sub> decays to 90%
+   1. If VSI doesn't level with N<sub>r</sub> at or above 90%, decelerate or accelerate to 50 KIAS
+   1. If cannont maintain level flight at 50 KIAS and N<sub>r</sub> at or above 90%, then power available is insufficient
+1. If VSI is at zero and N<sub>r</sub> greater than 90%, then power available is sufficient
+
+Sufficient Power Available: VSI at 0 when 50+ KIAS **AND** N<sub>r</sub> 90+%
+-----------------------------------------------------------------------------
+
+### Amplifying Information
+
+1. First check VSI by raising the collective to find 90% N<sub>r</sub> and stop moving the collective, if that still doesn't get you level flight, while maintaining N<sub>r</sub> in limits, adjust nose to 50 KIAS
+1. DO NOT BRING THE TWIST GRIP TO FLIGHT IDLE
+1. When power is available, determine landing type (vertical, no-hover, sliding) and select site based on landing type
+1. Slowly raise the collective until an operating limit is reached (N<sub>g</sub>, TOT, torque) and note if N<sub>r</sub> decays to 90% while attempting to reach that limit, the torque setting at this point is now max available to land
+1. Compare this torque available with torque required to hover to determine landing type needed
 
 
 <!-- Links -->

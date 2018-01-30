@@ -18,7 +18,7 @@ Feb
 
 M             | T             | W              | Th            | F
 :------------:|:-------------:|:--------------:|:-------------:|:------------:
-[29](#29-jan) | [30](#30-jan) | [31](#31-jan)  | [01](#01-feb) | [02](#02-feb)
+[29](#29-jan) | [30](#30-jan) | 31             | 01            | 02
 
 
 ---
@@ -439,6 +439,16 @@ Review
 
 ### Review
 
+ - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
+ - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
+
+## 30 Jan
+
+### Review
+
+ - [Systems](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md)
+ - [Contacts](http://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md)
+ - [Course Rules](https://github.com/wesleyem/th57/blob/master/course-rules.md)
  - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
  - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
 

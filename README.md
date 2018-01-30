@@ -1,5 +1,7 @@
 # TH-57B/C Guide
 
+ - [notes](https://github.com/wesleyem/th57/blob/master/notes.md)
+
  - [Systems](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#th-57bc-systems)
     - [Source](https://www.cnatra.navy.mil/local/docs/pat-pubs/P-402.pdf)
     - `rev. 01-15`
@@ -9,12 +11,11 @@
     - `rev. 01-15`
 
  - [Course Rules](https://github.com/wesleyem/th57/blob/master/course-rules.md)
-    - [Source](https://www.cnatra.navy.mil/tw5/ht8/assets/docs/university/3710.8S.pdf)
+    - [Source](https://www.cnatra.navy.mil/tw5/assets/docs/instructions/3710.8.pdf)
     - `3710.8S`
 
- - [EPs](https://github.com/wesleyem/th57/blob/master/EPS.md)
+ - [Emergency Procedures](https://github.com/wesleyem/th57/blob/master/EPS.md)
  - [Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md)
- - [notes](https://github.com/wesleyem/th57/blob/master/notes.md)
 
 [c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
 [b]: https://img.shields.io/badge/TH--57-B-blue.svg?style=flat-square
