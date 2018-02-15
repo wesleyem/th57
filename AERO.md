@@ -833,85 +833,220 @@ surface by
  > stabilized
 
 180. The \_\_\_ which enable the pilot to \_\_\_ RPM during autorotative flight
-pro-autorotative force... increase
-181. Anti autorotative forces-will cause the rotor system to decelerate
+
+ > pro-autorotative force... increase
+
+ > 11-18
+
+181. Anti autorotative forces-will cause the rotor system to
+
+ > decelerate
+
+ > 11-17
+
 182. When transitioning into forward flight the aircraft will settle because of ground vortex
+
+ > 10-21
+
 183. When first transitioning to forward flight, \_\_\_ power may be required because of the effect of \_\_\_
-more....ground effect
-184. What is the self-induced rotation of a rotor system in unpowered flightautorotation
-185. Ground effect is caused by-decrease in induced flow and wing tip vortex
+
+ > more....ground effect
+
+184. What is the self-induced rotation of a rotor system in unpowered flight
+
+ > autorotation
+
+185. Ground effect is caused by
+
+ > decrease in induced flow and wing tip vortex
+
+ > 9-10
+
 186. Geometric imbalance is alleviated in a rigid rotor head by bending of the rotor head
+
+ > 4-14
+
 187. Which of the following statments is characteristic of geometric imbalance in the semirigid rotor system.
-Is nearly eliminated by aligning the blade's center of mass with the centerline of the flapping hinge
+
+ > Is nearly eliminated by aligning the blade's center of mass with the centerline of the flapping hinge
+
+ > 4-13
+
 188. The internal vibration as a rotor system goes into forward flight (at approximately 10-15 knots) is caused by
-transverse flow
+
+ > transverse flow
+
+ > 10-16
+
 189. Less than optimum airspeed during autorotative flight will have which of the following results
-increased rate of descent
+
+ > increased rate of descent
+
+ > 11-12
+
 190. When flying at low altitude, high speed, succesful transition to a safe autorotation is unlikely due to
-pilot reaction time
+
+ > pilot reaction time
+
+ > 11-33
+
 191. Flying in the shaded portions of the height velocity diagram
-is not recommended in case of engine failure
-192. During the flare at the end of an autorotation, the \_\_\_ flow vector \_\_\_. The resulting increase in angle of attack
-creates more lift.induced...increases
+
+ > is not recommended in case of engine failure
+
+ > 11-32
+
+192. During the flare at the end of an autorotation, the \_\_\_ flow vector \_\_\_. The resulting increase in angle of attack creates more lift
+
+ > induced...increases
+
+ > 11-30
+
 193. An autorotative flare will increase rotor RPM and
-decrease A/S and decrease rate of descent
+
+ > decrease A/S and decrease rate of descent
+
+ > 11-30
+
 194. Which of the following statements is true concerning in-plane drag
-Anti-autorotative force in unpowered flight
-195. Anti autorotative force \_\_\_ when the pilot \_\_\_ the collective in autorotative flight increase....raises
-196. Succesfull autorotative entry does not include which of the following requirements
-Up collective to slow rate of descent
-197. In unpowered flight, the \_\_\_ is reversedinduced flow
-198. During unpowered flight, which of the following vectors is reversed induced flow
+
+ > Anti-autorotative force in unpowered flight
+
+195. Anti autorotative force \_\_\_ when the pilot \_\_\_ the collective in autorotative flight
+
+ > increase....raises
+
+ > 11-17 & 11-30
+
+196. Succesful autorotative entry does not include which of the following requirements
+
+ > Up collective to slow rate of descent
+
+ > 11-23
+
+197. In unpowered flight, the \_\_\_ is reversed
+
+ > induced flow
+
+ > 11-15
+
+198. During unpowered flight, which of the following vectors is reversed
+
+ > induced flow
+
+ > 11-15
+
 199. If the resultant aero forces vector of a blade element is forward of the vertical, then the blade element is
-pro-autorotative
+
+ > pro-autorotative
+
+ > 11-19
+
 200. When does the vortex ring state take place
-when a/c settles into its own downwash and rotor vertices
-201. if vibrations and loss of control response occurs during a steep approach of less than 40 knots and rate of
-descent greater than 800 fpm, the helo is probably
-entering a vortex ring state condition
+
+ > when a/c settles into its own downwash and rotor vertices
+
+201. if vibrations and loss of control response occurs during a steep approach of less than 40 knots and rate of descent greater than 800 fpm, the helo is probably
+
+ > entering a vortex ring state condition
+
 202. Concerning the height-velocity diagram, what conditions should be avoided
-hovering out of ground effect below 100ft.
+
+ > hovering out of ground effect below 100ft.
+
 203. In forward flight, retreating blade stall causes a nose up pitching moment because of
-phase lag action on the stalled sector of the rotter diameter
+
+ > phase lag action on the stalled sector of the rotor diameter
+
+ > 10-24
+
 204. The increased angle of attack, on the retreating blade at high forward airspeed may cause blade stall
+
+ > 10-24
+
 205. During an autorotation, the inner section of the rotor system will be \_\_\_ due to the \_\_\_
-stalled.... excessive angle of attack
+
+ > stalled.... excessive angle of attack
+
 206. Two factors that affect autorotative rate of descent are
-airspeed and rotor RPM
+
+ > airspeed and rotor RPM
+
 207. During autorotation rotor speeds below optimum RPM
-will cause a increase in rate of descent.
+
+ > will cause a increase in rate of descent.
+
+ > 11-27
+
 208. During the transition to unpowred flight, \_\_\_ maintains rotor speed until induced flow is fully reversed
-inertia
+
+ > inertia
+
+ > 11-24
+
 209. IOT transition from powered to unpowered flight you must do which , if any, of the following actions
-reduce inplane drag, reverse induced flow, regain and maintain RPM
-210. The constant RPM of a rotor system in autorotation will stabilize at a constant value when which of the
-following actions take place
-pro-autorotative forces are equal to the anti-autorotative forces
+
+ > reduce inplane drag, reverse induced flow, regain and maintain RPM
+
+ > 11-16
+
+210. The constant RPM of a rotor system in autorotation will stabilize at a constant value when which of the following actions take place
+
+ > pro-autorotative forces are equal to the anti-autorotative forces
+
+ > 
+
 211. An increased induced flow occuring at low rotor heights and approximately 15 knots is
-ground vortex
+
+ > ground vortex
+
 212. An undesirable structural twisting of the main rotor blade at or near the speed of sound could occur because
-of -compressibility
+of
+ > compressibility
+
 213. Recovery from compressibility may include the following steps
-decrease Nr, decrease airspeed, decrease DA
+
+ > decrease Nr, decrease airspeed, decrease DA
+
 214. \_\_\_ frequency vibrations can be caused by a loose aircraft component vibrating sympathetically with the rotor
 system.
-Medium
+
+ > Medium
+
 215. Which of the following may contribute to the rolling tendency during dynamic rollover
-increased collective
+
+ > increased collective
+
 216. Which, if any, of the following actions is the most effective way to stop a rolling motion and prevent dynamic
 rollover
-a smooth moderate collective reduction
-217. Which of the folling actions contribute to mast bumping -Low G maneuvers
+
+ > a smooth moderate collective reduction
+
+217. Which of the folling actions contribute to mast bumping
+ > -Low G maneuvers
+
 218. If settling is encountered, with a reduced airspeed at maximum power, what should be regained to insure
 level flight
-Maximu endurance airspeed
-219. What is ground resonance -Destructive vibrations
+
+ > Maximu endurance airspeed
+
+219. What is ground resonance
+
+ > Destructive vibrations
+
 220. A destructive vibration in the rotor system when the aircraft is in contact with the ground is
-ground resonance
+
+ > ground resonance
+
 221. In the event of vortex ring state the pilot should apply
-slight down collective and forward cyclic
+
+ > slight down collective and forward cyclic
+
 222. With the cockpit indication of increased rate of descent, high Ng, high TOT, decaying Nr, the pilot is
 experiencing
-Power required exceeding power available
+
+ > Power required exceeding power available
+
 223. When experiencing Pr&lt;Pa, among the cockpit indications are
-high Ng and decaying Nr.A
+
+ > high Ng and decaying Nr.A
