@@ -232,7 +232,7 @@ Considerations:
 
 > Note: If some usable power exists but level flight cannot be maintained, that power, if sufficient, may be utilized to effect a landing or minimize rate of descent en route to a more suitable site for autorotation.
 
-> Note: If power available exceeds power required to hover in ground effect, a normal approach to a hover can be executed. If power available is less than power required to hover, but level flight can be maintained, fly to a safe landing area and execute a no-hover landing or sliding landing. Terrain permitting, a sliding landing requires the least amount of power. 
+> Note: If power available exceeds power required to hover in ground effect, a normal approach to a hover can be executed. If power available is less than power required to hover, but level flight can be maintained, fly to a safe landing area and execute a no-hover landing or sliding landing. Terrain permitting, a sliding landing requires the least amount of power.
 
 ---
 ### Engine Overspeed (Nf) Rotor RPM (Nr)
@@ -429,7 +429,7 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 1. Land immediately
 2. Shoulder harness ... **Lock**
 
-> Note: Possible indications of a transmission failure may include yaw attitude excursions with no control input, an increase in power required for a fixed collective setting, increased noise, or increased vibration levels. 
+> Note: Possible indications of a transmission failure may include yaw attitude excursions with no control input, an increase in power required for a fixed collective setting, increased noise, or increased vibration levels.
 
 > Note: Transiting at a minimum power required airspeed and low altitude may permit a quick flare and immediate landing in the event of an imminent transmission failure.
 
@@ -921,6 +921,10 @@ autorotational flight.
 1. ECS and DEFOG blower ... **OFF**
 2. Vents/windows ... **Open**
 3. Slip or skid aircraft to eliminate smoke and fumes
+
+##### If source of the smoke and/or fumes cannot be identified
+
+4. Land as soon as possible
 
 ---
 ### Post Shutdown Fire (Internal)
