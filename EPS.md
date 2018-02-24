@@ -920,10 +920,11 @@ autorotational flight.
 ##### Corrective Action
 1. ECS and DEFOG blower ... **OFF**
 2. Vents/windows ... **Open**
+
+##### If fire persists:
 3. Slip or skid aircraft to eliminate smoke and fumes
 
 ##### If source of the smoke and/or fumes cannot be identified
-
 4. Land as soon as possible
 
 ---
