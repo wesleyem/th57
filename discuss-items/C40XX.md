@@ -6,7 +6,7 @@
 1. [Transition To Forward Flight](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#transition-to-forward-flight)
 1. [Hover](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#hover)
 1. [Turn on the spot/clearing turn](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#turn-on-the-spotclearing-turn)
-1. [Hover Taxi](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#hover-taxi)
+1. [Hover Taxi](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#hover-taxiair-taxi)
 1. [Normal Approach](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#normal-approach)
 1. [Square Patterns](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#square-patterns)
 1. [Cut Gun](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#simulated-engine-failure-in-a-hover-and-hover-taxi)
