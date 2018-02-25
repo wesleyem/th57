@@ -8,10 +8,10 @@
 1. [Turn on the spot/clearing turn](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#turn-on-the-spotclearing-turn)
 1. [Hover Taxi](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#hover-taxiair-taxi)
 1. [Normal Approach](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#normal-approach)
-1. [Square Pattern](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#square-pattern)
+1. [Square Patterns](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#square-patterns)
 1. [Cut Gun](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#simulated-engine-failure-in-a-hover-and-hover-taxi)
 1. [LSC](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#level-speed-change)
-1. [Turn Patterns](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#turn-patterns)
+1. [Turn Pattern](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#turn-pattern)
 1. [Vertical Landing](https://github.com/wesleyem/th57/blob/master/contacts/MANEUVERS.md#vertical-landing)
 
 ## C4001
