@@ -137,6 +137,8 @@ FE: 151' MSL
 
 Max A/C: 14 (5 left patter, 5 right patter, 4 low work area)
 
+ > Note: Does not include aircraft refueling or aircraft entering the patterns to depart
+
 Avoid overflying Pace High School
 
 #### Layout & Entry
@@ -150,7 +152,7 @@ Avoid overflying Pace High School
 #### Points Defined
 
 1. Point `POND` - **SW of first bend in HWY 89**
-1. `Pond Creek Bridge` - **HWY 191 bridge over Pont Creek**
+1. `Pond Creek Bridge` - **HWY 191 bridge over Pond Creek**
 1. Point `SNAKE` - **HWY 197A and the power lines**
 1. Point `FOG` - **abeam the large estate with a lake south of the power lines**
 1. Point `IGOR` - **intersection of HWY 87, 89, and power lines**
@@ -159,14 +161,15 @@ Avoid overflying Pace High School
 
 ##### Rules
 
-1. `POND`, 250&deg; direct to `Pond Creek Bridge`
-   1. At `POND` report to Spencer AODO:
-      1. Point Pond working the channel"
-      1. Point Pond transiting the channel"
+1. `Baker`, 290&deg; to `Pond`
+1. `POND`, 250&deg; direct to `Pond Creek Bridge`, squawk 1200, and report:
+    - Point Pond working the channel
+    - Point Pond transiting the channel
    1. At `Pond Creek Bridge` report:
       1. Pond Creek Bridge inbound to Spencer AODO
       1. Turn S
       1. After power lines descend to 700' MSL and landing checklist
+
 
  1. At `SNAKE` report Point Snake Inbound
  1. Maintain 700' MSL and landing checklist
