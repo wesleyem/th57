@@ -25,6 +25,30 @@
    1. Talked to South Tower
 1. **Prior** to entering Class C surface area, contact **base**, get **ATIS**, squawk **0400**, and contact **South Tower**
 
+#### SVFR
+
+1. TH-57B/C authorized to conduct SVFR ops within Whiting Class C airspace when wx dictates
+1. ATC shall have positive control of all SVFR traffic within Class C airspace
+1. Remain clear of clouds, S of Langley, and no higher than 500' AGL
+
+##### SVFR Departures
+
+1. Use `Special VFR` when making radio calls
+1. Simulated emergencies prohibited on CR when SVFR
+1. Comply with SVFR [Lighting configuration](#lighting-configuration)
+
+ > Note: South Tower may delay Baker departures during SVFR if KNSE is using RWY 05
+
+##### SVFR Arrivals
+
+1. Remain clear of Class C until SVFR clearance received
+1. SVFR holding is non-standard holding (left pattern), 80 KIAS, 1 mi legs
+    1. EXCEPT `Juniper`, standard pattern (right)
+1. Tower will clear "number one aircraft" which is the aircraft **approaching** the holding point
+1. Hold along the point you are asked to hold
+
+ > Note: If KNSE using 05, may be asked to turn 1/2 mi S of Igor to maintain separation
+
 ## Departures
 
 1. Stay south of Langley
@@ -302,11 +326,15 @@ Max A/C: 12 (6 per side, 2 where Confined Area Landings)
 
 ### Vertol Arrival
 
+##### Lighting Configuration
 
-
+![Image][rwop-3-1-1]
+![Image][rwop-3-1-2]
 
 <!-- Links -->
 
+[rwop-3-1-1]: https://github.com/wesleyem/th57/blob/master/images/rwop-3-1-1.png
+[rwop-3-1-2]: https://github.com/wesleyem/th57/blob/master/images/rwop-3-1-2.png
 [rwop-6-1]: https://github.com/wesleyem/th57/blob/master/images/rwop-6-1.png
 [rwop-6-2]: https://github.com/wesleyem/th57/blob/master/images/rwop-6-2.png
 [rwop-6-3]: https://github.com/wesleyem/th57/blob/master/images/rwop-6-3.png

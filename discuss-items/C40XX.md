@@ -58,19 +58,47 @@
 1. Entering and exiting the rotor arc
     1. 5-5
 1. Trim Techniques
+1. **Extra Items**
+    1. Spencer CR
+    1. Climbs
+    1. Normal Cruise
+    1. Normal Descent
+    1. Vertical takeoff
+    1. hover
+    1. Hover taxi
+    1. LSC
+    1. Turn pattern
+    1. Vertical Landing
 
 ## C4002
 
 1. Flight Control System
+    1. Systems Workbook Ch 5
 1. Jammed Flight Controls
+    1. NFM 12-19
 1. Abort Start (hot/hung/igniter)
+    1. NFM 12-9
 1. Engine Fire
+    1. If in flight NFM 12-24
+    1. otherwise, see Emergency Shutdown
 1. Emergency Shutdown
+    1. NFM 12-29
 1. Postshutdown Fire (Internal)
+    1. NFM 12-26
 1. Dynamic Rollover
+    1. Aerodynamics 12-34 and NFM 11-7
 1. CRM
+    1. NFM 20-3
 1. Decision Making
+    1. NFM 20-3
 1. SVFR Course Rules
+    1. RWOP 6-1
+1. **Extra Items**
+    1. Pace CR
+    1. Transition to forward flight
+    1. Turn on the spot/clearing turns
+    1. Normal Approach
+    1. Cut Guns
 
 ## C4003
 
@@ -85,6 +113,13 @@
 1. Trim Techniques
 1. CRM
 1. Assertiveness
+1. **Extra Items**
+    1. Santa Rosa CR
+    1. Waveoff (power on/off)
+    1. Power Recovery Autorotation
+    1. Square patterns
+    1. Simulated Engine Failure at Altitude
+    1.
 
 ## C4004
 
@@ -95,3 +130,10 @@
 1. Autorotation into the trees
 1. Blade Element Diagram
 1. Autorotative Aerodynamics
+1. **Extra Items**
+    1. Max load Takeoff
+    1. Sliding Landing
+    1. Hydraulic Boost off approach
+    1. No-hover landing
+    1. Full Autorotation
+    1. Quick Stop from a Hover
