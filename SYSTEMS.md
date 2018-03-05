@@ -3,8 +3,8 @@
 ### Table of Contents
 
 1. [Introduction to the TH-57](#introduction-to-the-th-57)
-	1. [General](#general) 
-	1. [Airframe](#airframe) 
+	1. [General](#general)
+	1. [Airframe](#airframe)
 	1. [Cargo Hook](#cargo-hook)
 	1. [Lighting Systems](#lighting-systems)
 	1. [Pitot System](#pitot-system)
@@ -158,7 +158,7 @@ All aircraft light systems (Figure 1-8) are DC powered. Lights are protected by 
 ---
 
 #### Compressor Section
- 
+
 ![Image][systems-2-2]
  4 subassemblies
  - Front support
@@ -277,7 +277,7 @@ Checking Oil Level:
        - Filter element
        - Differential pressure bypass valve
     - Delivered to the engine by way of the `gearbox housing passage` and `oil pressure sensing port` through a one-way check valve
- 
+
 After the oil is delivered to the engine components it will drain into the sump areas.
 
  - Sump areas
@@ -285,7 +285,7 @@ After the oil is delivered to the engine components it will drain into the sump 
 
  - External Oil Filter
     - Body
-       - Disposable filter element 
+       - Disposable filter element
     - Head
        - Bypass provision
        - When oil bypasses, the pressure will pop a red indicator button out which can be viewed through the inspection door near the left side of the oil tank
@@ -477,7 +477,7 @@ Pressure gauge is a wet-line system requiring no electrical power
  - In front of and attached to the drag link is a spike
     - spike is surrounded by a plate called the spike well
     - should the transmission move excessively it will contact the plate providing an indication to maintenance
- 
+
  - Transmission provides two stages of gear reduction
     - **Overall** reduction of **15.22 to 1.0**
     - First stage (input gear) rotates at **6000 RPM**
@@ -608,7 +608,7 @@ Type: Wet sump/pressure lubrication system
        - capacity: `3/8 pint`
 
 ---
-### Main Rotor, Tail Totor, and Flight Control System
+### Main Rotor, Tail Rotor, and Flight Control System
 
 #### Main Rotor Assembly
 
@@ -628,7 +628,7 @@ Mounted to the mast and provides the mounting point for the yoke assembly and fl
 
 ##### Yoke
 
-Mounted to the splined trunnion by pillow blocks which allow the main rotor to flap. Mounting point for the yoke is above the centerline. This (undersling) corrects for geometric imbalance caused by tilting the rotor system. The yoke has `2 1/4&deg;` of preconing which helps relieve bending stress.
+Mounted to the splined trunnion by pillow blocks which allow the main rotor to flap. Mounting point for the yoke is above the centerline. **This (undersling) corrects for geometric imbalance** caused by tilting the rotor system. The yoke has **2 1/4&deg;** of preconing which helps relieve bending stress.
 
 ##### Tension Torsion Strap
 
@@ -640,7 +640,7 @@ Provide mounting point for rotor blades and pitch change horns. Mounted to the Y
 
 ##### Pitch Change Horns
 
-Receive inputs from pitch control tube which cause blade grips to change pitch around the yoke assembly. 
+Receive inputs from pitch control tube which cause blade grips to change pitch around the yoke assembly.
 
 ##### Flap Restraint Assembly
 
@@ -948,7 +948,7 @@ Voltmeter monitors the common BUS
 
  - Switch
     - double-pole single-throw switch
-    - ON: completes the starter relay and generator field control relay 
+    - ON: completes the starter relay and generator field control relay
  - Starter Relay
     - provides power from common BUS to starter motor
  - Starter motor

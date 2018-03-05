@@ -119,7 +119,6 @@
     1. Power Recovery Autorotation
     1. Square patterns
     1. Simulated Engine Failure at Altitude
-    1.
 
 ## C4004
 

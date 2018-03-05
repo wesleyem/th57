@@ -1,7 +1,7 @@
 # Course Rules
 
 ## Table of Contents
-
+1. SVFR (#svfr)
 1. [Departures](#departures)
    1. [Baker](#baker)
    1. [Able](#able)
@@ -120,16 +120,25 @@ Max A/C: 8 (4 per side)
 
 ##### NDZ to Pace
 
-1. `POND`, 290&deg; to `unimproved road`
-1. `unimroved road` ~315&deg; to `BEND`
-1. At `BEND`:
-   1. report "Point Bend working (north of) Tree Field" to Pace AODO for practice emergencies or high work
-1. Continue along `unimproved road` until abeam `Tree Field` then 270&deg; to overfly
-1. After western boundary of `Tree Field`:
-   1. Turn direct NOLF Pace
-   1. report "Tree Field inbound"
-   1. descend to 700' MSL (500' AGL)
-   1. Landing Checklist
+- `POND`, 290&deg; to `unimproved road`
+- `unimroved road` ~315&deg; to `BEND`
+- At `BEND`:
+
+ > Note:  report "Point Bend working (north of) Tree Field" to Pace AODO if doing practice emergencies or high work
+
+- Continue along `unimproved road` until abeam `Tree Field` then 270&deg; to overfly
+- After western boundary of `Tree Field`:
+   - Turn direct NOLF Pace
+   - report "Tree Field inbound"
+   - descend to 700' MSL
+   - Landing Checklist
+
+#### Pace to KNDZ
+
+- Depart from the SE corner
+- Report "departing" to AODO, turn SE to intercept `HWY 197`, climb to 900' MSL, and accelerate to 100 KIAS
+- `HWY 197` south to `HWY 197A` then to `SNAKE`
+- Proceed as follows for [Home Field Arrivals](#home-field-arrivals)
 
 #### Spencer to Pace
 
@@ -147,13 +156,6 @@ Max A/C: 8 (4 per side)
    1. report "Tree Field inbound"
    1. descend to 700' MSL (500' AGL)
    1. Landing Checklist
-
-#### Pace to KNDZ
-
-1. Depart from the SE corner
-1. Report "departing" to AODO, turn SE to intercept `HWY 197`, climb to 900' MSL, and accelerate to 100 KIAS
-1. `HWY 197` south to `HWY 197A` then to `SNAKE`
-1. Proceed as follows for [Home Field Arrivals](#home-field-arrivals)
 
 ### Spencer
 
