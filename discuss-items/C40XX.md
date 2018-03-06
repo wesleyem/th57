@@ -54,7 +54,7 @@
 1. VFR Integrated Scan
     1. Contact FTI 3-6
 1. Ground Effect
-    1. Aero 9-9
+    1. AERO FTI 9-9
 1. Entering and exiting the rotor arc
     1. 5-5
 1. Trim Techniques
@@ -86,7 +86,7 @@
 1. Postshutdown Fire (Internal)
     1. NFM 12-26
 1. Dynamic Rollover
-    1. Aerodynamics 12-34 and NFM 11-7
+    1. AERO FTI 12-34 and NFM 11-7
 1. CRM
     1. NFM 20-3
 1. Decision Making
@@ -103,16 +103,24 @@
 ## C4003
 
 1. Electrical System
+    1. NFM 2-26
 1. Generator Failure
+    1. NFM 12-19
 1. DC Loadmeter and voltmeter
+    1. NFM 2-26
 1. Overheated battery
+    1. NFM 12-21
 1. Electrical Fire
+    1. NFM 12-25
 1. Smoke and Fume Elimination
+    1. NFM 12-26
 1. Fuselage Fire
+    1. NFM 12-25
 1. Blowback
+    1. AERO FTI 10-18
 1. Trim Techniques
-1. CRM
-1. Assertiveness
+1. CRM - Assertiveness
+    1. NFM 20-3
 1. **Extra Items**
     1. Santa Rosa CR
     1. Waveoff (power on/off)

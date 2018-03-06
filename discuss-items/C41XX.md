@@ -1,0 +1,33 @@
+# C4100 Discuss Items
+
+## C4101
+
+1. Engine System
+1. Engine Failures (NATOPS, FTI)
+1. Engine Restart In Flight
+1. Engine Chip Clearing Procedures
+1. Compressor Stall
+1. Rotor Droop
+1. CRM - Communications
+1. Mission Analysis
+
+## C4102
+
+1. Hydraulic System
+1. Hydraulic System Failure
+1. Hydraulic Power System Malfunction
+1. Mast Bumping
+1. CRM - Situational Awareness
+
+## C4103
+
+1. Transmission System
+1. Sprag Clutch Slippage
+1. Sprag Clutch Seizure
+1. Main Drive Shaft Failure
+1. Imminent Transmission Failure
+1. Overtorque
+1. Icing
+1. Ground Vortex
+1. Simulated Engine Failure On Takeoff
+1. CRM - Adaptability/Flexibility

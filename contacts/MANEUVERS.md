@@ -69,7 +69,7 @@
 
 ### Amplifying Information
 
-1. Requires high degree of concentration and coordination. 
+1. Requires high degree of concentration and coordination.
 
 1. Use very small control inputs. Keep the collective relatively constant to help control yaw and cyclic corrections. Five foot hover is used to keep the tail stinger approximately six feet of ground clearance and ample tail rotor clearance for maneuvering
 
@@ -91,7 +91,7 @@
 
 ### Amplifying Information
 
-1. Relax and make smooth and timely corrections. 
+1. Relax and make smooth and timely corrections.
 
 1. Rate of descent may slow or stop near ground. This is due to ground effect.
 
@@ -101,7 +101,7 @@
 
 ### Procedure
 
-1. From a hover, slow turn using appropriate pedal. 
+1. From a hover, slow turn using appropriate pedal.
 
 1. Adjust cyclic to remain over reference point. Use pedals to control rate of turn.
 
@@ -127,7 +127,7 @@ Air Taxi: less than 100' AGL. Safe airspeed.
 
 ### Amplifying Information
 
-1. Sufficient cyclic in desired direction is defined as enough to establish a slow rate of movement. 
+1. Sufficient cyclic in desired direction is defined as enough to establish a slow rate of movement.
 
 1. If crosswind, apply lateral cyclic into the wind.
 
@@ -377,7 +377,7 @@ At the abeam position:
 1. Time and altitude permitting:
    1. Collective, smoothly lower to full down
    1. Twist grip, smoothly rotate to full open (verbalize "TWIST GRIP FULL OPEN")
-   1. Collective, increase as necessary
+   1. Collective, increase as necessary to arrest descent rate
    1. Adjust nose for 70 KTS, 500-700 fpm
    1. Continuously clear area
 1. Time and altitude not permitting:
