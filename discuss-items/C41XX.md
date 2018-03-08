@@ -3,13 +3,21 @@
 ## C4101
 
 1. Engine System
+    1. NFM 2-1, Systems 2-1
 1. Engine Failures (NATOPS, FTI)
+    1. NFM 12-1 & 12-3, FTI 5-12
 1. Engine Restart In Flight
+    1. NFM 12-7
 1. Engine Chip Clearing Procedures
+    1. NFM 12-8
 1. Compressor Stall
+    1. NFM 12-5
 1. Rotor Droop
+    1. NFM 11-13
 1. CRM - Communications
-1. Mission Analysis
+    1. NFM 20-3
+1. CRM - Mission Analysis
+    1. NFM 20-3
 
 ## C4102
 
