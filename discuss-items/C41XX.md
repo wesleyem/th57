@@ -22,10 +22,15 @@
 ## C4102
 
 1. Hydraulic System
+    1. NFM 2-37, Systems 6-1
 1. Hydraulic System Failure
+    1. NFM 12-18
 1. Hydraulic Power System Malfunction
+    1. NFM 12-18
 1. Mast Bumping
+    1. NFM 11-3, 12-9
 1. CRM - Situational Awareness
+    1. NFM 20-3
 
 ## C4103
 
