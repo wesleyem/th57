@@ -1,5 +1,9 @@
 # TH-57B/C Study Guide
 
+ - [QOD](https://github.com/wesleyem/th57/blob/master/QOD.md)
+
+ - [Discuss Items](https://github.com/wesleyem/th57/blob/master/discuss-items/)
+
  - [notes](https://github.com/wesleyem/th57/blob/master/notes.md)
 
  - [Systems](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#th-57bc-systems)
