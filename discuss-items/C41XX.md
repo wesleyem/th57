@@ -32,15 +32,33 @@
 1. CRM - Situational Awareness
     1. NFM 20-3
 
+### SSR
+
+1. Max glide auto demo
+
 ## C4103
 
 1. Transmission System
+    1. NFM 2-16, 2-19, Systems 4-2
 1. Sprag Clutch Slippage
+    1. NFM 12-11
 1. Sprag Clutch Seizure
+    1. NFM 12-11
 1. Main Drive Shaft Failure
+    1. NFM 12-8
 1. Imminent Transmission Failure
+    1. NFM 12-10
 1. Overtorque
+    1. NFM 12-4
 1. Icing
+    1. NFM 12-29
 1. Ground Vortex
+    1. Aero 10-20
 1. Simulated Engine Failure On Takeoff
+    1. Contacts 6-2
 1. CRM - Adaptability/Flexibility
+    1. NFM 20-3
+
+### SSR
+
+1. Simulated Engine Failure on Takeoff Demo
