@@ -3,15 +3,25 @@
 ## C4201
 
 1. Fuel System
+    1. NFM 2-22, Systems 3-2
 1. Fuel Boost Pump Failure
+    1. NFM 12-22
 1. Airframe Fuel Filter
+    1. NFM 12-23
 1. Fuel Contamination
+    1. NFM
 1. Fuel Control Failure
+    1. NFM 12-7
 1. Suspected Fuel Leakage
+    1. NFM 12-24
 1. Engine Fire In Flight
+    1. NFM 12-24
 1. Engine Overspeed (Nf) Rotor RPM (Nr)
+    1. NFM 12-6
 1. Underspeeding (Nf/Nr)
+    1. NFM 12-5
 1. CRM - Leadership
+    1. NFM 20-3
 
 ## C4202
 
