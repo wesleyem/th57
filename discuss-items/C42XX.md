@@ -26,7 +26,9 @@
 ## C4202
 
 1. Tail Rotor Malfunctions And Failures
+    1. NFM 12-12
 1. Loss Of Tail Rotor Effectiveness
+    1. NFM 11-10, 12-16
 
 ### SSR
 
