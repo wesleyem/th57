@@ -4,6 +4,7 @@
 1. [Engine/Transmission Oil Pressure](#enginetransmission-oil-pressure)
 1. [Engine/Transmission Oil Temperature](#enginetransmission-oil-temperature)
 1. [Nf/Nr Tach Malfunction](#nfnr-tach-malfunction)
+1. [Pitot-Static Instrument](#pitot-static-instrument)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -40,3 +41,12 @@
 1. Base Ops UHF freq
     1. 233.7
     1. RWOP 5-3
+
+## Pitot-Static Instrument
+
+1. Definition of Precautionary Emergency Landing
+    1. A landing when further flight is possible but inadvisable
+    1. NFM 12-2
+1. The ____ shall be turned on no lower than the ____ on all instruement approaches
+    1. Searchlight; FAF
+    1. RWOP 9-8
