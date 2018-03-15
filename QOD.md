@@ -3,6 +3,7 @@
 1. [Torquemeter Indicating System Malfunction](#torquemeter-indicating-system-malfunction)
 1. [Engine/Transmission Oil Pressure](#enginetransmission-oil-pressure)
 1. [Engine/Transmission Oil Temperature](#enginetransmission-oil-temperature)
+1. [Nf/Nr Tach Malfunction](#nfnr-tach-malfunction)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -30,3 +31,12 @@
 1. Western op area common squawk is ________ ; Eastern op area common squawk is ________
     1. 4777; 4677
     1. RWOP 1-3
+
+## Nf/Nr Tach Malfunction
+
+1. Min rate of descent, max glide, and max auto airspeeds?
+    1. 50; 72; 100 KIAS
+    1. NFM 12-3
+1. Base Ops UHF freq
+    1. 233.7
+    1. RWOP 5-3
