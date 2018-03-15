@@ -25,9 +25,9 @@
 
 ## C4202
 
-1. Tail Rotor Malfunctions And Failures
+1. [Tail Rotor Malfunctions And Failures](https://github.com/wesleyem/th57/blob/master/EPS.md#tail-rotor-failure-and-directional-control-malfunctions)
     1. NFM 12-12
-1. Loss Of Tail Rotor Effectiveness
+1. [Loss Of Tail Rotor Effectiveness](https://github.com/wesleyem/th57/blob/master/EPS.md#loss-of-tail-rotor-effectiveness)
     1. NFM 11-10, 12-16
 
 ### SSR
