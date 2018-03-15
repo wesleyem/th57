@@ -587,10 +587,6 @@ autorotational flight.
 
 > Warning: If attempting to achieve higher airspeeds, care must be taken to avoid excessive cyclic inputs coupled with large power settings that could lead to mast bumping or rapid nose tucking.
 
-> Warning: In the autorotation, maintain airspeed above minimum rate of descent airspeed until flare to avoid loss of yaw control.
-
-> Warning: Once the engine is secured, in the absence of torque, the lift produced by the vertical fin may tend to yaw the nose to the left at faster speeds. As airspeed slows and Nr decays, the decelerating rotorhead and swashplate friction will create additional left yaw, increasing the chance for rollover. Depending on landing profile, consideration should be given to leaving twist grip open until pulling collective at the bottom of the autorotation to allow control of yaw with twist grip.
-
 > Note: Depending on the nature of the failure and degree of damage, airspeeds between 50 to 72 KIAS may provide the best opportunity to maintain level flight.
 
 > Note: A non-typical nosedown attitude may be required to achieve a desired airspeed due to increased drag on the tail.
@@ -598,6 +594,10 @@ autorotational flight.
 > Note: Turns to the right may provide greater controllability of airspeed and potentially minimize altitude loss.
 
 > Note: Banking to the left will aid in counteracting torque.
+
+> Warning: In the autorotation, maintain airspeed above minimum rate of descent airspeed until flare to avoid loss of yaw control.
+
+> Warning: Once the engine is secured, in the absence of torque, the lift produced by the vertical fin may tend to yaw the nose to the left at faster speeds. As airspeed slows and Nr decays, the decelerating rotorhead and swashplate friction will create additional left yaw, increasing the chance for rollover. Depending on landing profile, consideration should be given to leaving twist grip open until pulling collective at the bottom of the autorotation to allow control of yaw with twist grip.
 
 ---
 ### Tail Rotor Chip Caution
