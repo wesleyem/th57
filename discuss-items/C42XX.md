@@ -39,7 +39,11 @@
 ## C4203
 
 1. Vortex Ring State
+    1. NFM 11-4, 12-34
 1. Control Feedback
+    1. NFM 11-13
 1. Any Previously Briefed EP Or Limit
+    1. NFM Chapter 4 and 12
 1. Solo Guidelines
+    1. RWOP Chapter 4
 1. RWOP/SOP
