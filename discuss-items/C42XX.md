@@ -32,7 +32,7 @@
 
 ### SSR
 
-1. Demonstrate Tail Rotor Malfunctions:
+1. [Demonstrate Tail Rotor Malfunctions](https://github.com/wesleyem/th57/blob/master/images/c4202.jpg):
     1. Fixed pitch right/left pedal: in a hover and altitude
     1. Complete Loss of T/R Thrust: in a hover
 
