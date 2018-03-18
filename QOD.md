@@ -5,6 +5,7 @@
 1. [Engine/Transmission Oil Temperature](#enginetransmission-oil-temperature)
 1. [Nf/Nr Tach Malfunction](#nfnr-tach-malfunction)
 1. [Pitot-Static Instrument](#pitot-static-instrument)
+1. [Gyro Instrument Malfunction](#gyro-instrument-malfunction)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -47,6 +48,15 @@
 1. Definition of Precautionary Emergency Landing
     1. A landing when further flight is possible but inadvisable
     1. NFM 12-2
-1. The ____ shall be turned on no lower than the ____ on all instruement approaches
+1. The ____ shall be turned on no lower than the ____ on all instrument approaches
     1. Searchlight; FAF
     1. RWOP 9-8
+
+## Gyro Instrument Malfunction
+
+1. Recommended max angle of bank during instrument takeoffs?
+    1. 20&deg;
+    1. NFM 17-2
+1. Lost Comm aircraft shall fly up the KNDZ active duty runway at ___ feet MSL and ____ KIAS
+    1. 700;70
+    1. RWOP 10-1
