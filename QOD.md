@@ -6,6 +6,8 @@
 1. [Nf/Nr Tach Malfunction](#nfnr-tach-malfunction)
 1. [Pitot-Static Instrument](#pitot-static-instrument)
 1. [Gyro Instrument Malfunction](#gyro-instrument-malfunction)
+1. [Fuel Quantity Indicator Malfunction](#fuel-quantity-indicator-malfunction)
+1. [Emergency Descent](#emergency-descent)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -60,3 +62,19 @@
 1. Lost Comm aircraft shall fly up the KNDZ active duty runway at ___ feet MSL and ____ KIAS
     1. 700;70
     1. RWOP 10-1
+
+## Fuel Quantity Indicator Malfunction
+
+1. N<sub>g</sub> limits
+    1. NFM 4-1
+1. How do aircraft requiring minor maintenance or troubleshooting by maintenance personnel signal their lineman during the day?  At night?
+    1. Searchlight - ON; POS Lights - Flash/Bright
+    1. RWOP 3-3
+
+## Emergency Descent
+
+1. N<sub>f</sub> limits
+    1. NFM 4-1
+1. Where is the location of the 10-18 line?
+    1. A 1,2 & B 1,2
+    1. RWOP 5-3
