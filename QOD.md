@@ -8,6 +8,7 @@
 1. [Gyro Instrument Malfunction](#gyro-instrument-malfunction)
 1. [Fuel Quantity Indicator Malfunction](#fuel-quantity-indicator-malfunction)
 1. [Emergency Descent](#emergency-descent)
+1. [Emergency Shutdown](#emergency-shutdown)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -78,3 +79,11 @@
 1. Where is the location of the 10-18 line?
     1. A 1,2 & B 1,2
     1. RWOP 5-3
+
+## Emergency Shutdown
+
+1. TOT limits
+    1. NFM 4-7
+1. Night takeoffs and landings at KNDZ shall be made to a _____ or ________
+    1. duty runway; lighted pad
+    1. RWOP 5-11
