@@ -1,6 +1,6 @@
 # T4000 Discuss Items
 
-## Maneuvers (Tactics Ch 1)
+## Maneuvers
 
 1. Power Checks
 1. Confined Area Operations
@@ -9,7 +9,7 @@
 1. 360 degree Overhead
 1. 180 degree offset
 1. 90 degree offset
-1. External Load Operations (Tactics 2-1)
+1. External Load Operations
 1. Quick Stop
 
 ## T4001
