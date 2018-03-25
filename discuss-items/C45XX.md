@@ -15,4 +15,26 @@
 
 ## C4502
 
+1. Mechanical vs virtual axis
+    1. AERO 5-3
+1. Dissymmetry of lift
+    1. AERO 10-17
+1. Blowback
+    1. AERO 10-18
+1. Geometric Imbalance
+    1. AERO 4-11
+1. Phase lag
+    1. AERO 4-3
+
 ## C4503
+
+1. Retreating blade stall
+    1. NFM 11-10
+1. Vibration ID/High Freq vibrations
+    1. NFM 11-14
+1. Rotor RPM droop
+    1. NFM 11-13
+1. Uncommanded right roll during flight below 1G
+    1. NFM 11-3
+1. Tail rotor malfunctions
+    1. NFM 12-12
