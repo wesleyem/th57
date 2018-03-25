@@ -9,6 +9,8 @@
 1. [Fuel Quantity Indicator Malfunction](#fuel-quantity-indicator-malfunction)
 1. [Emergency Descent](#emergency-descent)
 1. [Emergency Shutdown](#emergency-shutdown)
+1. [Inadvertent IMC](#inadvertent-imc)
+1. [ECS Malfunctions](#ecs-malfunctions)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -87,3 +89,19 @@
 1. Night takeoffs and landings at KNDZ shall be made to a _____ or ________
     1. duty runway; lighted pad
     1. RWOP 5-11
+
+## Inadvertent IMC
+
+1. Torque Limits
+    1. NFM 4-7
+1. What are the clearances required within the day/night traffic pattern at KNDZ
+    1. Clearance to takeoff, turn downwind, and land. Remain clear of maintenance pattern when in use.
+    1. RWOP 5-11 & 13
+
+## ECS Malfunctions
+
+1. Transmission oil pressure and temperature limits
+    1. NFM 4-7
+1. Dimensions of the KNDZ maintenance pattern
+    1. Surface to 2500' MSL. PIC may request 'High Maintenance' for 5000' MSL
+    1. RWOP 5-13
