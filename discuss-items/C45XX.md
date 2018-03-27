@@ -29,12 +29,12 @@
 ## C4503
 
 1. Retreating blade stall
-    1. NFM 11-10
+    1. NFM 11-10, 12-34
 1. Vibration ID/High Freq vibrations
     1. NFM 11-14
 1. Rotor RPM droop
     1. NFM 11-13
 1. Uncommanded right roll during flight below 1G
-    1. NFM 11-3
+    1. NFM 11-3, 12-35
 1. Tail rotor malfunctions
     1. NFM 12-12
