@@ -56,6 +56,6 @@
     1. NFM 20-3
 1. Aircrew Brief
 1. P<sub>r</sub> exceeds P<sub>a</sub>
-    1. NFM 11-6
+    1. NFM 11-6, 12-34
 1. Weight and Balance
 1. Waveoff during CALs/externals

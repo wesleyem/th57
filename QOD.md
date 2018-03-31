@@ -12,6 +12,9 @@
 1. [Inadvertent IMC](#inadvertent-imc)
 1. [ECS Malfunctions](#ecs-malfunctions)
 1. [Abort Start](#abort-start)
+1. [Post Shutdown Fire](#post-shutdown-fire)
+1. [Engine Failure in Flight](#engine-failure-in-flight)
+1. [Icing](#icing)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -69,7 +72,7 @@
 
 ## Fuel Quantity Indicator Malfunction
 
-1. N<sub>g</sub> limits
+1. [N<sub>g</sub> limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#ng-rpm)
     1. NFM 4-1
 1. How do aircraft requiring minor maintenance or troubleshooting by maintenance personnel signal their lineman during the day?  At night?
     1. Searchlight - ON; POS Lights - Flash/Bright
@@ -77,7 +80,7 @@
 
 ## Emergency Descent
 
-1. N<sub>f</sub> limits
+1. [N<sub>f</sub> limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#nf)
     1. NFM 4-1
 1. Where is the location of the 10-18 line?
     1. A 1,2 & B 1,2
@@ -85,7 +88,7 @@
 
 ## Emergency Shutdown
 
-1. TOT limits
+1. [TOT limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#turbine-outlet-temperatures)
     1. NFM 4-7
 1. Night takeoffs and landings at KNDZ shall be made to a _____ or ________
     1. duty runway; lighted pad
@@ -93,7 +96,7 @@
 
 ## Inadvertent IMC
 
-1. Torque Limits
+1. [Torque Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#torque)
     1. NFM 4-7
 1. What are the clearances required within the day/night traffic pattern at KNDZ
     1. Clearance to takeoff, turn downwind, and land. Remain clear of maintenance pattern when in use.
@@ -101,7 +104,7 @@
 
 ## ECS Malfunctions
 
-1. Transmission oil pressure and temperature limits
+1. [Transmission oil pressure and temperature limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#transmission-oil-system-limits)
     1. NFM 4-7
 1. Dimensions of the KNDZ maintenance pattern
     1. Surface to 2500' MSL. PIC may request 'High Maintenance' for 5000' MSL
@@ -109,9 +112,33 @@
 
 ## Abort Start
 
-1. Fuel Pressure Limits
+1. [Fuel Pressure Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#fuel-pressure)
     1. 4-30 PSI
     1. NFM 4-8
 1. All course rules shall be flown at ___ KIAS. Holding shall be flown at ___ KIAS
     1. 100; 80
     1. RWOP 6-1
+
+## Post Shutdown Fire
+
+1. [Airspeed Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#airspeed-limits)
+    1. NFM 4-8
+1. Simulated Emergencies on course rules are prohibited when the ceiling is below ____ feet AGL
+    1. 1200
+    1. RWOP 6-9
+
+## Engine Failure in Flight
+
+1. [N<sub>r</sub> limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#rotor-limits)
+    1. NFM 4-7
+1. During SVFR ops at KNDZ, all takeoffs and landings shall utilize the ________
+    1. Not sure what this question is getting at
+    1. RWOP 6-1
+
+## Icing
+
+1. [Standby Generator limits](#https://github.com/wesleyem/th57/blob/master/LIMITS.md#standby-generator-limits)
+    1. NFM 4-8
+1. Departing from the KNDZ traffic pattern, no turns shall be made until the end of the _____ and above ____ feet AGL
+    1. duty runway; 200'
+    1. RWOP 6-3
