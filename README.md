@@ -7,6 +7,7 @@
  - [notes](https://github.com/wesleyem/th57/blob/master/notes.md)
 
  - [Systems](https://github.com/wesleyem/th57/blob/master/SYSTEMS.md#th-57bc-systems)
+ - [Charlie Systems](https://github.com/wesleyem/th57/blob/master/CSYSTEMS.md)
     - [Source](https://www.cnatra.navy.mil/local/docs/pat-pubs/P-402.pdf)
     - `rev. 01-15`
 

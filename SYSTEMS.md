@@ -59,10 +59,6 @@
    1. [Starter/Generator](#startergenerator)
    1. [External Power Receptacle](#external-power-receptacle)
 
-1. [TH-57C Electrical System](#th-57c-electrical-system)
-
-1. [The Ministab System](#the-ministab-system)
-
 ---
 ### Introduction to the TH-57
 #### General
@@ -979,13 +975,6 @@ When the following occurs:
  - OR electical power is interrupted for more than two seconds
 
 the associated caution lights will illuminate and remain illuminated for five seconds, then extinguish, providing an automatic check of those electical circuits
-
-
----
-### TH-57C Electrical System
----
-### The Ministab System
-
 
 
 <!-- Images -->
