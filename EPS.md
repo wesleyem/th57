@@ -297,6 +297,8 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 ---
 ### Main Drive Shaft Failure
 
+> Note: Would only occur when sprag clutch is already engaged, i.e. power on.
+
 ##### Indications
 
 1. N<sub>r</sub> decrease
@@ -477,6 +479,8 @@ If TOT is fluctuating, it will be fluctuating in the same direction as N<sub>g</
 
 ---
 ### Sprag Clutch Slippage
+
+> Note: Would occur when sprag clutch has been disengaged and you are attempting to reengage the sprag clutch, i.e. power off to power on. This doesn't have anything to do with the twist grip, this has to do with N<sub>r</sub> being higher than N<sub>f</sub>. It should be noted that prior to attempting to smoothly rotating the twist grip to full open you must ensure N<sub>r</sub> is below 100% to ensure the sprag clutch has a chance to reengage.
 
 ##### Indications
 

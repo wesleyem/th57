@@ -21,6 +21,7 @@
 1. Main Generator
     1. Same as ![Image][b]
 1. Standby Generator
+    1. 28V 7.5amp
 1. External Power
     1. Same as ![Image][b]
 
@@ -52,6 +53,8 @@ Same 24V 17amp-hr SLAB as in the ![Image][b]
         1. RCB is overridden on engine start to prevent power from being taken away before a complete engine start is done.
         1. "Starter on, ___ Volts, `BATT RELAY` light on"
         1. "Starter off, time is ___ , `BATT RELAY` light out"
+
+> Note: When the `BATT RELAY` light goes on, it's saying that the engine start is being protected by the override of the RCB to ensure power isn't prematurely removed from the system prior to complete engine start
 
 Battery switch -> On
  - energizes battery relay and BUS TIE relay
