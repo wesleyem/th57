@@ -15,6 +15,9 @@
 1. [Post Shutdown Fire](#post-shutdown-fire)
 1. [Engine Failure in Flight](#engine-failure-in-flight)
 1. [Icing](#icing)
+1. [ICS/Radio Panel Selector Failure](#icsradio-panel-selector-failure)
+1. [Emergency Egress](#emergency-egress)
+1. [Engine Failure at High Airspeed Low Altitude](#engine-failure-at-high-airspeed-low-altitude)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -137,8 +140,34 @@
 
 ## Icing
 
-1. [Standby Generator limits](#https://github.com/wesleyem/th57/blob/master/LIMITS.md#standby-generator-limits)
+1. [Standby Generator limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#standby-generator-limits)
     1. NFM 4-8
-1. Departing from the KNDZ traffic pattern, no turns shall be made until the end of the _____ and above ____ feet AGL
+    1. Departing from the KNDZ traffic pattern, no turns shall be made until the end of the _____ and above ____ feet AGL
     1. duty runway; 200'
     1. RWOP 6-3
+
+
+## ICS/Radio Panel Selector Failure
+
+1. [When should the rotor brake be applied](https://github.com/wesleyem/th57/blob/master/LIMITS.md#rotor-brake-limitations)
+    1. 38-30%
+    1. NFM 4-8
+1. Define Point ECHO
+    1. intersection of I-10 and HWY 89 which is also the first overpass east of the Blackwater River
+    1. RWOP A-7
+
+## Emergency Egress
+
+1. [Starter Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#starter-limitations)
+    1. NFM 4-8
+1. Define Point VERTOL
+    1. Intersection of HWY 87 and I-10
+    1. RWOP A-7
+
+## Engine Failure at High Airspeed Low Altitude
+
+1. [Altitude Limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#altitude-limitations)
+    1. NFM 4-8
+1. What altitude, airspeed, and radio call are made if desiring a VERTOL arrival
+    1. 700MSL, 100KIAS, "South Tower, Eightball 123, point VERTOL, negative information"
+    1. RWOP 6-8, B-3
