@@ -1,4 +1,4 @@
-# C46XX Discuss Items
+# C4600 Discuss Items
 
 ## C4601
 1. TH-57C Electrical System
