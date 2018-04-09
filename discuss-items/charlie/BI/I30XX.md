@@ -4,6 +4,7 @@
 
 1. Attitude Instrument flight/trim/scan
     1. Instrument FTI 3-1
+    1. https://www.cnatra.navy.mil/local/docs/pat-pubs/P-458.pdf#page=65
 1. Approximate Power Settings
     1. Gouge
 
