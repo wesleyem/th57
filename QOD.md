@@ -18,6 +18,9 @@
 1. [ICS/Radio Panel Selector Failure](#icsradio-panel-selector-failure)
 1. [Emergency Egress](#emergency-egress)
 1. [Engine Failure at High Airspeed Low Altitude](#engine-failure-at-high-airspeed-low-altitude)
+1. [Overtorque/Overtemp/Overspeed](#overtorqueovertempoverspeed)
+1. [Compressor Stall](#compressor-stall)
+1. [Underspeeding Nf/Nr](#underspeeding-nfnr)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -142,7 +145,7 @@
 
 1. [Standby Generator limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#standby-generator-limits)
     1. NFM 4-8
-    1. Departing from the KNDZ traffic pattern, no turns shall be made until the end of the _____ and above ____ feet AGL
+1. Departing from the KNDZ traffic pattern, no turns shall be made until the end of the _____ and above ____ feet AGL
     1. duty runway; 200'
     1. RWOP 6-3
 
@@ -150,7 +153,6 @@
 ## ICS/Radio Panel Selector Failure
 
 1. [When should the rotor brake be applied](https://github.com/wesleyem/th57/blob/master/LIMITS.md#rotor-brake-limitations)
-    1. 38-30%
     1. NFM 4-8
 1. Define Point ECHO
     1. intersection of I-10 and HWY 89 which is also the first overpass east of the Blackwater River
@@ -171,3 +173,27 @@
 1. What altitude, airspeed, and radio call are made if desiring a VERTOL arrival
     1. 700MSL, 100KIAS, "South Tower, Eightball 123, point VERTOL, negative information"
     1. RWOP 6-8, B-3
+
+## Overtorque/Overtemp/Overspeed
+
+1. [Max internal gross weight? External Load?](https://github.com/wesleyem/th57/blob/master/LIMITS.md#weight-limitations)
+    1. NFM 4-9
+1. At Juniper, with converging aircraft, who has the right of way?
+    1. Aircraft returning from the East
+    1. RWOP 7-14
+
+## Compressor Stall
+
+1. [Min crew requirements](https://github.com/wesleyem/th57/blob/master/LIMITS.md#minimum-crew-requirements)
+    1. NFM 4-11
+1. Pattern altitude at all NOLFs is ____ feet AGL
+    1. 500
+    1. RWOP 7-2
+
+## Underspeeding Nf/Nr
+
+1. [What operations are prohibited](https://github.com/wesleyem/th57/blob/master/LIMITS.md#prohibited-operations)
+    1. NFM 4-13
+1. When there's too many windy bois in excess of ____ knots, clearing turns shall be made __ degrees to the left and right of the wind line
+    1. 15; 45
+    1. RWOP 7-4
