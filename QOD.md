@@ -21,6 +21,7 @@
 1. [Overtorque/Overtemp/Overspeed](#overtorqueovertempoverspeed)
 1. [Compressor Stall](#compressor-stall)
 1. [Underspeeding Nf/Nr](#underspeeding-nfnr)
+1. [Pr > Pa](#pr->-pa)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -197,3 +198,11 @@
 1. When there's too many windy bois in excess of ____ knots, clearing turns shall be made __ degrees to the left and right of the wind line
     1. 15; 45
     1. RWOP 7-4
+
+## Pr > Pa
+
+1. [Equipment required for over water and shipboard operations?](https://github.com/wesleyem/th57/blob/master/LIMITS.md#required-equipment-for-over-water-and-shipboard-operations)
+    1. NFM 4-13
+1. A max of ____ AC may operate at NOLF HAROLD
+    1. 11
+    1. RWOP 7-11

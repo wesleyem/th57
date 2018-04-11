@@ -40,20 +40,29 @@ Airspeed    | Torque    | AOB
 1. Instrument Auto
     1. Instrument FTI 3-13
 1. Main Generator Failure
+    1. NFM 12-19
 1. Standby Generator Failure
+    1. NFM 12-20
 
 ## I3003
 
 1. Instrument Takeoff
+    1. IFTI 3-4
 1. Departure
 1. Preparing For An Instrument Approach
+    1. IFTI 2-9, 2-10
 1. Approach
+    1. IFTI 2-10
 1. Missed Approach
+    1. IFTI 2-9, 4-36
 1. Oscar Pattern
     1. Instrument FTI 3-12
 1. Battery Temp Light
+    1. NFM 12-21
 1. Battery Hot Light
+    1. NFM 12-21
 1. Emergency Descent
+    1. NFM 12-37
 
 ## I3004
 
