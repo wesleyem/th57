@@ -21,7 +21,7 @@
 1. [Overtorque/Overtemp/Overspeed](#overtorqueovertempoverspeed)
 1. [Compressor Stall](#compressor-stall)
 1. [Underspeeding Nf/Nr](#underspeeding-nfnr)
-1. [Pr > Pa](#pr->-pa)
+1. [Pr > Pa](#pr--pa)
 
 ## Torquemeter Indicating System Malfunction
 
