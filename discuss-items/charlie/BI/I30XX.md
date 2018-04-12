@@ -49,6 +49,7 @@ Airspeed    | Torque    | AOB
 1. Instrument Takeoff
     1. IFTI 3-4
 1. Departure
+    1. Student approach plates: NAVIE ONE
 1. Preparing For An Instrument Approach
     1. IFTI 2-9, 2-10
 1. Approach
@@ -67,9 +68,13 @@ Airspeed    | Torque    | AOB
 ## I3004
 
 1. Full Panel Unusual Attitude Recovery
+    1. IFTI 3-24
 1. Pitot-Static Instrument Failure
+    1. NFM 12-32
 1. Environmental Control System (ECS) Malfunctions
+    1. NFM 12-36
 1. Heater Malfunction
+    1. NFM 12-36
 
 ## I3005
 
@@ -77,6 +82,6 @@ Airspeed    | Torque    | AOB
 1. Partial Panel Turns
 1. Partial Panel Climbs And Descents
 1. Full Panel Unusual Attitude Recovery
-1. Electrical Fire During Imc Flight
-1. Engine Fire During Imc
-1. Fuselage Fire During Imc
+1. Electrical Fire During IMC Flight
+1. Engine Fire During IMC
+1. Fuselage Fire During IMC
