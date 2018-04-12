@@ -22,6 +22,7 @@
 1. [Compressor Stall](#compressor-stall)
 1. [Underspeeding Nf/Nr](#underspeeding-nfnr)
 1. [Pr > Pa](#pr--pa)
+1. [Engine Overspeed Rotor Rpm](#engine-overspeed-rotor-rpm)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -206,3 +207,11 @@
 1. A max of ____ AC may operate at NOLF HAROLD
     1. 11
     1. RWOP 7-11
+
+## Engine Overspeed Rotor RPM
+
+1. What dangerous tendency is associated with low-g? What is the recovery technique?
+    1. NFM 11-3, 12-9
+1. Sim Engine failures while splitting at NOLF Santa Rosa maybe taken to a ____ or _____ at IP discretion
+    1. power recovery; waveoff
+    1. RWOP 7-28
