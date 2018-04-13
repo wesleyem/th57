@@ -79,9 +79,16 @@ Airspeed    | Torque    | AOB
 ## I3005
 
 1. Partial Panel straight-and-level
+    1. IFTI 3-16, 3-18
 1. Partial Panel Turns
+    1. IFTI 3-18
 1. Partial Panel Climbs And Descents
+    1. IFTI 3-18
 1. Full Panel Unusual Attitude Recovery
+    1. IFTI 3-24
 1. Electrical Fire During IMC Flight
+    1. NFM 12-25, IFTI 2-2
 1. Engine Fire During IMC
+    1. NFM 12-24, IFTI 2-2
 1. Fuselage Fire During IMC
+    1. NFM 12-25, IFTI 2-2
