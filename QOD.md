@@ -23,6 +23,8 @@
 1. [Underspeeding Nf/Nr](#underspeeding-nfnr)
 1. [Pr > Pa](#pr--pa)
 1. [Engine Overspeed Rotor Rpm](#engine-overspeed-rotor-rpm)
+1. [Fuel Control Failure](#fuel-control-failure)
+1. [Engine Restart in Flight](#engine-restart-in-flight)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -215,3 +217,13 @@
 1. Sim Engine failures while splitting at NOLF Santa Rosa maybe taken to a ____ or _____ at IP discretion
     1. power recovery; waveoff
     1. RWOP 7-28
+
+## Fuel Control Failure
+
+## Engine Restart in Flight
+
+1. Indications of VRS? recovery procedure?
+    1. NFM 11-4, 12-34
+1. Inbound to NOLF Santa Rosa from Tower 438 descend from ____ feet MSL to ____ feet MSL when crossing ____
+    1. 900; 700; 90
+    1. RWOP 7-32, 7-34
