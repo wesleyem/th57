@@ -3,9 +3,7 @@
 ## I4001
 
 1. Weather requirements for BI flights
-    1. RWOP 9-2
-    1. NFM 4-13
-    1. CNAF 8-2
+    1. RWOP 2-1, 9-2
 1. attitude instrument flight/trim/scan
     1. Instrument FTI 3-1
 1. observer brief
@@ -41,6 +39,11 @@
 
 1. Required equipment for IMC flight
     1. NFM 4-13
+        1. required equipemnt for night flight
+        1. required equipment for over water and shipboard ops
+    1. CNAF 8-2
+        1. requires flashlight for night flights
+        1. requires signal device for night flights and flight over water or sparsely populated areas
 1. NDZ “on top” weather briefing
     1. RWOP 2-2, 5-2, 9-1, 9-5, 10-2
 1. NDZ stereo-type flight plans
