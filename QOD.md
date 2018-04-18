@@ -27,6 +27,7 @@
 1. [Engine Restart in Flight](#engine-restart-in-flight)
 1. [Main Driveshaft Failure](#main-driveshaft-failure)
 1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
+1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -245,3 +246,11 @@
 1. T/F - Simulated emergencies are prohibited on course rules when conducting SVFR operations
     1. True
     1. RWOP 6-2
+
+## Sprag Clutch Seizure
+
+1. What can cause dynamic rollover?
+    1. NFM 11-7
+1. All aircraft departing South Whiting field shall not be made until past the ____________ an at or above _____ feet AGL, unless cleared by tower
+    1. upwind of the duty runway; 200
+    1. RWOP 6-3
