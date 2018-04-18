@@ -25,6 +25,8 @@
 1. [Engine Overspeed Rotor Rpm](#engine-overspeed-rotor-rpm)
 1. [Fuel Control Failure](#fuel-control-failure)
 1. [Engine Restart in Flight](#engine-restart-in-flight)
+1. [Main Driveshaft Failure](#main-driveshaft-failure)
+1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -227,3 +229,19 @@
 1. Inbound to NOLF Santa Rosa from Tower 438 descend from ____ feet MSL to ____ feet MSL when crossing ____
     1. 900; 700; 90
     1. RWOP 7-32, 7-34
+
+## Main Driveshaft Failure
+
+1. What factors aggravate power required exceeding power available?
+    1. NFM 11-6
+1. To enhance detection, the __________ shall be on with the _________ lights in _____  _______ configuration when operating SVFR in Class C airspace
+    1. Searchlight; Position Lights; Steady Bright
+    1. RWOP 3-3
+
+## Sprag Clutch Slippage
+
+1. What steps can be taken to avoid power required exceeding power available?
+    1. NFM 11-6
+1. T/F - Simulated emergencies are prohibited on course rules when conducting SVFR operations
+    1. True
+    1. RWOP 6-2
