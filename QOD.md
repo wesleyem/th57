@@ -28,6 +28,7 @@
 1. [Main Driveshaft Failure](#main-driveshaft-failure)
 1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
 1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
+1. [Imminent Transmission Failure](#imminent-transmission-failure)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -254,3 +255,11 @@
 1. All aircraft departing South Whiting field shall not be made until past the ____________ an at or above _____ feet AGL, unless cleared by tower
     1. upwind of the duty runway; 200
     1. RWOP 6-3
+
+## Imminent Transmission Failure
+
+1. What factors affect rotor blade stall? what is the recovery technique?
+    1. NFM 11-10, 12-34
+1. South Whiting Pattern altitude is ____ feet MSL
+    1. 700
+    1. RWOP 5-7
