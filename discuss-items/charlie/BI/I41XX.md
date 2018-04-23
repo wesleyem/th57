@@ -9,7 +9,7 @@
     1. NFM 2-27
 1. types of NOTAMS
     1. AIM 5-1-2
-    1. Complete listing of contractions FAA JO Order 7340.2
+    1. Complete listing of contractions [FAA JO Order 7340.2](https://www.faa.gov/documentLibrary/media/Order/7340.2H_Bsc_dtd_3-29-18.pdf)
         1. U/S is commonly seen in NOTAMS around the area but is not defined in the FIH
     1. NOTAM (D) or distant
         1. information includes such data as taxiway closures, personnel and equipment near or crossing runways, and airport lighting aids that do not affect instrument approach criteria, such as VASI.
@@ -42,7 +42,7 @@
 ## I4102
 
 1. Icing
-    1. FAR 91.527
+    1. [FAR 91.527](https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&sid=3efaad1b0a259d4e48f1150a34d1aa77&rgn=div5&view=text&node=14:2.0.1.3.10&idno=14#se14.2.91_1527)
         1. Can't takeoff with frost, ice, or snow on any control surface, windscreen, powerplant, airspeed, altimeter, VSI, attitude instrument system.
         1. Cant fly **IFR** into `known or forecast` `lt or mod` icing conditions, or **VFR** into `known` `lt or mod` icing conditions **UNLESS**
             1. Functioning deicing or anti-icing on each rotor blade ,windscreen, stablizing or control surface, and each airspeed, altimeter, VSI, and attitude indicator
