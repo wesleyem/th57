@@ -29,6 +29,7 @@
 1. [Sprag Clutch Slippage](#sprag-clutch-slippage)
 1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
 1. [Imminent Transmission Failure](#imminent-transmission-failure)
+1. [Engine Fire in Flight](#engine-fire-in-flight)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -263,3 +264,11 @@
 1. South Whiting Pattern altitude is ____ feet MSL
     1. 700
     1. RWOP 5-7
+
+## Engine Fire in Flight
+
+1. What are the relative wind azimuths associated with loss of tail rotor effectiveness?  What is the impact on performance for each azimuth?
+    1. NFM 11-10
+1. T/F - A Solo Site Watch shall be a representative from the solo aircraft's squadron.
+    1. F
+    1. RWOP 4-3
