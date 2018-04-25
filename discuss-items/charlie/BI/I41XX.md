@@ -103,15 +103,24 @@
 
 ## I4103
 
-1. Airspeed limits
+1. [Airspeed limits](https://github.com/wesleyem/th57/blob/master/LIMITS.md#airspeed-limits)
     1. NFM 4-8
-1. standby generator minimum airspeed
+1. [standby generator minimum airspeed](https://github.com/wesleyem/th57/blob/master/LIMITS.md#standby-generator-limits)
     1. NFM 4-8
 1. altimeter error
     1. NFM 2-50
+    1. > Note: Altimeter error with current barometric pressure set should not exceed 75 feet from known field elevation.
 1. attitude gyro malfunction (IMC)
     1. NFM 12-32
+    1. Shift to partial panel scan and if IMC, attempt to reestablish VMC.
 1. standby battery
-    1. NFM 2-26, 2-36, 7-5
+    1. NFM 2-26
+        1. provide emergency power to the pilot attitude indicator and its associated light only.
+    1. NFM 2-36
+        1. 22.5V 1.8ah nickle-cadmium dry cell provides approximately 1.5 hrs when fully charged
+        1. > Note: Turning the main battery off or main battery depletion with the STBY ATT IND switch on, will illuminate the STBY BATT ON light.
+    1. NFM 7-5
+        1. > Note: If STBY BAT voltage is less than 20 Vdc, aircraft is down for flight in IMC.
 1. turbulence penetration
-    1. NFM 4-8, 17-9
+    1. [NFM 4-8](https://github.com/wesleyem/th57/blob/master/LIMITS.md#airspeed-limits)
+    1. NFM 17-9

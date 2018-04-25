@@ -30,6 +30,7 @@
 1. [Sprag Clutch Seizure](#sprag-clutch-seizure)
 1. [Imminent Transmission Failure](#imminent-transmission-failure)
 1. [Engine Fire in Flight](#engine-fire-in-flight)
+1. [Fuselage Fire](#fuselage-fire)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -272,3 +273,11 @@
 1. T/F - A Solo Site Watch shall be a representative from the solo aircraft's squadron.
     1. F
     1. RWOP 4-3
+
+## Fuselage Fire
+
+1. What is control feedback? When is it encountered? What actions should be taken?
+    1. NFM 11-13
+1. How is point HOTEL defined?
+    1. intersection of powerlines, a dirt trail, and an old pipeline cutout
+    1. RWOP A-7
