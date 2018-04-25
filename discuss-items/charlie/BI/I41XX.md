@@ -109,10 +109,10 @@
     1. NFM 4-8
 1. altimeter error
     1. NFM 2-50
-    1. > Note: Altimeter error with current barometric pressure set should not exceed 75 feet from known field elevation.
+        1. > Note: Altimeter error with current barometric pressure set should not exceed 75 feet from known field elevation.
 1. attitude gyro malfunction (IMC)
     1. NFM 12-32
-    1. Shift to partial panel scan and if IMC, attempt to reestablish VMC.
+        1. Shift to partial panel scan and if IMC, attempt to reestablish VMC.
 1. standby battery
     1. NFM 2-26
         1. provide emergency power to the pilot attitude indicator and its associated light only.
