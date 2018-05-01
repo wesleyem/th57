@@ -31,6 +31,10 @@
 1. [Imminent Transmission Failure](#imminent-transmission-failure)
 1. [Engine Fire in Flight](#engine-fire-in-flight)
 1. [Fuselage Fire](#fuselage-fire)
+1. [Fuel Boost Pump Failure](#fuel-boost-pump-failure)
+1. [Suspected Fuel Leakage](#suspected-fuel-leakage)
+1. [Mast Bumping](#mast-bumping)
+1. [Main Generator Failure](#main-generator-failure)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -281,3 +285,35 @@
 1. How is point HOTEL defined?
     1. intersection of powerlines, a dirt trail, and an old pipeline cutout
     1. RWOP A-7
+
+## Fuel Boost Pump Failure
+
+1. What vibrations may be felt in the helicopter?  What causes them?
+    1. NFM 11-14
+1. What four contact maneuvers are prohibited at NOLF Harold due to uneven terrain?
+    1. Full autorotations, sliding landings, simulated engine failures in a hover and hover taxi are prohibited due to uneven terrain.
+    1. RWOP 7-12
+
+## Suspected Fuel Leakage
+
+1. What are the definitions of "land immediately", "land as soon as possible" and "land as soon as practical"?
+    1. NFM 12-2
+1. T/F - Aircraft may depart NOLF Harold using the Southeast corner of the field
+    1. T
+    1. RWOP 7-14
+
+## Mast Bumping
+
+1. What percentage of the air going to the combustion chambers is used for cooling?
+    1. NFM 2-1
+1. Where is the Tactics Lane at NOLF Santa Rosa?
+    1. The “Tactics Lane” extends from the eastern edge of the duty runway to the centerline for courses 360 and 180, and from the southern edge of the duty runway to the center of the gravel line for courses 090 and 270.
+    1. RWOP 7-28
+
+## Main Generator Failure
+
+1. How much SHP is the engine capable of producing? What is it limited to? Why, and how, is it limited?
+    1. NFM 2-1
+1. During daytime operations, how many aircraft are allowed and where can they operate at NOLF Santa Rosa?
+    1. 12
+    1. RWOP 7-27
