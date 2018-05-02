@@ -7,7 +7,6 @@ Min w/ N<sub>g</sub> below 79% | Min w/ N<sub>g</sub> 79-94% | Min w/ N<sub>g</s
 -------------------------------|-----------------------------|--------------------------------|-------------------------------------------------------
 50 psi	                       | 90 psi                      | 115 psi                        | 130 psi except 150 immediately following cold-wx start
 
-
 ### Engine Oil Temperature
 
 0&deg; to 107&deg;C
@@ -62,22 +61,11 @@ Up to 738 &deg;C          | No limit
 
  > Caution: Airframe and engine fuel filters may become blocked if fuel is chilled below its specific freezing point.
 
-
-### Instrument Markings
-
-![Image][limits-4-3]
-![Image][limits-4-3-2]
-![Image][limits-4-3-3]
-
-### Rotor Limits
-
-N<sub>r</sub> 
+### Nr Limits
 
 Power ON | Power OFF
 ---------|----------
 97%-100% | 90%-107%
-
-
 
 ### Transmission Oil System Limts
 
@@ -89,22 +77,21 @@ Continuous | Min | Max
 
  - Indications between 50-70 psi shall be documented on a MAF
 
-##### Temperature
-
-15&deg;C-110&deg;C
-
 > Note: Check transmission oil pressure with twist grip `full open`
 
 > Note: Illumination of the TRANS OIL PRESS caution light is common while the twist grip is at flight idle, however, the gauge should indicate positive transmission oil pressure.
 
 > Note: There is no detrimental effect to the transmission system with oil pressure between 50 to 70 psi with the transmission temperature within limits.
 
+##### Temperature
+
+15&deg;C-110&deg;C
 
 ### Torque
 
 Max continuous | Military power limit | Transient limit
 ---------------|----------------------|-------------------
-85%            |100% for 5 min        | 100-110% for 5 sec
+85%            |85-100% for 5 min     | 100-110% for 5 sec
 
 ### Fuel Pressure
 
@@ -112,7 +99,7 @@ Max continuous | Military power limit | Transient limit
 
 ### Standby Generator Limits
 
-> Note: With main generator on, the standby generator loadmeter should indicate 10 percent load or less. Momentary testing of standby generator under full bus load is permitted on the ground or in the air. 
+> Note: With main generator on, the standby generator loadmeter should indicate 10 percent load or less. Momentary testing of standby generator under full bus load is permitted on the ground or in the air.
 
 Prolonged operation of the standby generator while it is the primary power supply to the essential No. 1 bus is prohibited at speeds below `65 KIAS`
 
@@ -122,7 +109,7 @@ Should be applied 30-38% N<sub>r</sub> during normal operations
 
 ### Starter Limitations
 
-> Note: If a light-off occurs within the first 20 seconds of the start sequence, the starter may be operated for 60 seconds with a 60-second cooling period. Three such attempts can be made in a 30-minute period, then wait 30 minutes to allow the starter to cool. 
+> Note: If a light-off occurs within the first 20 seconds of the start sequence, the starter may be operated for 60 seconds with a 60-second cooling period. Three such attempts can be made in a 30-minute period, then wait 30 minutes to allow the starter to cool.
 
 Limit starter engergizing time to the following:
 
@@ -134,7 +121,6 @@ Ext power | Battery
 30s - OFF | 60s - OFF
 25s - ON  | 40s - ON
 30m - OFF | 30m - OFF
-
 
 ### Airspeed Limits
 
@@ -152,13 +138,11 @@ Type                                           | Airspeed
 :---------------------------------------------:|:--------:
 V<sub>ne</sub> FCS OFF                         | 130 KIAS
 V<sub>ne</sub> FCS ON                          | 122 KIAS
-Max rate of climb                              | 50 KIAS
-Min IFR speed (V<sub>min i</sub>)              | 65 KIAS
 Max airspeed with any combination of doors off | 110 KIAS
 Max autorotational airspeed                    | 100 KIAS
 Turbulence penetration airspeed                | 80 KIAS
-
-
+Min IFR speed (V<sub>min i</sub>)              | 65 KIAS
+Max rate of climb                              | 50 KIAS
 
 ### Altitude Limitations
 
@@ -166,10 +150,8 @@ Turbulence penetration airspeed                | 80 KIAS
 
 |            |3000 lbs gross weight and below | Above 3000 lbs gross weight
 |------------|--------------------------------|----------------------------
-| FCS OFF    | 20,000' PA                     | 16,000' PA
-| FCS OFF    | 18,000' DA                     | 13,000' DA
-| IFR/FCS ON | 11,500' PA                     | 8,500' PA
-| IFR/FCS ON | 13,500' DA                     | 11,000 DA
+| FCS OFF    | 20,000' PA/18,000' DA          | 16,000' PA/13,000' DA
+| IFR/FCS ON | 11,500' PA/13,500' DA          | 8,500' PA/11,000' DA
 
 ### Climb/Descent
 
@@ -181,11 +163,10 @@ In IMC should not exceed 1000 fpm
 
 ### Weight Limitations
 
-Max gross weight         | lbs     
+Max gross weight         | lbs
 -------------------------|---------
 internally               | 3200 lbs
 including external cargo | 3350 lbs
-
 
 ### Minimum Crew Requirements
 
@@ -195,6 +176,22 @@ including external cargo | 3350 lbs
    1. No aircrewman required if both pilots are NATOPS qualifed in model
 1. Min crew weight is 180 lbs
 
+### Required Equipment for IMC Flight
+
+Operation in instrument meteorological conditions is prohibited in a TH-57B.
+
+1. Cyclic force trim system
+1. MINISTAB flight control system (pitch and roll)
+1. Main generator
+1. Standby generator
+1. Battery protection circuit
+1. Instantaneous vertical speed indicator
+1. Two attitude indicators (one automatically powered by approved standby battery source in the event of power loss)
+1. One operable communication system
+1. One operable navigation system appropriate to the routes to be flown
+1. Radar altimeter
+1. Other equipment as required by the operating rules
+
 ### Prohibited Operations
 
 1. ![Image][b] prohibited from IMC and icing conditions
@@ -202,14 +199,13 @@ including external cargo | 3350 lbs
 1. IFR operations prohibited with any doors removed or with external load
 1. Flight prohibited with asymetrical doors off
 
-
 ### Prohibited Maneuvers
 
-1. Aerobatic maneuvers.
-1. Protracted operations in the AVOID and CAUTION areas of the height velocity diagram (Figure 4-6).
-1. Fully developed vortex ring state.
-1. Intentional entry into blade stall.
-1. Hovering turns exceeding a rate of 45° per second.
+1. Aerobatic maneuvers
+1. Protracted operations in the AVOID and CAUTION areas of the height velocity diagram (Figure 4-6)
+1. Fully developed vortex ring state
+1. Intentional entry into blade stall
+1. Hovering turns exceeding a rate of 45° per second
 
 ### Required Equipment for Night Flight
 
@@ -225,8 +221,6 @@ including external cargo | 3350 lbs
 1. VSI
 
 > Note: Due to weight and space restrictions associated with the TH-57, liferafts are not required.
-
-
 
 [c]: https://img.shields.io/badge/TH--57-C-orange.svg?style=flat-square
 [b]: https://img.shields.io/badge/TH--57-B-blue.svg?style=flat-square
