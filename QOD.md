@@ -37,6 +37,7 @@
 1. [Main Generator Failure](#main-generator-failure)
 1. [Standby Generator Failure](#standby-generator-failure)
 1. [FCS Inverter Failure](#fcs-inverter-failure)
+1. [Avionics Inverter Failure](#avionics-inverter-failure)
 
 ## Torquemeter Indicating System Malfunction
 
@@ -334,3 +335,11 @@
 1. Course rules to Site 8, at Pond Creek Bridge, climb to ____ feet MSL and turn to an approximate heading of ___ to intercept Hwy ___.
     1. 1100; 260
     1. RWOP 7-40
+
+## Avionics Inverter Failure
+
+1. What does the transmission accessory drivetrain power?
+    1. NFM 2-19
+1. Inbound to Site 8 for a Welcome Station entry, aircraft shall head east along the north side of ____ at ____ feet MSL and ___ KIAS
+    1. I-10; 700; 100
+    1. RWOP 7-41
