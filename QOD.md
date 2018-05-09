@@ -38,6 +38,11 @@
 1. [Standby Generator Failure](#standby-generator-failure)
 1. [FCS Inverter Failure](#fcs-inverter-failure)
 1. [Avionics Inverter Failure](#avionics-inverter-failure)
+1. [Electrical Fire - Unknown Origin](#electrical-fire---unknown-origin)
+1. [Electrical Fire - Known Origin](#electrical-fire---known-origin)
+1. [Smoke and Fume Elimination](#smoke-and-fume-elimination)
+1. [Hydraulic System Failure](#hydraulic-system-failure)
+
 
 ## Torquemeter Indicating System Malfunction
 
@@ -343,3 +348,23 @@
 1. Inbound to Site 8 for a Welcome Station entry, aircraft shall head east along the north side of ____ at ____ feet MSL and ___ KIAS
     1. I-10; 700; 100
     1. RWOP 7-41
+
+## Electrical Fire - Unknown Origin
+
+1. What is the purpose of the accumulator cans, and where are they located?
+1. The departure corner at Site 8 is the __________ corner
+
+## Electrical Fire - Known Origin
+
+1. How many chip detectors are installed on the aircraft?
+1. How is Point WHISKEY defined?
+
+## Smoke and Fume Elimination
+
+1. The oil cooling fan provides cooling air for what components?
+1. A maximum of ___ aircraft may operate at NOLF Spencer.
+
+## Hydraulic System Failure
+
+1. What type of construction is the tailboom?  What is the benefit of this design?
+1. At NOLF Spencer, how is No Man's Land defined?
