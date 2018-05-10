@@ -42,6 +42,13 @@
 1. [Electrical Fire - Known Origin](#electrical-fire---known-origin)
 1. [Smoke and Fume Elimination](#smoke-and-fume-elimination)
 1. [Hydraulic System Failure](#hydraulic-system-failure)
+1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
+1. [High Frequency Vibrations](#high-frequency-vibrations)
+1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
+1. [Fixed Pitch Right Pedal](#fixed-pitch-right-pedal)
+1. [Fixed Pitch Left Pedal](#fixed-pitch-left-pedal)
+1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
+1. [Ng Tachometer/TOT Indicating System Malfunction](#ng-tachometertot-indicating-system-malfunction)
 
 
 ## Torquemeter Indicating System Malfunction
@@ -352,19 +359,91 @@
 ## Electrical Fire - Unknown Origin
 
 1. What is the purpose of the accumulator cans, and where are they located?
+    1. NFM 2-4
+    1. Two accumulator cans are located in the line between the N f governor and N g fuel control to eliminate transient air surges in governor reset pressure from the governor to the fuel control, resulting in smoother fuel control and engine power response.
 1. The departure corner at Site 8 is the __________ corner
+    1. SE
+    1. RWOP 7-41
 
 ## Electrical Fire - Known Origin
 
 1. How many chip detectors are installed on the aircraft?
+    1. 6 or 7. 2 Engine Oil System (NFM 2-16), 2 or 3 Transmission System (NFM 2-21), 1 Freewheeling Unit (NFM 2-16), and 1 TRGB (NFM 2-21)
 1. How is Point WHISKEY defined?
+    1. Intersection of hwy 90 and Avalon Blvd
+    1. RWOP A-7
 
 ## Smoke and Fume Elimination
 
 1. The oil cooling fan provides cooling air for what components?
+    1. Provided by a squirrel cage type fan, driven by the TR drive shaft system. Also provides cooling air for the transmission oil and the hydraulic reservoir.
+    1. NFM 2-16
 1. A maximum of ___ aircraft may operate at NOLF Spencer.
+    1. 14
+    1. RWOP 7-43
 
 ## Hydraulic System Failure
 
 1. What type of construction is the tailboom?  What is the benefit of this design?
+    1. full-monocoque structure which provides maximum strength-to-weight and rigidity
+    1. NFM 1-1
 1. At NOLF Spencer, how is No Man's Land defined?
+    1. area the width of the apex downwind of the infield to the downwind boundary.
+    1. RWOP 7-46
+
+## Hydraulic Power Cylinder Malfunction
+
+1. What are the sideward flight limitations?
+    1. NFM 4-8
+1. Simulated engine failures while splitting shall only be conducted at _____________ OLF.
+    1. Santa Rosa
+    1. RWOP 3-6
+
+## High Frequency Vibrations
+
+1. What are the rearward flight limitations?
+    1. NFM 4-8
+1. The minimum altitude while performing any night BI maneuver is ____ feet MSL, excluding transitions to and from the working area.
+    1. 1500'
+    1. RWOP 3-9
+
+## Complete Loss of Tail Rotor Thrust
+
+1. What is the maximum recommended rate of climb or descent when IMC?
+    1. NFM 4-9
+1. Solo aircraft shall append the word ____ after their call sign on every radio transmission.
+    1. Solo
+    1. RWOP 4-1
+
+## Fixed Pitch Right Pedal
+
+1. What equipment is required for IMC flight?
+    1. NFM 4-11
+1. Simulated engine failures at altitude shall not be conducted at gross weight above ____ lbs. when the DA exceeds _____ .
+    1. 2900; 1800
+    1. RWOP 3-6
+
+## Fixed Pitch Left Pedal
+
+1. What equipment is required for night flight?
+    1. NFM 4-13
+1. ________ and ________  maneuvers shall not be conducted when gross weight exceeds 2900 lbs.
+    1. Hover/Taxi Cut guns; Power Recovery Autos
+    1. RWOP 3-6
+
+## Loss of Tail Rotor Effectiveness
+
+1. How does an engine failure at a high angle of bank affect helicopter aerodynamic characteristics?
+    1. Holdover from OLD NATOPS
+1. Formation flights shall terminate to the ______________.
+    1. This is a 'should' now. Runway in use
+    1. RWOP 3-8
+
+## Ng Tachometer/TOT Indicating System Malfunction
+
+1. What is the maximum load for the baggage compartment?
+    1. 170
+    1. NFM 6-2
+1. RADALTs shall be set no lower than ____ feet AGL during enroute portions of all VFR night flights.
+    1. 300
+    1. RWOP 3-8
