@@ -43,6 +43,7 @@
 1. [Smoke and Fume Elimination](#smoke-and-fume-elimination)
 1. [Hydraulic System Failure](#hydraulic-system-failure)
 1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
+1. [Jammed Flight Controls/Other Flight Control Malfunctions](#jammed-flight-controlsother-flight-control-malfunctions)
 1. [High Frequency Vibrations](#high-frequency-vibrations)
 1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
 1. [Fixed Pitch Right Pedal](#fixed-pitch-right-pedal)
@@ -398,6 +399,14 @@
 1. Simulated engine failures while splitting shall only be conducted at _____________ OLF.
     1. Santa Rosa
     1. RWOP 3-6
+
+## Jammed Flight Controls/Other Flight Control Malfunctions
+
+1. What type of lubrication system does the engine use?  What is its capacity?
+    1. NFM 2-15
+1. Basic Instrument maneuvers shall not be conducted below _____ feet MSL (____ feet MSL at night), except on a published departure or approach procedure.
+    1. 1000; 1500
+    1. RWOP 9-1
 
 ## High Frequency Vibrations
 
