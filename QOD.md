@@ -45,8 +45,8 @@
 1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
 1. [Jammed Flight Controls/Other Flight Control Malfunctions](#jammed-flight-controlsother-flight-control-malfunctions)
 1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
-1. [High Frequency Vibrations](#high-frequency-vibrations)
 1. [Fixed Pitch Right Pedal](#fixed-pitch-right-pedal)
+1. [High Frequency Vibrations](#high-frequency-vibrations)
 1. [Fixed Pitch Left Pedal](#fixed-pitch-left-pedal)
 1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
 1. [Ng Tachometer/TOT Indicating System Malfunction](#ng-tachometertot-indicating-system-malfunction)
@@ -416,14 +416,6 @@
     1. Solo
     1. RWOP 4-1
 
-## High Frequency Vibrations
-
-1. What are the rearward flight limitations?
-    1. NFM 4-8
-1. The minimum altitude while performing any night BI maneuver is ____ feet MSL, excluding transitions to and from the working area.
-    1. 1500'
-    1. RWOP 3-9
-
 ## Fixed Pitch Right Pedal
 
 1. What equipment is required for IMC flight?
@@ -431,6 +423,14 @@
 1. Simulated engine failures at altitude shall not be conducted at gross weight above ____ lbs. when the DA exceeds _____ .
     1. 2900; 1800
     1. RWOP 3-6
+
+## High Frequency Vibrations
+
+1. What are the rearward flight limitations?
+    1. NFM 4-8
+1. The minimum altitude while performing any night BI maneuver is ____ feet MSL, excluding transitions to and from the working area.
+    1. 1500'
+    1. RWOP 3-9
 
 ## Fixed Pitch Left Pedal
 
