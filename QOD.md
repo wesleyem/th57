@@ -44,8 +44,8 @@
 1. [Hydraulic System Failure](#hydraulic-system-failure)
 1. [Hydraulic Power Cylinder Malfunction](#hydraulic-power-cylinder-malfunction)
 1. [Jammed Flight Controls/Other Flight Control Malfunctions](#jammed-flight-controlsother-flight-control-malfunctions)
-1. [High Frequency Vibrations](#high-frequency-vibrations)
 1. [Complete Loss of Tail Rotor Thrust](#complete-loss-of-tail-rotor-thrust)
+1. [High Frequency Vibrations](#high-frequency-vibrations)
 1. [Fixed Pitch Right Pedal](#fixed-pitch-right-pedal)
 1. [Fixed Pitch Left Pedal](#fixed-pitch-left-pedal)
 1. [Loss of Tail Rotor Effectiveness](#loss-of-tail-rotor-effectiveness)
@@ -408,14 +408,6 @@
     1. 1000; 1500
     1. RWOP 9-1
 
-## High Frequency Vibrations
-
-1. What are the rearward flight limitations?
-    1. NFM 4-8
-1. The minimum altitude while performing any night BI maneuver is ____ feet MSL, excluding transitions to and from the working area.
-    1. 1500'
-    1. RWOP 3-9
-
 ## Complete Loss of Tail Rotor Thrust
 
 1. What is the maximum recommended rate of climb or descent when IMC?
@@ -423,6 +415,14 @@
 1. Solo aircraft shall append the word ____ after their call sign on every radio transmission.
     1. Solo
     1. RWOP 4-1
+
+## High Frequency Vibrations
+
+1. What are the rearward flight limitations?
+    1. NFM 4-8
+1. The minimum altitude while performing any night BI maneuver is ____ feet MSL, excluding transitions to and from the working area.
+    1. 1500'
+    1. RWOP 3-9
 
 ## Fixed Pitch Right Pedal
 
